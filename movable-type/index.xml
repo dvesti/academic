@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Архивы Movable-Type | Dmitrijev.ru</title>
-    <link>http://example.com/movable-type/</link>
-      <atom:link href="http://example.com/movable-type/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://example.com/academic/movable-type/</link>
+      <atom:link href="http://example.com/academic/movable-type/index.xml" rel="self" type="application/rss+xml" />
     <description>Архивы Movable-Type</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru</language>
     <image>
-      <url>http://example.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>http://example.com/academic/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Архивы Movable-Type</title>
-      <link>http://example.com/movable-type/</link>
+      <link>http://example.com/academic/movable-type/</link>
     </image>
     
   </channel>

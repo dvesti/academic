@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Movable-Type | Dmitrijev.ru</title>
-    <link>http://example.com/category/movable-type/</link>
-      <atom:link href="http://example.com/category/movable-type/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://example.com/academic/category/movable-type/</link>
+      <atom:link href="http://example.com/academic/category/movable-type/index.xml" rel="self" type="application/rss+xml" />
     <description>Movable-Type</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru</language><lastBuildDate>Wed, 23 Jul 2008 04:23:42 +0000</lastBuildDate>
     <image>
-      <url>http://example.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>http://example.com/academic/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Movable-Type</title>
-      <link>http://example.com/category/movable-type/</link>
+      <link>http://example.com/academic/category/movable-type/</link>
     </image>
     
     <item>
       <title>Облако русских тэгов для MT</title>
-      <link>http://example.com/2008/07/oblako-russkix-tegov-dlja-mt.php/</link>
+      <link>http://example.com/academic/2008/07/oblako-russkix-tegov-dlja-mt.php/</link>
       <pubDate>Wed, 23 Jul 2008 04:23:42 +0000</pubDate>
-      <guid>http://example.com/2008/07/oblako-russkix-tegov-dlja-mt.php/</guid>
+      <guid>http://example.com/academic/2008/07/oblako-russkix-tegov-dlja-mt.php/</guid>
       <description>&lt;p&gt;Заметил, что при обозначении Тэгов на кириллице (например, Тэг:&lt;i&gt; Блог&lt;/i&gt;) - Облако их считает Отдельными «облачками», а не одним Большим Облаком&amp;hellip;&lt;br /&gt;После перевода (редактирования) на английский - Облако отображается верно&amp;hellip;&lt;/p&gt;
 &lt;p&gt;Уверен, что для русской версии есть решение. Найду напишу здесь. Возможная причина это то, что данный скрипт (движок этого сайта) - это смесь &lt;i&gt;&lt;b&gt;MTOS-4.1-ru-RC1&lt;/b&gt;&lt;/i&gt; и &lt;i&gt;&lt;b&gt;MTP-4.12-en&lt;/b&gt;&lt;/i&gt; и поэтому не всё отображается корректно&amp;hellip;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Установка Movable Type 4 шаг за шагом со скриншотами</title>
-      <link>http://example.com/2008/07/ustanovka-movable-type-4-shag.php/</link>
+      <link>http://example.com/academic/2008/07/ustanovka-movable-type-4-shag.php/</link>
       <pubDate>Sun, 20 Jul 2008 08:42:03 +0000</pubDate>
-      <guid>http://example.com/2008/07/ustanovka-movable-type-4-shag.php/</guid>
+      <guid>http://example.com/academic/2008/07/ustanovka-movable-type-4-shag.php/</guid>
       <description>&lt;p&gt;&lt;span class=&#34;byline&#34;&gt;От &lt;a href=&#34;http://www.superxm.com/&#34;&gt;Nakamura&lt;/a&gt;. В моем переводе. С небольшими дополнениями и изменениями. По этой
 инструкции, с дополнением под моего хостера, удалось запустить MT.
 Оригинал расположен здесь -&lt;/span&gt; &lt;a href=&#34;http://www.superxm.com/2007/08/movable-type-4-installation-step-by-step-with-screenshots.html&#34;&gt;Movable Type 4 installation step by step with screenshots&lt;/a&gt;.&lt;/p&gt;
@@ -135,27 +135,27 @@ Movable Type 4. Для того, чтобы иметь возможность в
     
     <item>
       <title>Приветствие!</title>
-      <link>http://example.com/2008/07/privetstvie.php/</link>
+      <link>http://example.com/academic/2008/07/privetstvie.php/</link>
       <pubDate>Sun, 20 Jul 2008 05:42:13 +0000</pubDate>
-      <guid>http://example.com/2008/07/privetstvie.php/</guid>
+      <guid>http://example.com/academic/2008/07/privetstvie.php/</guid>
       <description>&lt;p&gt;&lt;b&gt;&lt;font style=&#34;font-size: 1.25em;&#34;&gt;Приветствую&lt;/font&gt;&lt;/b&gt; &lt;i&gt;всех&lt;/i&gt;, &lt;u&gt;кто&lt;/u&gt; &lt;strike&gt;пометил&lt;/strike&gt; посетил &lt;a href=&#34;http://www.dmitrijev.ru/&#34;&gt;мою домашнюю страничку&lt;/a&gt;!&lt;/p&gt;
 &lt;p&gt;Расширенный текст&lt;br /&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Шутка</title>
-      <link>http://example.com/2008/04/shutka.php/</link>
+      <link>http://example.com/academic/2008/04/shutka.php/</link>
       <pubDate>Tue, 01 Apr 2008 12:32:54 +0000</pubDate>
-      <guid>http://example.com/2008/04/shutka.php/</guid>
+      <guid>http://example.com/academic/2008/04/shutka.php/</guid>
       <description>&lt;p&gt;Мая пашутилло&lt;/p&gt;
 &lt;p&gt;о, е&amp;hellip;&lt;br /&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Frequently Asked Question</title>
-      <link>http://example.com/2004/03/frequently-asked-question.php/</link>
+      <link>http://example.com/academic/2004/03/frequently-asked-question.php/</link>
       <pubDate>Tue, 02 Mar 2004 02:08:00 +0000</pubDate>
-      <guid>http://example.com/2004/03/frequently-asked-question.php/</guid>
+      <guid>http://example.com/academic/2004/03/frequently-asked-question.php/</guid>
       <description>&lt;p&gt;Recently Movable Style has attracted quite a few visitors (current at
 around 200-300 unique visitors per day), and sorry if I have not
 updated the site or respond to your comments. I have been &lt;em&gt;busy&lt;/em&gt;&lt;/p&gt;
@@ -232,9 +232,9 @@ need time to sit down and code it.&lt;/p&gt;
     
     <item>
       <title>Lines with a Modern Look</title>
-      <link>http://example.com/2004/01/lines-with-a-modern-look.php/</link>
+      <link>http://example.com/academic/2004/01/lines-with-a-modern-look.php/</link>
       <pubDate>Mon, 19 Jan 2004 04:02:00 +0000</pubDate>
-      <guid>http://example.com/2004/01/lines-with-a-modern-look.php/</guid>
+      <guid>http://example.com/academic/2004/01/lines-with-a-modern-look.php/</guid>
       <description>&lt;p&gt;I have just created a new style that utilises &lt;tt&gt;position: relative&lt;/tt&gt;
 to move the display of date to the side of the blog entries. Adding
 borders of different width, and I am trying to give it a modern look.
@@ -257,9 +257,9 @@ I&#39;ll rather to keep this place a small collection of styles of my own.&lt;/p
     
     <item>
       <title>Dual License for Movable Styles</title>
-      <link>http://example.com/2004/01/dual-license-for-movable-style.php/</link>
+      <link>http://example.com/academic/2004/01/dual-license-for-movable-style.php/</link>
       <pubDate>Fri, 16 Jan 2004 11:03:58 +0000</pubDate>
-      <guid>http://example.com/2004/01/dual-license-for-movable-style.php/</guid>
+      <guid>http://example.com/academic/2004/01/dual-license-for-movable-style.php/</guid>
       <description>&lt;p&gt;Thanks to suggestion from &lt;a href=&#34;http://www.eadz.co.nz/&#34;&gt;Eaden&lt;/a&gt;, cascading style sheets on Movable Style will be dual licensed. Currently it is licensed under &lt;a href=&#34;http://creativecommons.org/licenses/by/1.0/&#34;&gt;Creative Common Attribution 1.0&lt;/a&gt;, which requires everyone who uses of MT styles created by me to give credit to me. That includes all the styles listed except &lt;a href=&#34;http://www.movablestyle.com/archives/000002.php&#34;&gt;Movable Type default styles&lt;/a&gt; (copyright &lt;a href=&#34;http://www.sixapart.com/&#34;&gt;Six Aprt&lt;/a&gt;) and &lt;a href=&#34;http://www.movablestyle.com/archives/000013.php&#34;&gt;Lovingrey&lt;/a&gt; (copyright &lt;a href=&#34;http://wavez.weblogs.us/&#34;&gt;Wavez&lt;/a&gt;). Now these styles can also be licensed under &lt;a href=&#34;http://www.gnu.org/copyleft/gpl.html&#34;&gt;GNU Public License 2&lt;/a&gt;, so that it can be modified and included into another weblogging tool, like PHP/Smarty based &lt;a href=&#34;http://www.bblog.com/&#34;&gt;BBlog&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Complicated? I think so as well. I am by no means a license expert, and
 I have never heard of GPLing a CSS file. But somehow this arrangement
@@ -271,9 +271,9 @@ spirit of Free Software.&lt;/p&gt;</description>
     
     <item>
       <title>Lovingrey</title>
-      <link>http://example.com/2003/12/lovingrey.php/</link>
+      <link>http://example.com/academic/2003/12/lovingrey.php/</link>
       <pubDate>Thu, 18 Dec 2003 12:59:58 +0000</pubDate>
-      <guid>http://example.com/2003/12/lovingrey.php/</guid>
+      <guid>http://example.com/academic/2003/12/lovingrey.php/</guid>
       <description>&lt;p&gt;We have the first style submission yesterday. &lt;a href=&#34;http://wavez.weblogs.us/&#34;&gt;Wavez&lt;/a&gt; modified my &lt;a href=&#34;http://web.archive.org/web/20040202204720/http://www.movablestyle.com/archives/archives/000008.php&#34;&gt;Purple Orange&lt;/a&gt; theme, and created a dark-grey&#39;ish Movable Type style called &#34;Lovingrey&#34;, and have requested to be included here.&lt;/p&gt;
 &lt;blockquote&gt;Apply &lt;a href=&#34;http://www.movablestyle.com/archives/2003-12.php?style=Lovingrey&#34;&gt;Lovingrey&lt;/a&gt; style&lt;br /&gt;&lt;br /&gt;&lt;span class=&#34;mt-enclosure mt-enclosure-image&#34; style=&#34;display: inline;&#34;&gt;&lt;img alt=&#34;lovingrey.gif&#34; src=&#34;http://www.dmitrijev.ru/2008/07/29/lovingrey.gif&#34; class=&#34;mt-image-none&#34; style=&#34;&#34; height=&#34;197&#34; width=&#34;300&#34; /&gt;&lt;/span&gt;&lt;br /&gt;&lt;/blockquote&gt;
 &lt;p&gt;I do like to take more submission, especially original styles :)&lt;/p&gt;
@@ -282,9 +282,9 @@ spirit of Free Software.&lt;/p&gt;</description>
     
     <item>
       <title>Enter The Matrix</title>
-      <link>http://example.com/2003/11/enter-the-matrix.php/</link>
+      <link>http://example.com/academic/2003/11/enter-the-matrix.php/</link>
       <pubDate>Wed, 12 Nov 2003 03:57:37 +0000</pubDate>
-      <guid>http://example.com/2003/11/enter-the-matrix.php/</guid>
+      <guid>http://example.com/academic/2003/11/enter-the-matrix.php/</guid>
       <description>&lt;p&gt;Here&#39;s a new Movale Type style that I&#39;ve created with an &lt;a href=&#34;http://whatisthematrix.warnerbros.com/rl-img/poster7.jpg&#34;&gt;image&lt;/a&gt; from the &lt;a href=&#34;http://web.archive.org/web/20040202204221/http://us.imdb.com/title/tt0234215/&#34;&gt;Matrix Reloaded&lt;/a&gt; poster.&lt;/p&gt;
 &lt;blockquote&gt;
 Apply &lt;a href=&#34;http://www.movablestyle.com/archives/2003-11.php?style=Matrix-Code&#34;&gt;Matrix Code&lt;/a&gt; style&lt;br /&gt;&lt;span class=&#34;mt-enclosure mt-enclosure-image&#34; style=&#34;display: inline;&#34;&gt;&lt;img alt=&#34;matrix-code.gif&#34; src=&#34;http://www.dmitrijev.ru/2008/07/29/matrix-code.gif&#34; class=&#34;mt-image-none&#34; style=&#34;&#34; height=&#34;197&#34; width=&#34;300&#34; /&gt;&lt;/span&gt;&lt;br /&gt;
@@ -300,9 +300,9 @@ files.&lt;/p&gt;</description>
     
     <item>
       <title>Style with Mac Stripe</title>
-      <link>http://example.com/2003/10/style-with-mac-stripe.php/</link>
+      <link>http://example.com/academic/2003/10/style-with-mac-stripe.php/</link>
       <pubDate>Sun, 26 Oct 2003 03:20:09 +0000</pubDate>
-      <guid>http://example.com/2003/10/style-with-mac-stripe.php/</guid>
+      <guid>http://example.com/academic/2003/10/style-with-mac-stripe.php/</guid>
       <description>&lt;p&gt;I have been trying to come up with a style that assembles the look of &lt;a href=&#34;http://web.archive.org/web/20040405155230/http://www.apple.com/&#34;&gt;Apple&lt;/a&gt;&#39;s
 operating system, but has found it quite difficult without modifying
 the template file, as the UI is quite graphical intensive with lots of
@@ -317,9 +317,9 @@ and call this new style &#34;Mac Stripe&#34;&lt;/p&gt;
     
     <item>
       <title>Moving Site</title>
-      <link>http://example.com/2003/10/moving-site.php/</link>
+      <link>http://example.com/academic/2003/10/moving-site.php/</link>
       <pubDate>Tue, 14 Oct 2003 06:10:57 +0000</pubDate>
-      <guid>http://example.com/2003/10/moving-site.php/</guid>
+      <guid>http://example.com/academic/2003/10/moving-site.php/</guid>
       <description>&lt;p&gt;I have recently registered the domain &lt;tt&gt;movablestyle.com&lt;/tt&gt;, and
 will serve this site at that same domain, using a separate MovableType
 database. It will still be on the same old home build Linux server
@@ -333,9 +333,9 @@ yet...&lt;/li&gt;&lt;/ul&gt;</description>
     
     <item>
       <title>Preferred/Alternate Stylesheet</title>
-      <link>http://example.com/2003/10/preferredalternate-stylesheet.php/</link>
+      <link>http://example.com/academic/2003/10/preferredalternate-stylesheet.php/</link>
       <pubDate>Mon, 13 Oct 2003 07:13:23 +0000</pubDate>
-      <guid>http://example.com/2003/10/preferredalternate-stylesheet.php/</guid>
+      <guid>http://example.com/academic/2003/10/preferredalternate-stylesheet.php/</guid>
       <description>&lt;p&gt;One feature in the latest &lt;a href=&#34;http://www.mozilla.org/products/firebird/&#34;&gt;Mozilla Firebird&lt;/a&gt; is the ability to easily switch between different &lt;a href=&#34;http://www.w3.org/TR/REC-html40/present/styles.html#h-14.3.1&#34;&gt;alternate stylesheets&lt;/a&gt;
 provided by the document. It allows the author of the site to provide
 personalised look &amp;lsquo;n&amp;rsquo; feel, without changing the HTML source
@@ -355,9 +355,9 @@ out the bandwidth a bit.&lt;/p&gt;</description>
     
     <item>
       <title>Hitting with a bit or warmth</title>
-      <link>http://example.com/2003/10/hitting-with-a-bit-or-warmth.php/</link>
+      <link>http://example.com/academic/2003/10/hitting-with-a-bit-or-warmth.php/</link>
       <pubDate>Sun, 05 Oct 2003 03:08:29 +0000</pubDate>
-      <guid>http://example.com/2003/10/hitting-with-a-bit-or-warmth.php/</guid>
+      <guid>http://example.com/academic/2003/10/hitting-with-a-bit-or-warmth.php/</guid>
       <description>&lt;p&gt;For the themes that I have created so far, you can see that I
 usually favour bright cold colour (either green or blue with white
 background). I decided that I want to try out something different
@@ -374,9 +374,9 @@ into my collection of MovableType style sheets.&lt;/p&gt;
     
     <item>
       <title>Slashdot Style</title>
-      <link>http://example.com/2003/10/slashdot-style.php/</link>
+      <link>http://example.com/academic/2003/10/slashdot-style.php/</link>
       <pubDate>Sat, 04 Oct 2003 05:06:05 +0000</pubDate>
-      <guid>http://example.com/2003/10/slashdot-style.php/</guid>
+      <guid>http://example.com/academic/2003/10/slashdot-style.php/</guid>
       <description>&lt;p&gt;I have been reading &lt;a href=&#34;http://slashdot.org/&#34;&gt;Slashdot&lt;/a&gt;
 for at least 5-6 years I think, and it has to be one of the pioneers of
 weblogs. Even through it pushes out dozens of technology-related news
@@ -396,9 +396,9 @@ template...&lt;/p&gt;
     
     <item>
       <title>Plain Blue</title>
-      <link>http://example.com/2003/10/plain-blue.php/</link>
+      <link>http://example.com/academic/2003/10/plain-blue.php/</link>
       <pubDate>Sat, 04 Oct 2003 03:04:03 +0000</pubDate>
-      <guid>http://example.com/2003/10/plain-blue.php/</guid>
+      <guid>http://example.com/academic/2003/10/plain-blue.php/</guid>
       <description>&lt;p&gt;Getting sick of border of different shade wrapping around each
 other? This style is much plainer than the previous boxed styles. It
 places the #links side bar to the right hand side, flowing down from
@@ -412,9 +412,9 @@ of the page height...&lt;/p&gt;
     
     <item>
       <title>Another boxed style</title>
-      <link>http://example.com/2008/07/privetstvie.php/</link>
+      <link>http://example.com/academic/2008/07/privetstvie.php/</link>
       <pubDate>Sat, 04 Oct 2003 01:01:01 +0000</pubDate>
-      <guid>http://example.com/2008/07/privetstvie.php/</guid>
+      <guid>http://example.com/academic/2008/07/privetstvie.php/</guid>
       <description>&lt;p&gt;Well. There is nothing new in this one, but turning the &lt;a href=&#34;http://www.movablestyle.com/archives/000004.php&#34;&gt;previous style&lt;/a&gt; into a different colour theme, to prove that it is actually easy to take an existing style and change its colours.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;a href=&#34;http://www.movablestyle.com/archives/2003-10.php?style=Boxed-Green&#34;&gt;Boxed Theme in Green&lt;/a&gt;
@@ -423,9 +423,9 @@ of the page height...&lt;/p&gt;
     
     <item>
       <title>A boxed style</title>
-      <link>http://example.com/2003/09/a-boxed-style.php/</link>
+      <link>http://example.com/academic/2003/09/a-boxed-style.php/</link>
       <pubDate>Tue, 09 Sep 2003 02:58:40 +0000</pubDate>
-      <guid>http://example.com/2003/09/a-boxed-style.php/</guid>
+      <guid>http://example.com/academic/2003/09/a-boxed-style.php/</guid>
       <description>&lt;p&gt;I&#39;ve created a style that has bolders in neverly every DIV&#39;s, to
 help me to visualise the actual boundary. It has a gray scale theme,
 and #content and #links are positioned using absolute position. Here&#39;s
@@ -437,9 +437,9 @@ the theme:&lt;/p&gt;
     
     <item>
       <title>TypePad-Look-Alike Stylesheet</title>
-      <link>http://example.com/2003/09/typepadlookalike-stylesheet.php/</link>
+      <link>http://example.com/academic/2003/09/typepadlookalike-stylesheet.php/</link>
       <pubDate>Thu, 04 Sep 2003 02:56:00 +0000</pubDate>
-      <guid>http://example.com/2003/09/typepadlookalike-stylesheet.php/</guid>
+      <guid>http://example.com/academic/2003/09/typepadlookalike-stylesheet.php/</guid>
       <description>&lt;p&gt;This is the first stylesheet that I&#39;ve done for MovableStyle site!
 Well. The look &#39;n&#39; feel is nothing original, but imitate many existing
 sites on &lt;a href=&#34;http://www.typepad.com/&#34;&gt;TypePad.com&lt;/a&gt;, including Claudine&#39;s beta testing site.&lt;/p&gt;
@@ -465,9 +465,9 @@ Mozilla users will loose out. At the end, I just set up a fixed margin
     
     <item>
       <title>Default Styles from Movable Type</title>
-      <link>http://example.com/2003/09/default-styles-from-movable-ty.php/</link>
+      <link>http://example.com/academic/2003/09/default-styles-from-movable-ty.php/</link>
       <pubDate>Wed, 03 Sep 2003 05:52:37 +0000</pubDate>
-      <guid>http://example.com/2003/09/default-styles-from-movable-ty.php/</guid>
+      <guid>http://example.com/academic/2003/09/default-styles-from-movable-ty.php/</guid>
       <description>&lt;p&gt;These are the default stylesheets &lt;a href=&#34;http://www.movabletype.org/default-styles.shtml&#34;&gt;listed&lt;/a&gt; on the Movable Type website. These are probably the most common styles you&amp;rsquo;ll see around the web.&lt;/p&gt;
 &lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&#34;http://www.movablestyle.com/archives/2003-09.php?style=MovableType-Clean&#34;&gt;Clean&lt;/a&gt;&lt;/p&gt;
@@ -482,9 +482,9 @@ Mozilla users will loose out. At the end, I just set up a fixed margin
     
     <item>
       <title>First Entry</title>
-      <link>http://example.com/2003/09/first-entry.php/</link>
+      <link>http://example.com/academic/2003/09/first-entry.php/</link>
       <pubDate>Wed, 03 Sep 2003 02:47:48 +0000</pubDate>
-      <guid>http://example.com/2003/09/first-entry.php/</guid>
+      <guid>http://example.com/academic/2003/09/first-entry.php/</guid>
       <description>&lt;p&gt;I am starting this new blog to collect good CSS style sheets that
 work with the stock Movable Type template. Movable Type is powerful,
 and with its template engine, one can customise an unique blogsite by

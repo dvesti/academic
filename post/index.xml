@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Dmitrijev.ru</title>
-    <link>http://example.com/post/</link>
-      <atom:link href="http://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://example.com/academic/post/</link>
+      <atom:link href="http://example.com/academic/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru</language><lastBuildDate>Tue, 19 May 2020 16:31:46 +0300</lastBuildDate>
     <image>
-      <url>http://example.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>http://example.com/academic/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
-      <link>http://example.com/post/</link>
+      <link>http://example.com/academic/post/</link>
     </image>
     
     <item>
       <title>My Article Name</title>
-      <link>http://example.com/post/my-article-name/</link>
+      <link>http://example.com/academic/post/my-article-name/</link>
       <pubDate>Tue, 19 May 2020 16:31:46 +0300</pubDate>
-      <guid>http://example.com/post/my-article-name/</guid>
+      <guid>http://example.com/academic/post/my-article-name/</guid>
       <description>&lt;p&gt;проверка&lt;/p&gt;
 &lt;p&gt;Два притопа &amp;ndash; три &lt;strong&gt;прихлопа&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://www.dmitriev.ee/punbb/extensions/chess_diagram/gendiag-jane.php?coord&amp;amp;size=29&amp;amp;style=merida&amp;amp;fen=r1bq1rk1/p1p2pb1/1p1p3p/2nPp1p1/2P1P3/2NB1NP1/PP2QPP1/R3R1K1+w+-+-+0+15&#34; alt=&#34;Диаграмма&#34;&gt;
@@ -89,9 +89,9 @@ Bob--&amp;gt;&amp;gt;John: Jolly good!
     
     <item>
       <title>Программа «A»</title>
-      <link>http://example.com/post/a/</link>
+      <link>http://example.com/academic/post/a/</link>
       <pubDate>Mon, 18 May 2020 02:57:17 +0300</pubDate>
-      <guid>http://example.com/post/a/</guid>
+      <guid>http://example.com/academic/post/a/</guid>
       <description>&lt;p&gt;Всем привет!&lt;/p&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -302,9 +302,9 @@ datahere&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
     
     <item>
       <title>Writing technical content in Academic</title>
-      <link>http://example.com/post/writing-technical-content/</link>
+      <link>http://example.com/academic/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>http://example.com/post/writing-technical-content/</guid>
+      <guid>http://example.com/academic/post/writing-technical-content/</guid>
       <description>&lt;p&gt;Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Academic.&lt;/p&gt;
@@ -536,9 +536,9 @@ A Markdown aside is useful for displaying notices, hints, or definitions to your
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>http://example.com/post/jupyter/</link>
+      <link>http://example.com/academic/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://example.com/post/jupyter/</guid>
+      <guid>http://example.com/academic/post/jupyter/</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
 Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
 &lt;/code&gt;&lt;/pre&gt;
@@ -585,9 +585,9 @@ date: 2019-09-01
     
     <item>
       <title>Academic: the website builder for Hugo</title>
-      <link>http://example.com/post/getting-started/</link>
+      <link>http://example.com/academic/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://example.com/post/getting-started/</guid>
+      <guid>http://example.com/academic/post/getting-started/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or 

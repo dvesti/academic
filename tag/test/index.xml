@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>test | Dmitrijev.ru</title>
-    <link>http://example.com/tag/test/</link>
-      <atom:link href="http://example.com/tag/test/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://example.com/academic/tag/test/</link>
+      <atom:link href="http://example.com/academic/tag/test/index.xml" rel="self" type="application/rss+xml" />
     <description>test</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru</language><lastBuildDate>Mon, 18 May 2020 02:57:17 +0300</lastBuildDate>
     <image>
-      <url>http://example.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>http://example.com/academic/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>test</title>
-      <link>http://example.com/tag/test/</link>
+      <link>http://example.com/academic/tag/test/</link>
     </image>
     
     <item>
       <title>Программа «A»</title>
-      <link>http://example.com/post/a/</link>
+      <link>http://example.com/academic/post/a/</link>
       <pubDate>Mon, 18 May 2020 02:57:17 +0300</pubDate>
-      <guid>http://example.com/post/a/</guid>
+      <guid>http://example.com/academic/post/a/</guid>
       <description>&lt;p&gt;Всем привет!&lt;/p&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
