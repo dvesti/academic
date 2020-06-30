@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Movable-Type | Dmitrijev.ru</title>
+    <link>/category/movable-type/</link>
+      <atom:link href="/category/movable-type/index.xml" rel="self" type="application/rss+xml" />
+    <description>Movable-Type</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru</language><lastBuildDate>Wed, 23 Jul 2008 04:23:42 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Movable-Type</title>
+      <link>/category/movable-type/</link>
+    </image>
+    
+    <item>
+      <title>Облако русских тэгов для MT</title>
+      <link>/2008/07/oblako-russkix-tegov-dlja-mt.php/</link>
+      <pubDate>Wed, 23 Jul 2008 04:23:42 +0000</pubDate>
+      <guid>/2008/07/oblako-russkix-tegov-dlja-mt.php/</guid>
+      <description>&lt;p&gt;Заметил, что при обозначении Тэгов на кириллице (например, Тэг:&lt;i&gt; Блог&lt;/i&gt;) - Облако их считает Отдельными «облачками», а не одним Большим Облаком&amp;hellip;&lt;br /&gt;После перевода (редактирования) на английский - Облако отображается верно&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Уверен, что для русской версии есть решение. Найду напишу здесь. Возможная причина это то, что данный скрипт (движок этого сайта) - это смесь &lt;i&gt;&lt;b&gt;MTOS-4.1-ru-RC1&lt;/b&gt;&lt;/i&gt; и &lt;i&gt;&lt;b&gt;MTP-4.12-en&lt;/b&gt;&lt;/i&gt; и поэтому не всё отображается корректно&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Установка Movable Type 4 шаг за шагом со скриншотами</title>
+      <link>/2008/07/ustanovka-movable-type-4-shag.php/</link>
+      <pubDate>Sun, 20 Jul 2008 08:42:03 +0000</pubDate>
+      <guid>/2008/07/ustanovka-movable-type-4-shag.php/</guid>
+      <description>&lt;p&gt;&lt;span class=&#34;byline&#34;&gt;От &lt;a href=&#34;http://www.superxm.com/&#34;&gt;Nakamura&lt;/a&gt;. В моем переводе. С небольшими дополнениями и изменениями. По этой
+инструкции, с дополнением под моего хостера, удалось запустить MT.
+Оригинал расположен здесь -&lt;/span&gt; &lt;a href=&#34;http://www.superxm.com/2007/08/movable-type-4-installation-step-by-step-with-screenshots.html&#34;&gt;Movable Type 4 installation step by step with screenshots&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Вышла новая, хорошая платформа для ведения блогов - &lt;i&gt;Movable Type 4&lt;/i&gt; и
+эта короткая и простая инструкция поможет вам установить этот движок.
+Это просто, поверьте!&lt;/p&gt;
+&lt;p&gt;Вот все, что вам необходимо для этого сделать:&lt;/p&gt;
+&lt;ol&gt;&lt;li&gt;Подготовить базу данных&lt;/li&gt;&lt;li&gt;Скачать&lt;/li&gt;&lt;li&gt;Разархивировать&lt;/li&gt;&lt;li&gt;Загрузить&lt;/li&gt;&lt;li&gt;Изменить атрибуты файлов&lt;/li&gt;&lt;li&gt;Установить&lt;/li&gt;&lt;li&gt;Сконфигурировать&lt;/li&gt;&lt;li&gt;Войти&amp;nbsp; &lt;/li&gt;&lt;/ol&gt;
+&lt;p&gt;&lt;span id=&#34;more-314&#34;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;1. Прежде чем начать&lt;/b&gt;, зайдите в административную панель вашего
+хостера, и создайте новую SQL базу данных. Скопируйте куда-нибудь себе
+инофрмацию о созданной базе данных - &lt;i&gt;database name, database username,
+database username password&lt;/i&gt; и в некоторых случаях &#39;&lt;i&gt;database server&lt;/i&gt;&#39; - не
+у всех хостеров это &#39;&lt;i&gt;localhost&#39;&lt;/i&gt;. Все эти данные вам понадобятся немного
+позже. Вы не знаете о чем речь? Тогда попросите помощи у вашего
+компьютерного Гуру, у друзей или у вашего хостера. Они скорее
+всего вам смогут помочь.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;2. Скачайте Movable Type 4&lt;/b&gt;, и чтобы быть уверенным что у вас последняя, стабильная версия MT4, скачивайте с официального сайта &lt;a href=&#34;http://www.movabletype.com/&#34; title=&#34;Movable Type 4&#34;&gt;http://www.movabletype.com/&lt;/a&gt;
+идите там в раздел &#34;&lt;i&gt;Download/Buy&lt;/i&gt;&#34; и жмите там &#34;&lt;i&gt;Free Personal License&lt;/i&gt;&#34; и
+выбирайте файл соотвтетственно вашей операционной системе (как правило
+Windows). Затем выберите язык, тут пожалуй кроме Английского выбирать
+то и нечего для нас. Не забудьте поставить галочку возле &#34;I accept ...&#34; и
+загрузите файл на ваш компьютер.&lt;br /&gt;&lt;img alt=&#34;Movable Type 4&#34; src=&#34;http://www.superxm.com/images/mt4-installation-01.jpg&#34; class=&#34;border&#34; /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;3&lt;b&gt;. Разархивируйте этот файл&lt;/b&gt;. В развернутом виде он будет занимать 11
+мегабайт. Чтобы разархивировать скачанный архив, вы можете
+воспользоваться программой &lt;a href=&#34;http://www.rarlab.com/&#34;&gt;WinRar&lt;/a&gt;. После того, как вы разархивируете, у вас вместо одного файла получится много других файлов и папок.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.superxm.com/images/mt4-installation-02.jpg&#34; height=&#34;99&#34; width=&#34;307&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.superxm.com/images/mt4-installation-03.jpg&#34; height=&#34;99&#34; width=&#34;307&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.superxm.com/images/mt4-installation-04.jpg&#34; height=&#34;510&#34; width=&#34;356&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;И.. Если ваш блог расположен на серверах GoDaddy, прежде чем
+приступать к следующему пункту, необходимо произвести некоторые
+изменения. Во всех файлах с расширением cgi необходимо поменять первую
+строчк, которая должна будет выглядеть после изменения следующим
+образом -&lt;/p&gt;
+&lt;pre&gt;&lt;i&gt;&lt;code&gt;#!/usr/bin/perl -w -I/path/to/mt_dir/lib&lt;/code&gt;&lt;/i&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;i&gt;где &lt;code&gt;/path/to/mt_dir/lib - полный путь к директории lib&lt;/code&gt;&lt;/i&gt;&lt;/pre&gt;
+&lt;p&gt;Чтобы не мучатся и не делать это все ручками, воспользуйтесь программой &lt;a href=&#34;http://www.rjlsoftware.com/software/utility/search/&#34;&gt;Simple Search-Replace&lt;/a&gt;:&lt;/p&gt;&lt;br /&gt;&lt;p&gt;Где&lt;i&gt; Path to search&lt;/i&gt; укажите путь к вашему разархивированному архиву.
+Поставьте галочку в &lt;i&gt;Search Subdirectories&lt;/i&gt; чтобы изменения были сделаны
+действительно во всех файлах. Притом необходимо чтобы изменения были
+сделаны именно в файлах &lt;b&gt;cgi&lt;/b&gt;, на что указывает строка &lt;i&gt;File types&lt;/i&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Find what text&lt;/i&gt; - тут у меня не было под рукой оригинала, поэтому
+лучше откройте текстовым редактором любой файл cgi и скопируйте первую
+строчку с этим текстом целиком. Ставим галочку в &lt;i&gt;Replace with&lt;/i&gt; и
+изменяем строку на требуемую нам с указанием пути который у вас будет
+на севрере к директории &lt;b&gt;lib&lt;/b&gt; (для &lt;i&gt;Movable Type&lt;/i&gt; естественно) какой он у
+вас будет. Только учтите, что в этой строчке у меня по ошибке пропущено
+# и поэтому в этом плане скриншот некорректный. Затем проверяем что все
+сделали правильно, нажимаем в окне программы на &lt;i&gt;Start&lt;/i&gt;. И после того,
+как замена будет произведена (только если ваш хостер GoDaddy),
+переходим к нашему следующему пункту.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;4.  Теперь осталось загрузить файлы на сервер&lt;/b&gt;. Для удобства можно воспользоваться &lt;a href=&#34;http://filezilla-project.org/&#34;&gt;FileZilla&lt;/a&gt;
+или любой другой аналогичной программой. Создайте на сервере папку, из
+которой вы хотите чтобы работал MT, и перенесите разархивированный
+архив, сохранив его структуру. Файлы можно скопировать в корень вашего
+сервиса, и тогда MT будет доступна по адресу вашдомен.com или же в
+папку, и тогда MT будет доступна по адресу вашдомен.com/вашапапка/.
+Если у вас не очень быстрый интернет, то можете выпить сколько то
+кружек чая с пирожными, пока копируются файлы&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.superxm.com/images/mt4-installation-05.jpg&#34; height=&#34;410&#34; width=&#34;294&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;5. Устанавливаем правильный chmod на файлы&lt;/b&gt;. Не пугайтесь, ничего
+сложного - нужно лишь выбрать файлы и изменить их свойства. Сложности
+тут возникнут только лишь если сервер на котором вы пытаетесь это
+сделать, принадлежит Пентагону, или же находится в каком-либо другом
+месте и админ страдает параноей по отношению к безопасности. Если вы
+используете FileZilla то этот процесс выглядит очень просто. Писать
+даже ничего не буду - все видно на картинках:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.superxm.com/images/mt4-installation-06.jpg&#34; height=&#34;240&#34; width=&#34;208&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.superxm.com/images/mt4-installation-07.jpg&#34; height=&#34;329&#34; width=&#34;457&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;6. А сейчас настало время установки&lt;/b&gt;. Наберите в вашем броузере
+адрес, куда вы закачали &lt;i&gt;Movable Type&lt;/i&gt;. Это &lt;b&gt;вашдомен.com&lt;/b&gt; или
+&lt;b&gt;вашдомен.com/вашадиректория /&lt;/b&gt; или что-либо еще в зависимости от того,
+куда вы разместили файлы. И вы должны будете увидеть это.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.superxm.com/images/mt4-installation-08.jpg&#34; height=&#34;300&#34; width=&#34;278&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Подождите 5-10 секунд, и вас автоматически перекинет на страничку для инсталяции:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.superxm.com/images/mt4-installation-09.jpg&#34; height=&#34;150&#34; width=&#34;268&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;И переходите к следующему этапу, на котором система проверит различные вещи&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.superxm.com/images/mt4-installation-10.jpg&#34; height=&#34;219&#34; width=&#34;270&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;И если все в порядке (вы ведь все правильно сделали?) вводим в
+соответствующие поля сохраненную нами в первом пункте информацию (вы
+ведь ее сохранили, да?). Заполнив все жмем &#39;&lt;i&gt;test connection&lt;/i&gt;&#39;:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.superxm.com/images/mt4-installation-11.jpg&#34; height=&#34;419&#34; width=&#34;270&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Отлично, мы настроили подключение с базой данных, и приступим к следующему шагу&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.superxm.com/images/mt4-installation-12.jpg&#34; height=&#34;208&#34; width=&#34;270&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Где нас попросят настроить почту. Нет проблем - выбираем &#34;&lt;i&gt;sendmail&#34;&lt;/i&gt;,
+вводим наш &lt;i&gt;email &lt;/i&gt;и проверяем что оно работает. Для этого жмите &#39;&lt;i&gt;send
+test email&lt;/i&gt;&#39; и проверяйте вашу электронную почту. Продолжаем наши пляски
+с бубном дальше.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.superxm.com/images/mt4-installation-13.jpg&#34; height=&#34;226&#34; width=&#34;270&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.superxm.com/images/mt4-installation-14.jpg&#34; height=&#34;302&#34; width=&#34;270&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Вот мы уже почти подобрались к концу. Конфигурационный файл создан, жмем &#39;&lt;i&gt;continue&lt;/i&gt;&#39;:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.superxm.com/images/mt4-installation-15.jpg&#34; height=&#34;254&#34; width=&#34;270&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;7. Теперь нам надо создать свою учетную запись в системе&lt;/b&gt;. Вы в ней
+админ, и вольны ввести то, что желаете. Не забудьте указать вш
+работающий email адрес, ну и не забудьте придуманный пароль.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.superxm.com/images/mt4-installation-16.jpg&#34; height=&#34;449&#34; width=&#34;270&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Дальше необходимо ввести базовую информацию о вашем блоге. Его название, адрес, (url).Настроив, жмите  &#34;&lt;i&gt;Finish install&lt;/i&gt;&#34;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.superxm.com/images/mt4-installation-17.jpg&#34; height=&#34;367&#34; width=&#34;270&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Какое-то время смотрите на&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.superxm.com/images/mt4-installation-18.jpg&#34; height=&#34;304&#34; width=&#34;270&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;И затем появится информация о том, что инсталяция закончена.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.superxm.com/images/mt4-installation-19.jpg&#34; height=&#34;290&#34; width=&#34;270&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;8. Вы можете зайти нажав на &#39;sign in...&#34; и попадете в зону
+администрирования платформой.&lt;/b&gt; Откуда вы сможете изучать и управлять
+Movable Type 4. Для того, чтобы иметь возможность всегда попасть в
+админку MT используйте адрес &#34;&lt;b&gt;www.yoursite.com/mt.cgi&lt;/b&gt;&#34; или другой, в
+зависимости от того, куда вы установили MT.&lt;/p&gt;&lt;a href=&#34;http://www.daarh.net/2007/10/ustanovka-movable-type-4-shag-za-shagom.html&#34; target=&#34;_blank&#34;&gt;Источник&lt;/a&gt;</description>
+    </item>
+    
+    <item>
+      <title>Приветствие!</title>
+      <link>/2008/07/privetstvie.php/</link>
+      <pubDate>Sun, 20 Jul 2008 05:42:13 +0000</pubDate>
+      <guid>/2008/07/privetstvie.php/</guid>
+      <description>&lt;p&gt;&lt;b&gt;&lt;font style=&#34;font-size: 1.25em;&#34;&gt;Приветствую&lt;/font&gt;&lt;/b&gt; &lt;i&gt;всех&lt;/i&gt;, &lt;u&gt;кто&lt;/u&gt; &lt;strike&gt;пометил&lt;/strike&gt; посетил &lt;a href=&#34;http://www.dmitrijev.ru/&#34;&gt;мою домашнюю страничку&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;Расширенный текст&lt;br /&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Шутка</title>
+      <link>/2008/04/shutka.php/</link>
+      <pubDate>Tue, 01 Apr 2008 12:32:54 +0000</pubDate>
+      <guid>/2008/04/shutka.php/</guid>
+      <description>&lt;p&gt;Мая пашутилло&lt;/p&gt;
+&lt;p&gt;о, е&amp;hellip;&lt;br /&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Frequently Asked Question</title>
+      <link>/2004/03/frequently-asked-question.php/</link>
+      <pubDate>Tue, 02 Mar 2004 02:08:00 +0000</pubDate>
+      <guid>/2004/03/frequently-asked-question.php/</guid>
+      <description>&lt;p&gt;Recently Movable Style has attracted quite a few visitors (current at
+around 200-300 unique visitors per day), and sorry if I have not
+updated the site or respond to your comments. I have been &lt;em&gt;busy&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;just moved to a new place that needs lots of work, wife expecting a
+baby in July, lots of demand at work, working with new students at
+church, etc. I will try to answer some of your questions this entry,
+and hopefully when I finally have more time on hand (if ever), I would
+go back to work on more styles.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3&gt;FAQ Index&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://www.movablestyle.com/archives/2004-03.php#20040302-1&#34;&gt;Can I use the stylesheets that I downloaded from Movable Style on my own blog site(s)?&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;http://www.movablestyle.com/archives/2004-03.php#20040302-2&#34;&gt;How do I use the stylesheets on Movable Style?&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;http://www.movablestyle.com/archives/2004-03.php#20040302-3&#34;&gt;How are the stylesheets licensed?&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;http://www.movablestyle.com/archives/2004-03.php#20040302-4&#34;&gt;How do I attribute to Movable Style?&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;http://www.movablestyle.com/archives/2004-03.php#20040302-5&#34;&gt;There is no update for &lt;em&gt;ages&lt;/em&gt;! What&#39;s the future direction for this site?&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;http://www.movablestyle.com/archives/2004-03.php#20040302-6&#34;&gt;How do I contact you, this &#34;scotty&#34; guy?&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;http://www.movablestyle.com/archives/2004-03.php#20040315-1&#34;&gt;How is the style switcher implemented?&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.movablestyle.com/archives/2004-03.php&#34; name=&#34;20040302-1&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Can I use the stylesheets that I downloaded from Movable Style on my own blog site(s)?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Yes.&lt;/p&gt;
+&lt;p&gt;The initial intention of developing this site is to &lt;em&gt;share&lt;/em&gt;
+some of the stylesheets I designed with people who have just started
+blogging, do not want to tinker too much Movable Type templates, and
+want to have a style that is different from the stock ones. All
+stylesheets here are created to be shared, so please use them!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.movablestyle.com/archives/2004-03.php&#34; name=&#34;20040302-2&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;How do I use the stylesheets on Movable Style?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The stylesheets are designed for the Movable Type default templates. Here outlines how you can use the styles.&lt;/p&gt;
+&lt;ol&gt;&lt;li&gt;Go to the &lt;a href=&#34;http://www.movablestyle.com/&#34;&gt;index page&lt;/a&gt;,
+and you should see a side-bar section called &#34;Styles&#34;. Use the
+selection list to change the current style to the one you desire, and
+then click on &lt;img src=&#34;http://web.archive.org/web/20040405163550/http://www.movablestyle.com/image/download.png&#34; alt=&#34;Download File&#34; /&gt; &lt;a href=&#34;http://www.movablestyle.com/styles/MovableType-Clean/styles-site.css&#34;&gt;Download Style&lt;/a&gt; to download the stylesheet and optional image files.&lt;/li&gt;&lt;li&gt;If the file downloaded contains only one single file &#39;&lt;tt&gt;style-site.css&lt;/tt&gt;&#39;, go to the next step. Alternatively, you would download a file called &#39;&lt;tt&gt;style-site.zip&lt;/tt&gt;&#39;
+that contains the CSS and other media files (usually images). Upload
+those image files (.JPG or .PNG) to your blog site, and move them to
+the same folder as your index page. You can use Movable Type&#39;s &lt;a href=&#34;http://www.movabletype.org/docs/mtmanual-uploading.htm&#34;&gt;Uploading File&lt;/a&gt; feature to achieve that.&lt;/li&gt;&lt;li&gt;Now, replace your current &#39;&lt;tt&gt;style-site.css&lt;/tt&gt;&#39; with the one you have downloaded. In a stock Movable Type installation, you would need to:
+  &lt;ol&gt;&lt;li&gt;Go to Manage Weblog page, and then click on &#34;Templates&#34; on the left-hand side.&lt;/li&gt;&lt;li&gt;There should be an item &#34;Stylesheet&#34; under table &#34;Index templates&#34;. It defaults to output to file &#39;&lt;tt&gt;style-site.css&lt;/tt&gt;&#39;. Click on the link.&lt;/li&gt;&lt;li&gt;Replace the content inside &#34;Template Body&#34; with the content of your new &#39;&lt;tt&gt;style-site.css&lt;/tt&gt;&#39;, and then press &#34;Save&#34; and &#34;Rebuild&#34;.&lt;/li&gt;&lt;/ol&gt;
+  &lt;/li&gt;&lt;li&gt;Try to reload your weblog, and it should now be formatted wit the new style.&lt;/li&gt;&lt;/ol&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.movablestyle.com/archives/2004-03.php&#34; name=&#34;20040302-3&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;How are the stylesheets licensed?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;See &lt;a href=&#34;http://www.movablestyle.com/archives/000015.php&#34;&gt;this article&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Currently stylesheets on Movable Style are dual licensed with
+Creative Common Attribution and GNU General Public License. Generally,
+if you want to use it on a blog site, please use CC and attribute this
+site. If you want to bundle the stylesheets with a software, for
+example another blog tool with modified styles, then please follow the
+guideline on GPL.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.movablestyle.com/archives/2004-03.php&#34; name=&#34;20040302-4&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;How do I attribute to Movable Style?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;From the license it is &lt;em&gt;required&lt;/em&gt; that you provide
+attribution to Movable Style when you use one or more styles from this
+site. I am not looking for a permanent spot on your site, but a small
+blog entry will do. For example,&lt;/p&gt;
+&lt;blockquote&gt;
+  Hi. I have changed the stylesheet for this site, and I got it from &lt;a href=&#34;http://www.movablestyle.com/&#34;&gt;Movable Style&lt;/a&gt;! Blah blah blah...
+&lt;/blockquote&gt;
+&lt;p&gt;There is &lt;em&gt;no&lt;/em&gt; logo, &#34;official&#34; slogan, etc. Just say where you got the blog from and that&#39;s it.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.movablestyle.com/archives/2004-03.php&#34; name=&#34;20040302-5&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;There is no update for &lt;em&gt;ages&lt;/em&gt;! What&#39;s the future direction for this site?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Well. I am busy. &lt;em&gt;Really busy&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;I initially designed this site to share my own styles, and then last
+couple of months I have been receiving emails from people submitting
+their styles. As I stated before that managing a site with other
+people&#39;s contribution can add quite a bit of burden on myself, but I
+think it might be something that can better benefit the community so it
+would the direction that Movable Style would move to.&lt;/p&gt;
+&lt;p&gt;I need to work out a way to manage the licenses (or force everyone
+to agree on CC Attribution + GPL), plus some scripts for people to
+submit their styles. Technically it should be an easy task, but I just
+need time to sit down and code it.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.movablestyle.com/archives/2004-03.php&#34; name=&#34;#20040302-6&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;How do I contact you, this &#34;scotty&#34; guy?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Use the &lt;a href=&#34;http://scott.yang.id.au/contact.php&#34;&gt;contact page&lt;/a&gt; on my own blog site.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.movablestyle.com/archives/2004-03.php&#34; name=&#34;#20040315-1&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;How is the style switcher implemented?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The style switcher on Movable Style is implemented using some PHP scripts. More detailed implementation can be found in &lt;a href=&#34;http://www.movablestyle.com/archives/000017.php&#34;&gt;this blog entry&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lines with a Modern Look</title>
+      <link>/2004/01/lines-with-a-modern-look.php/</link>
+      <pubDate>Mon, 19 Jan 2004 04:02:00 +0000</pubDate>
+      <guid>/2004/01/lines-with-a-modern-look.php/</guid>
+      <description>&lt;p&gt;I have just created a new style that utilises &lt;tt&gt;position: relative&lt;/tt&gt;
+to move the display of date to the side of the blog entries. Adding
+borders of different width, and I am trying to give it a modern look.
+Most of the time is spent on getting it to work on Internet Explorer,
+which makes funny rendering when I started adding some paddings. At the
+end, I figured that it is better to use &lt;tt&gt;margin&lt;/tt&gt; than &lt;tt&gt;padding&lt;/tt&gt;, in cases where both of them create the same effect, as somehow IE calculates the position better with it.&lt;/p&gt;
+&lt;p&gt;Or better, just switch to Mozilla to gain much better web surfing experience.&lt;/p&gt;
+&lt;blockquote&gt;
+Apply &lt;a href=&#34;http://www.movablestyle.com/archives/2004-01.php?style=Modern-Lines&#34;&gt;Modern Lines&lt;/a&gt; style
+&lt;/blockquote&gt;
+&lt;p&gt;Another thing is the style submissions. Although I took &lt;a href=&#34;http://www.movablestyle.com/archives/000013.php&#34;&gt;one and published it&lt;/a&gt;
+previously, but I have decided that I&#39;ll dedicate this site for the
+styles that I have created. It is just getting too hard to keep track
+(and doing quality control on all the variations) of all the styles you
+guys have submitted. Plus all the confusing copyright issue that I need
+to deal with. Thank you if you have emailed me your style sheet! But I
+think I am not aiming to build a styles repository from the beginning.
+I&#39;ll rather to keep this place a small collection of styles of my own.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dual License for Movable Styles</title>
+      <link>/2004/01/dual-license-for-movable-style.php/</link>
+      <pubDate>Fri, 16 Jan 2004 11:03:58 +0000</pubDate>
+      <guid>/2004/01/dual-license-for-movable-style.php/</guid>
+      <description>&lt;p&gt;Thanks to suggestion from &lt;a href=&#34;http://www.eadz.co.nz/&#34;&gt;Eaden&lt;/a&gt;, cascading style sheets on Movable Style will be dual licensed. Currently it is licensed under &lt;a href=&#34;http://creativecommons.org/licenses/by/1.0/&#34;&gt;Creative Common Attribution 1.0&lt;/a&gt;, which requires everyone who uses of MT styles created by me to give credit to me. That includes all the styles listed except &lt;a href=&#34;http://www.movablestyle.com/archives/000002.php&#34;&gt;Movable Type default styles&lt;/a&gt; (copyright &lt;a href=&#34;http://www.sixapart.com/&#34;&gt;Six Aprt&lt;/a&gt;) and &lt;a href=&#34;http://www.movablestyle.com/archives/000013.php&#34;&gt;Lovingrey&lt;/a&gt; (copyright &lt;a href=&#34;http://wavez.weblogs.us/&#34;&gt;Wavez&lt;/a&gt;). Now these styles can also be licensed under &lt;a href=&#34;http://www.gnu.org/copyleft/gpl.html&#34;&gt;GNU Public License 2&lt;/a&gt;, so that it can be modified and included into another weblogging tool, like PHP/Smarty based &lt;a href=&#34;http://www.bblog.com/&#34;&gt;BBlog&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Complicated? I think so as well. I am by no means a license expert, and
+I have never heard of GPLing a CSS file. But somehow this arrangement
+makes everything works nicely - the author of these styles get his
+credit, yet these styles can be compatible to applications that suffer
+from this GPL virus. Oh I mean applications that stand for the true
+spirit of Free Software.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lovingrey</title>
+      <link>/2003/12/lovingrey.php/</link>
+      <pubDate>Thu, 18 Dec 2003 12:59:58 +0000</pubDate>
+      <guid>/2003/12/lovingrey.php/</guid>
+      <description>&lt;p&gt;We have the first style submission yesterday. &lt;a href=&#34;http://wavez.weblogs.us/&#34;&gt;Wavez&lt;/a&gt; modified my &lt;a href=&#34;http://web.archive.org/web/20040202204720/http://www.movablestyle.com/archives/archives/000008.php&#34;&gt;Purple Orange&lt;/a&gt; theme, and created a dark-grey&#39;ish Movable Type style called &#34;Lovingrey&#34;, and have requested to be included here.&lt;/p&gt;
+&lt;blockquote&gt;Apply &lt;a href=&#34;http://www.movablestyle.com/archives/2003-12.php?style=Lovingrey&#34;&gt;Lovingrey&lt;/a&gt; style&lt;br /&gt;&lt;br /&gt;&lt;span class=&#34;mt-enclosure mt-enclosure-image&#34; style=&#34;display: inline;&#34;&gt;&lt;img alt=&#34;lovingrey.gif&#34; src=&#34;http://www.dmitrijev.ru/2008/07/29/lovingrey.gif&#34; class=&#34;mt-image-none&#34; style=&#34;&#34; height=&#34;197&#34; width=&#34;300&#34; /&gt;&lt;/span&gt;&lt;br /&gt;&lt;/blockquote&gt;
+&lt;p&gt;I do like to take more submission, especially original styles :)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Enter The Matrix</title>
+      <link>/2003/11/enter-the-matrix.php/</link>
+      <pubDate>Wed, 12 Nov 2003 03:57:37 +0000</pubDate>
+      <guid>/2003/11/enter-the-matrix.php/</guid>
+      <description>&lt;p&gt;Here&#39;s a new Movale Type style that I&#39;ve created with an &lt;a href=&#34;http://whatisthematrix.warnerbros.com/rl-img/poster7.jpg&#34;&gt;image&lt;/a&gt; from the &lt;a href=&#34;http://web.archive.org/web/20040202204221/http://us.imdb.com/title/tt0234215/&#34;&gt;Matrix Reloaded&lt;/a&gt; poster.&lt;/p&gt;
+&lt;blockquote&gt;
+Apply &lt;a href=&#34;http://www.movablestyle.com/archives/2003-11.php?style=Matrix-Code&#34;&gt;Matrix Code&lt;/a&gt; style&lt;br /&gt;&lt;span class=&#34;mt-enclosure mt-enclosure-image&#34; style=&#34;display: inline;&#34;&gt;&lt;img alt=&#34;matrix-code.gif&#34; src=&#34;http://www.dmitrijev.ru/2008/07/29/matrix-code.gif&#34; class=&#34;mt-image-none&#34; style=&#34;&#34; height=&#34;197&#34; width=&#34;300&#34; /&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I noticed that it is the first dark style (white on black) that I&amp;rsquo;ve created for this site. The main &lt;tt&gt;&amp;lt;body /&amp;gt;&lt;/tt&gt;
+element has a background image faded into black across the top, and the
+content/container pane also has a similar background image at the
+bottom. With the title elements, there&amp;rsquo;s a transparent 8-bit PNG file
+that masks out every other pixel to create that &amp;ldquo;shaded&amp;rdquo; effect. Too
+bad that Internet Explorer does not have the alpha support in 32bit PNG
+files.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Style with Mac Stripe</title>
+      <link>/2003/10/style-with-mac-stripe.php/</link>
+      <pubDate>Sun, 26 Oct 2003 03:20:09 +0000</pubDate>
+      <guid>/2003/10/style-with-mac-stripe.php/</guid>
+      <description>&lt;p&gt;I have been trying to come up with a style that assembles the look of &lt;a href=&#34;http://web.archive.org/web/20040405155230/http://www.apple.com/&#34;&gt;Apple&lt;/a&gt;&#39;s
+operating system, but has found it quite difficult without modifying
+the template file, as the UI is quite graphical intensive with lots of
+images pasted here and there. Maybe it is just my CSS skill not mature
+enough&amp;hellip;&lt;/p&gt;
+&lt;p&gt;At the end, I decided just to ripped the original &#34;Clean&#34; style of
+Movable Type, and then applies the background stripes in varies places,
+and call this new style &#34;Mac Stripe&#34;&lt;/p&gt;
+&lt;blockquote&gt;Apply &lt;a href=&#34;http://www.movablestyle.com/archives/2003-10.php?style=Mac-Stripe&#34;&gt;Mac Stripe&lt;/a&gt; style.&lt;br /&gt;&lt;span class=&#34;mt-enclosure mt-enclosure-image&#34; style=&#34;display: inline;&#34;&gt;&lt;img alt=&#34;mac-stripe.gif&#34; src=&#34;http://www.dmitrijev.ru/2008/07/29/mac-stripe.gif&#34; class=&#34;mt-image-none&#34; style=&#34;&#34; height=&#34;197&#34; width=&#34;300&#34; /&gt;&lt;/span&gt;&lt;br /&gt;&lt;/blockquote&gt;
+&lt;p&gt;Hopefully I won&#39;t be followed up by a email from the lawyers from Apple...&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Moving Site</title>
+      <link>/2003/10/moving-site.php/</link>
+      <pubDate>Tue, 14 Oct 2003 06:10:57 +0000</pubDate>
+      <guid>/2003/10/moving-site.php/</guid>
+      <description>&lt;p&gt;I have recently registered the domain &lt;tt&gt;movablestyle.com&lt;/tt&gt;, and
+will serve this site at that same domain, using a separate MovableType
+database. It will still be on the same old home build Linux server
+through ADSL through.&lt;/p&gt;
+&lt;p&gt;The reasons of making the move:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;I have got quite a few hits on this site, so I want it to be separated from my &lt;a href=&#34;http://scott.yang.id.au/&#34;&gt;main site&lt;/a&gt; to track traffic independently.&lt;/li&gt;&lt;li&gt;Having its own domain looks more &lt;em&gt;professional&lt;/em&gt;, even though the site will never be commercial and will be based on good will.&lt;/li&gt;&lt;li&gt;I need the MT installation and the site to be on the same domain to
+track some cookies, which enables me to display the same style sheet in
+comment/traceback listing pages. This part has not been implemented
+yet...&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Preferred/Alternate Stylesheet</title>
+      <link>/2003/10/preferredalternate-stylesheet.php/</link>
+      <pubDate>Mon, 13 Oct 2003 07:13:23 +0000</pubDate>
+      <guid>/2003/10/preferredalternate-stylesheet.php/</guid>
+      <description>&lt;p&gt;One feature in the latest &lt;a href=&#34;http://www.mozilla.org/products/firebird/&#34;&gt;Mozilla Firebird&lt;/a&gt; is the ability to easily switch between different &lt;a href=&#34;http://www.w3.org/TR/REC-html40/present/styles.html#h-14.3.1&#34;&gt;alternate stylesheets&lt;/a&gt;
+provided by the document. It allows the author of the site to provide
+personalised look &amp;lsquo;n&amp;rsquo; feel, without changing the HTML source
+dynamically. I think it also makes sense for MovableStyle to implement
+this standard, by including all the alternate style sheets in the HTML.&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;http://web.archive.org/web/20040405155230/http://www.movablestyle.com/image/firebird-style.png&#34; alt=&#34;MozillaFirebird&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Obviously, switching between alternate stylesheets requires browser
+support, and MSIE certainly does not provide this functionality. So my
+next step will be providing a &lt;a href=&#34;http://www.alistapart.com/stories/alternate/&#34;&gt;Javascript alternative&lt;/a&gt;, and apply it on the drop down box. Switching styles should no longer require reloading the current page again.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Update&lt;/b&gt;:
+I might need to turn this feature off at some stage, as
+Mozilla/Firebird/Firefox will try to load every stylesheets declared as
+alternative styles, even though it might not have been used. It would
+not be feasible when the number of styles increases, and it does take
+out the bandwidth a bit.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hitting with a bit or warmth</title>
+      <link>/2003/10/hitting-with-a-bit-or-warmth.php/</link>
+      <pubDate>Sun, 05 Oct 2003 03:08:29 +0000</pubDate>
+      <guid>/2003/10/hitting-with-a-bit-or-warmth.php/</guid>
+      <description>&lt;p&gt;For the themes that I have created so far, you can see that I
+usually favour bright cold colour (either green or blue with white
+background). I decided that I want to try out something different
+today, and a warm orange colour as the main theme. I added some purple
+strips just to mark out certain parts of the page to make them look
+&#34;distinctive&#34;. So there you go - my first attempt to add some warmth
+into my collection of MovableType style sheets.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;a href=&#34;http://www.movablestyle.com/archives/2003-10.php?style=Orange-Purple&#34;&gt;Orange Purple&lt;/a&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I just realised that I am very bad at naming things...&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slashdot Style</title>
+      <link>/2003/10/slashdot-style.php/</link>
+      <pubDate>Sat, 04 Oct 2003 05:06:05 +0000</pubDate>
+      <guid>/2003/10/slashdot-style.php/</guid>
+      <description>&lt;p&gt;I have been reading &lt;a href=&#34;http://slashdot.org/&#34;&gt;Slashdot&lt;/a&gt;
+for at least 5-6 years I think, and it has to be one of the pioneers of
+weblogs. Even through it pushes out dozens of technology-related news
+everyday, Slashdot&#39;s HTML is still using HTML3.2 with lots of in-line
+formattings that are obsolete in today&#39;s HTML4/XHTML era.&lt;/p&gt;
+&lt;p&gt;It is actually not that hard porting the look and feel of Slashdot
+over to Movable Type, and I think more and more I felt the &#34;real
+challenge&#34; comes from the MT&#39;s default template. There are many tricks
+that I would like to do but would require changes to the default
+template...&lt;/p&gt; 
+&lt;p&gt;Anyway. Here it is. I still haven&#39;t figured out a way to make the #links side bar to maximise to 100% of the height...&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;a href=&#34;http://www.movablestyle.com/archives/2003-10.php?style=Slashdot&#34;&gt;Slashdot Theme&lt;/a&gt;&lt;br /&gt;&lt;span class=&#34;mt-enclosure mt-enclosure-image&#34; style=&#34;display: inline;&#34;&gt;&lt;img alt=&#34;slashdot.gif&#34; src=&#34;http://www.dmitrijev.ru/2008/07/29/slashdot.gif&#34; class=&#34;mt-image-none&#34; style=&#34;&#34; height=&#34;197&#34; width=&#34;300&#34; /&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Note - this style contains 2 .png files that needs to be unzipped into the same directory as the .css&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Plain Blue</title>
+      <link>/2003/10/plain-blue.php/</link>
+      <pubDate>Sat, 04 Oct 2003 03:04:03 +0000</pubDate>
+      <guid>/2003/10/plain-blue.php/</guid>
+      <description>&lt;p&gt;Getting sick of border of different shade wrapping around each
+other? This style is much plainer than the previous boxed styles. It
+places the #links side bar to the right hand side, flowing down from
+the very top of the page. Somehow I cannot get it to maximised to 100%
+of the page height...&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;a href=&#34;http://www.movablestyle.com/archives/2003-10.php?style=Plain-Blue&#34;&gt;Plain Blue Theme&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;span class=&#34;mt-enclosure mt-enclosure-image&#34; style=&#34;display: inline;&#34;&gt;&lt;img alt=&#34;plain-blue.gif&#34; src=&#34;http://www.dmitrijev.ru/2008/07/29/plain-blue.gif&#34; class=&#34;mt-image-none&#34; style=&#34;&#34; height=&#34;197&#34; width=&#34;300&#34; /&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;/blockquote&gt; 
+</description>
+    </item>
+    
+    <item>
+      <title>Another boxed style</title>
+      <link>/2008/07/privetstvie.php/</link>
+      <pubDate>Sat, 04 Oct 2003 01:01:01 +0000</pubDate>
+      <guid>/2008/07/privetstvie.php/</guid>
+      <description>&lt;p&gt;Well. There is nothing new in this one, but turning the &lt;a href=&#34;http://www.movablestyle.com/archives/000004.php&#34;&gt;previous style&lt;/a&gt; into a different colour theme, to prove that it is actually easy to take an existing style and change its colours.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;a href=&#34;http://www.movablestyle.com/archives/2003-10.php?style=Boxed-Green&#34;&gt;Boxed Theme in Green&lt;/a&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>A boxed style</title>
+      <link>/2003/09/a-boxed-style.php/</link>
+      <pubDate>Tue, 09 Sep 2003 02:58:40 +0000</pubDate>
+      <guid>/2003/09/a-boxed-style.php/</guid>
+      <description>&lt;p&gt;I&#39;ve created a style that has bolders in neverly every DIV&#39;s, to
+help me to visualise the actual boundary. It has a gray scale theme,
+and #content and #links are positioned using absolute position. Here&#39;s
+the theme:&lt;/p&gt;
+&lt;blockquote&gt;&lt;a href=&#34;http://www.movablestyle.com/archives/2003-09.php?style=Boxed&#34;&gt;Boxed Theme&lt;/a&gt;&lt;/blockquote&gt; 
+&lt;p&gt;I still need to test its appearance/browser-compatibility under:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;strike&gt;Mozilla Firebird 0.6.1 on Windows&lt;/strike&gt;&lt;/li&gt;&lt;li&gt;&lt;strike&gt;Mozilla 1.4 on Windows&lt;/strike&gt;&lt;/li&gt;&lt;li&gt;&lt;strike&gt;Internet Explorer SP1&lt;/strike&gt;&lt;/li&gt;&lt;li&gt;&lt;strike&gt;Camino 0.7 on Mac OS X&lt;/strike&gt;&lt;/li&gt;&lt;li&gt;&lt;strike&gt;Safari on Mac OS X&lt;/strike&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>TypePad-Look-Alike Stylesheet</title>
+      <link>/2003/09/typepadlookalike-stylesheet.php/</link>
+      <pubDate>Thu, 04 Sep 2003 02:56:00 +0000</pubDate>
+      <guid>/2003/09/typepadlookalike-stylesheet.php/</guid>
+      <description>&lt;p&gt;This is the first stylesheet that I&#39;ve done for MovableStyle site!
+Well. The look &#39;n&#39; feel is nothing original, but imitate many existing
+sites on &lt;a href=&#34;http://www.typepad.com/&#34;&gt;TypePad.com&lt;/a&gt;, including Claudine&#39;s beta testing site.&lt;/p&gt;
+&lt;p&gt;It was a quick hack job, and I think quite a few parts still does
+not appear to work. I think I&#39;ll come back later to get the comment
+listing/preview and trackback listing to work. There are also some
+glitches due to differences between the MovableType and TypePad
+templates.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;      &amp;lt;p&amp;gt;First of all, I cannot get
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;the banner and content to centred on the page, due to the way
+MovableType stock template is structured. On TypePad, it is structured
+like this:&lt;/p&gt;&lt;/p&gt;
+&lt;pre type=&#34;code&#34;&gt;  &amp;lt;body&amp;gt;&lt;br /&gt;    &amp;lt;div id=&#34;container&#34;&amp;gt;&lt;br /&gt;      &amp;lt;div id=&#34;banner&#34; /&amp;gt;&lt;br /&gt;      &amp;lt;div id=&#34;content&#34; /&amp;gt;&lt;br /&gt;      &amp;lt;div id=&#34;right&#34; /&amp;gt;&lt;br /&gt;    &amp;lt;/div&amp;gt;&lt;br /&gt;  &amp;lt;/body&amp;gt;&lt;br /&gt;&lt;/pre&gt;
+&lt;p&gt;Where as in MT, the index page template has the following structure:&lt;/p&gt;
+&lt;pre type=&#34;code&#34;&gt;  &amp;lt;body&amp;gt;&lt;br /&gt;    &amp;lt;div id=&#34;banner&#34; /&amp;gt;&lt;br /&gt;    &amp;lt;div id=&#34;content&#34; /&amp;gt;&lt;br /&gt;    &amp;lt;div id=&#34;links&#34; /&amp;gt;&lt;br /&gt;  &amp;lt;/body&amp;gt;&lt;br /&gt;&lt;/pre&gt;
+&lt;p&gt;The contents that need to be centred are not wrapped inside another DIV with &lt;tt&gt;margin-left&lt;/tt&gt; and &lt;tt&gt;margin-right&lt;/tt&gt; set to &lt;tt&gt;auto&lt;/tt&gt;, and so far I have not found a way to move &lt;tt&gt;#content&lt;/tt&gt; and &lt;tt&gt;#links&lt;/tt&gt;
+next to each other yet centred in the page. I realise that I could use
+IE&#39;s expression style to calculate the left/right margin, but then
+Mozilla users will loose out. At the end, I just set up a fixed margin
+(10%) on the left/right.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Default Styles from Movable Type</title>
+      <link>/2003/09/default-styles-from-movable-ty.php/</link>
+      <pubDate>Wed, 03 Sep 2003 05:52:37 +0000</pubDate>
+      <guid>/2003/09/default-styles-from-movable-ty.php/</guid>
+      <description>&lt;p&gt;These are the default stylesheets &lt;a href=&#34;http://www.movabletype.org/default-styles.shtml&#34;&gt;listed&lt;/a&gt; on the Movable Type website. These are probably the most common styles you&amp;rsquo;ll see around the web.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&#34;http://www.movablestyle.com/archives/2003-09.php?style=MovableType-Clean&#34;&gt;Clean&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;a href=&#34;http://www.movablestyle.com/archives/2003-09.php?style=MovableType-Georgia-Blue&#34;&gt;Georgia Blue&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;a href=&#34;http://www.movablestyle.com/archives/2003-09.php?style=MovableType-Gettyburg&#34;&gt;Gettyburg&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;a href=&#34;http://www.movablestyle.com/archives/2003-09.php?style=MovableType-Plain-Jane&#34;&gt;Plain Jane&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;a href=&#34;http://www.movablestyle.com/archives/2003-09.php?style=MovableType-Rusty&#34;&gt;Rusty&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;a href=&#34;http://www.movablestyle.com/archives/2003-09.php?style=MovableType-Trendy&#34;&gt;Trendy&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;These styles should at least get this site started...&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>First Entry</title>
+      <link>/2003/09/first-entry.php/</link>
+      <pubDate>Wed, 03 Sep 2003 02:47:48 +0000</pubDate>
+      <guid>/2003/09/first-entry.php/</guid>
+      <description>&lt;p&gt;I am starting this new blog to collect good CSS style sheets that
+work with the stock Movable Type template. Movable Type is powerful,
+and with its template engine, one can customise an unique blogsite by
+editing the templates. However, many people with a blogsite on the
+Internet simply aren&#39;t capable of working with HTML and CSS. Some
+people aren&#39;t really bothered with it. &lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;So at the end, there are many
+MovableType powered blogsite on the net that are just look alike
+(including many sites listed on &lt;a href=&#34;http://focuser.net/&#34;&gt;FOCUSer.net&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;The purpose of this site is to create a collection of good CSS that is suitable for the &lt;em&gt;stock Movable Type template&lt;/em&gt;.
+There is nothing wrong with the stock template - a two pane designe in
+validated XHTML. So I hope people can simple grab the CSS files and
+paste right into their &#34;&lt;tt&gt;styles-site.css&lt;/tt&gt;&#34; template to transform their site.&lt;/p&gt;
+&lt;p&gt;Also, to help people test out different style sheets, this site needs to be easily skinnable. I&#39;ll talk more about that later.&lt;/p&gt;
+&lt;p&gt;Now, I shall go back hacking more CSS....&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
