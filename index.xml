@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dmitrijev.ru</title>
-    <link>http://www.dmitrijev.ru/</link>
-      <atom:link href="http://www.dmitrijev.ru/index.xml" rel="self" type="application/rss+xml" />
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Dmitrijev.ru</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru</language><copyright>© Vladimir Dmitrijev 2003-2020</copyright><lastBuildDate>Wed, 23 Jul 2008 04:23:42 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru</language><copyright>© Vladimir Dmitrijev 2003-2020</copyright><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate>
     <image>
-      <url>http://www.dmitrijev.ru/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Dmitrijev.ru</title>
-      <link>http://www.dmitrijev.ru/</link>
+      <link>/</link>
     </image>
     
     <item>
       <title>Example Page 1</title>
-      <link>http://www.dmitrijev.ru/courses/example/example1/</link>
+      <link>/courses/example/example1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>http://www.dmitrijev.ru/courses/example/example1/</guid>
+      <guid>/courses/example/example1/</guid>
       <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -35,9 +35,9 @@
     
     <item>
       <title>Example Page 2</title>
-      <link>http://www.dmitrijev.ru/courses/example/example2/</link>
+      <link>/courses/example/example2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>http://www.dmitrijev.ru/courses/example/example2/</guid>
+      <guid>/courses/example/example2/</guid>
       <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -56,9 +56,9 @@
     
     <item>
       <title>Example Page 3</title>
-      <link>http://www.dmitrijev.ru/courses/example/example3/</link>
+      <link>/courses/example/example3/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0200</pubDate>
-      <guid>http://www.dmitrijev.ru/courses/example/example3/</guid>
+      <guid>/courses/example/example3/</guid>
       <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-5&#34;&gt;Tip 5&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -77,9 +77,9 @@
     
     <item>
       <title>Example Talk</title>
-      <link>http://www.dmitrijev.ru/talk/example/</link>
+      <link>/talk/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>http://www.dmitrijev.ru/talk/example/</guid>
+      <guid>/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -99,9 +99,9 @@
     
     <item>
       <title>Dmitriev.ee</title>
-      <link>http://www.dmitrijev.ru/project/internal-project/</link>
+      <link>/project/internal-project/</link>
       <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>http://www.dmitrijev.ru/project/internal-project/</guid>
+      <guid>/project/internal-project/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
@@ -112,17 +112,17 @@
     
     <item>
       <title>Шахматный портал -- Euruchess.org</title>
-      <link>http://www.dmitrijev.ru/project/external-project/</link>
+      <link>/project/external-project/</link>
       <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>http://www.dmitrijev.ru/project/external-project/</guid>
+      <guid>/project/external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>My Article Name</title>
-      <link>http://www.dmitrijev.ru/post/my-article-name/</link>
+      <link>/post/my-article-name/</link>
       <pubDate>Tue, 19 May 2020 16:31:46 +0300</pubDate>
-      <guid>http://www.dmitrijev.ru/post/my-article-name/</guid>
+      <guid>/post/my-article-name/</guid>
       <description>&lt;p&gt;проверка&lt;/p&gt;
 &lt;p&gt;Два притопа &amp;ndash; три &lt;strong&gt;прихлопа&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://www.dmitriev.ee/punbb/extensions/chess_diagram/gendiag-jane.php?coord&amp;amp;size=29&amp;amp;style=merida&amp;amp;fen=r1bq1rk1/p1p2pb1/1p1p3p/2nPp1p1/2P1P3/2NB1NP1/PP2QPP1/R3R1K1+w+-+-+0+15&#34; alt=&#34;Диаграмма&#34;&gt;
@@ -194,10 +194,457 @@ Bob--&amp;gt;&amp;gt;John: Jolly good!
     </item>
     
     <item>
+      <title>Программа «A»</title>
+      <link>/blog/a/</link>
+      <pubDate>Mon, 18 May 2020 02:57:17 +0300</pubDate>
+      <guid>/blog/a/</guid>
+      <description>&lt;p&gt;Всем привет!&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;normal-use&#34;&gt;normal use&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;Note&lt;/code&gt; example:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-shortcode&#34;&gt;{{&amp;lt; alert note &amp;gt;}}
+&amp;lt;p&amp;gt;A notice disclaimer&amp;lt;/p&amp;gt;
+{{&amp;lt; /alert &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;Result:&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    A notice disclaimer
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!--more--&gt;
+&lt;p&gt;You could &lt;strong&gt;custom title&lt;/strong&gt; :&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-shortcode&#34;&gt;{{&amp;lt; alert note Примечание &amp;gt;}}
+&amp;lt;p&amp;gt;A notice disclaimer&amp;lt;/p&amp;gt;
+{{&amp;lt; /alert &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    A notice disclaimer
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;tip&#34;&gt;tip&lt;/h2&gt;
+&lt;pre&gt;&lt;code class=&#34;language-js&#34;&gt;{{&amp;lt; alert tip &amp;gt;}}
+&amp;lt;p&amp;gt;A tip disclaimer&amp;lt;/p&amp;gt;
+{{&amp;lt; /alert &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;div class=&#34;alert alert-tip&#34;&gt;
+  &lt;div&gt;
+    A tip disclaimer
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;info&#34;&gt;info&lt;/h2&gt;
+&lt;pre&gt;&lt;code class=&#34;language-html&#34;&gt;{{&amp;lt; alert info &amp;gt;}}
+&amp;lt;p&amp;gt;A info disclaimer&amp;lt;/p&amp;gt;
+{{&amp;lt; /alert &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;div class=&#34;alert alert-info&#34;&gt;
+  &lt;div&gt;
+    An information disclaimer
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;warning&#34;&gt;warning&lt;/h2&gt;
+&lt;pre&gt;&lt;code class=&#34;language-shjs&#34;&gt;{{&amp;lt; alert warning &amp;gt;}}
+&amp;lt;p&amp;gt;A warning disclaimer&amp;lt;/p&amp;gt;
+{{&amp;lt; /alert &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;div class=&#34;alert alert-warning&#34;&gt;
+  &lt;div&gt;
+    An warning disclaimer
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h1 id=&#34;output-successfully-escaped---шорткод---highlight&#34;&gt;Output: Successfully escaped - шорткод - highlight&lt;/h1&gt;
+&lt;h2 id=&#34;python&#34;&gt;Python&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;  &lt;span style=&#34;color:#a6e22e&#34;&gt;@requires_authorization&lt;/span&gt;
+&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;somefunc&lt;/span&gt;(param1&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;&amp;#39;&lt;/span&gt;, param2&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;):
+    &lt;span style=&#34;color:#e6db74&#34;&gt;r&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;&amp;#39;&amp;#39;A docstring&amp;#39;&amp;#39;&amp;#39;&lt;/span&gt;
+    &lt;span style=&#34;color:#66d9ef&#34;&gt;if&lt;/span&gt; param1 &lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&lt;/span&gt; param2: &lt;span style=&#34;color:#75715e&#34;&gt;# interesting&lt;/span&gt;
+        &lt;span style=&#34;color:#66d9ef&#34;&gt;print&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;Gre&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;\&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;ater&amp;#39;&lt;/span&gt;
+    &lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt; (param2 &lt;span style=&#34;color:#f92672&#34;&gt;-&lt;/span&gt; param1 &lt;span style=&#34;color:#f92672&#34;&gt;+&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;+&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;0b10&lt;/span&gt;l) &lt;span style=&#34;color:#f92672&#34;&gt;or&lt;/span&gt; None
+
+&lt;span style=&#34;color:#66d9ef&#34;&gt;class&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;SomeClass&lt;/span&gt;:
+    &lt;span style=&#34;color:#66d9ef&#34;&gt;pass&lt;/span&gt;
+
+&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; message &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;&amp;#39;&amp;#39;interpreter
+&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;... prompt&amp;#39;&amp;#39;&amp;#39;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2 id=&#34;php&#34;&gt;PHP&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-php&#34; data-lang=&#34;php&#34;&gt; require_once &amp;#39;Zend/Uri/Http.php&amp;#39;;
+
+namespace Location\Web;
+
+interface Factory
+{
+    static function _factory();
+}
+
+abstract class URI extends BaseURI implements Factory
+{
+    abstract function test();
+
+    public static $st1 = 1;
+    const ME = &amp;#34;Yo&amp;#34;;
+    var $list = NULL;
+    private $var;
+
+    /**
+     * Returns a URI
+     *
+     * @return URI
+     */
+    static public function _factory($stats = array(), $uri = &amp;#39;http&amp;#39;)
+    {
+        echo __METHOD__;
+        $uri = explode(&amp;#39;:&amp;#39;, $uri, 0b10);
+        $schemeSpecific = isset($uri[1]) ? $uri[1] : &amp;#39;&amp;#39;;
+        $desc = &amp;#39;Multi
+line description&amp;#39;;
+
+        // Security check
+        if (!ctype_alnum($scheme)) {
+            throw new Zend_Uri_Exception(&amp;#39;Illegal scheme&amp;#39;);
+        }
+
+        $this-&amp;gt;var = 0 - self::$st;
+        $this-&amp;gt;list = list(Array(&amp;#34;1&amp;#34;=&amp;gt; 2, 2=&amp;gt;self::ME, 3 =&amp;gt; \Location\Web\URI::class));
+
+        return [
+            &amp;#39;uri&amp;#39;   =&amp;gt; $uri,
+            &amp;#39;value&amp;#39; =&amp;gt; null,
+        ];
+    }
+}
+
+echo URI::ME . URI::$st1;
+
+__halt_compiler () ; datahere
+datahere
+datahere */
+datahere&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2 id=&#34;javascript&#34;&gt;JavaScript&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-js&#34; data-lang=&#34;js&#34;&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;function&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;$initHighlight&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;block&lt;/span&gt;, &lt;span style=&#34;color:#a6e22e&#34;&gt;cls&lt;/span&gt;) {
+  &lt;span style=&#34;color:#66d9ef&#34;&gt;try&lt;/span&gt; {
+    &lt;span style=&#34;color:#66d9ef&#34;&gt;if&lt;/span&gt; (&lt;span style=&#34;color:#a6e22e&#34;&gt;cls&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;search&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;/\bno\-highlight\b/&lt;/span&gt;) &lt;span style=&#34;color:#f92672&#34;&gt;!=&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;-&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;)
+      &lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;process&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;block&lt;/span&gt;, &lt;span style=&#34;color:#66d9ef&#34;&gt;true&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;0x0F&lt;/span&gt;) &lt;span style=&#34;color:#f92672&#34;&gt;+&lt;/span&gt;
+             &lt;span style=&#34;color:#e6db74&#34;&gt;` class=&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;${&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;cls&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;}&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;`&lt;/span&gt;;
+  } &lt;span style=&#34;color:#66d9ef&#34;&gt;catch&lt;/span&gt; (&lt;span style=&#34;color:#a6e22e&#34;&gt;e&lt;/span&gt;) {
+    &lt;span style=&#34;color:#75715e&#34;&gt;/* handle exception */&lt;/span&gt;
+  }
+  &lt;span style=&#34;color:#66d9ef&#34;&gt;for&lt;/span&gt; (&lt;span style=&#34;color:#66d9ef&#34;&gt;var&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;i&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;/&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;; &lt;span style=&#34;color:#a6e22e&#34;&gt;i&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;classes&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;length&lt;/span&gt;; &lt;span style=&#34;color:#a6e22e&#34;&gt;i&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;++&lt;/span&gt;) {
+    &lt;span style=&#34;color:#66d9ef&#34;&gt;if&lt;/span&gt; (&lt;span style=&#34;color:#a6e22e&#34;&gt;checkCondition&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;classes&lt;/span&gt;[&lt;span style=&#34;color:#a6e22e&#34;&gt;i&lt;/span&gt;]) &lt;span style=&#34;color:#f92672&#34;&gt;===&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;undefined&lt;/span&gt;)
+      &lt;span style=&#34;color:#a6e22e&#34;&gt;console&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;log&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;undefined&amp;#39;&lt;/span&gt;);
+  }
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2 id=&#34;html&#34;&gt;HTML&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt; &lt;span style=&#34;color:#75715e&#34;&gt;&amp;lt;!DOCTYPE html&amp;gt;&lt;/span&gt;
+&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;title&lt;/span&gt;&amp;gt;Title&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;title&lt;/span&gt;&amp;gt;
+
+&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;style&lt;/span&gt;&amp;gt;&lt;span style=&#34;color:#f92672&#34;&gt;body&lt;/span&gt; {&lt;span style=&#34;color:#66d9ef&#34;&gt;width&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;500&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;px&lt;/span&gt;;}&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;style&lt;/span&gt;&amp;gt;
+
+&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;script&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;type&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;application/javascript&amp;#34;&lt;/span&gt;&amp;gt;
+  &lt;span style=&#34;color:#66d9ef&#34;&gt;function&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;$init&lt;/span&gt;() {&lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;true&lt;/span&gt;;}
+&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;script&lt;/span&gt;&amp;gt;
+
+&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;body&lt;/span&gt;&amp;gt;
+  &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;p&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;checked&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;class&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;title&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;id&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;title&amp;#39;&lt;/span&gt;&amp;gt;Title&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;p&lt;/span&gt;&amp;gt;
+  &lt;span style=&#34;color:#75715e&#34;&gt;&amp;lt;!-- here goes the rest of the page --&amp;gt;&lt;/span&gt;
+&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;body&lt;/span&gt;&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class=&#34;alert alert-primary&#34;&gt;
+  &lt;div&gt;
+    This is a primary alert—check it out!
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;alert alert-secondary&#34;&gt;
+  &lt;div&gt;
+    This is a secondary alert—check it out!
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;alert alert-success&#34;&gt;
+  &lt;div&gt;
+    This is a success alert—check it out!
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;alert alert-info&#34;&gt;
+  &lt;div&gt;
+    This is a info alert—check it out!
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;alert alert-warning&#34;&gt;
+  &lt;div&gt;
+    This is a warning alert—check it out!
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;alert alert-danger&#34;&gt;
+  &lt;div&gt;
+    This is a danger alert—check it out!
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;alert alert-dark&#34;&gt;
+  &lt;div&gt;
+    This is a dark alert—check it out!
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;alert alert-light&#34;&gt;
+  &lt;div&gt;
+    This is a light alert—check it out!
+  &lt;/div&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Writing technical content in Academic</title>
+      <link>/post/writing-technical-content/</link>
+      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/post/writing-technical-content/</guid>
+      <description>&lt;p&gt;Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Academic.&lt;/p&gt;
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;h3 id=&#34;code&#34;&gt;Code&lt;/h3&gt;
+&lt;p&gt;Academic supports a Markdown extension for highlighting code syntax. You can enable this feature by toggling the &lt;code&gt;highlight&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```python
+import pandas as pd
+data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
+data.head()
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;import pandas as pd
+data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
+data.head()
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;math&#34;&gt;Math&lt;/h3&gt;
+&lt;p&gt;Academic supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the &lt;code&gt;math&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file.&lt;/p&gt;
+&lt;p&gt;To render &lt;em&gt;inline&lt;/em&gt; or &lt;em&gt;block&lt;/em&gt; math, wrap your LaTeX math with &lt;code&gt;$...$&lt;/code&gt; or &lt;code&gt;$$...$$&lt;/code&gt;, respectively.&lt;/p&gt;
+&lt;p&gt;Example &lt;strong&gt;math block&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;$$\gamma_{n} = \frac{ 
+\left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T 
+\left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}
+{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;p&gt;$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left |\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right |^2}$$&lt;/p&gt;
+&lt;p&gt;Example &lt;strong&gt;inline math&lt;/strong&gt; &lt;code&gt;$\nabla F(\mathbf{x}_{n})$&lt;/code&gt; renders as $\nabla F(\mathbf{x}_{n})$.&lt;/p&gt;
+&lt;p&gt;Example &lt;strong&gt;multi-line math&lt;/strong&gt; using the &lt;code&gt;\\\\&lt;/code&gt; math linebreak:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;$$f(k;p_0^*) = \begin{cases} p_0^* &amp;amp; \text{if }k=1, \\\\
+1-p_0^* &amp;amp; \text {if }k=0.\end{cases}$$
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;p&gt;$$f(k;p_0^*) = \begin{cases} p_0^* &amp;amp; \text{if }k=1, \\&lt;br&gt;
+1-p_0^* &amp;amp; \text {if }k=0.\end{cases}$$&lt;/p&gt;
+&lt;h3 id=&#34;diagrams&#34;&gt;Diagrams&lt;/h3&gt;
+&lt;p&gt;Academic supports a Markdown extension for diagrams. You can enable this feature by toggling the &lt;code&gt;diagram&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file or by adding &lt;code&gt;diagram: true&lt;/code&gt; to your page front matter.&lt;/p&gt;
+&lt;p&gt;An example &lt;strong&gt;flowchart&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+graph TD
+A[Hard] --&amp;gt;|Text| B(Round)
+B --&amp;gt; C{Decision}
+C --&amp;gt;|One| D[Result 1]
+C --&amp;gt;|Two| E[Result 2]
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;graph TD
+A[Hard] --&amp;gt;|Text| B(Round)
+B --&amp;gt; C{Decision}
+C --&amp;gt;|One| D[Result 1]
+C --&amp;gt;|Two| E[Result 2]
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;An example &lt;strong&gt;sequence diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+sequenceDiagram
+Alice-&amp;gt;&amp;gt;John: Hello John, how are you?
+loop Healthcheck
+    John-&amp;gt;&amp;gt;John: Fight against hypochondria
+end
+Note right of John: Rational thoughts!
+John--&amp;gt;&amp;gt;Alice: Great!
+John-&amp;gt;&amp;gt;Bob: How about you?
+Bob--&amp;gt;&amp;gt;John: Jolly good!
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;sequenceDiagram
+Alice-&amp;gt;&amp;gt;John: Hello John, how are you?
+loop Healthcheck
+    John-&amp;gt;&amp;gt;John: Fight against hypochondria
+end
+Note right of John: Rational thoughts!
+John--&amp;gt;&amp;gt;Alice: Great!
+John-&amp;gt;&amp;gt;Bob: How about you?
+Bob--&amp;gt;&amp;gt;John: Jolly good!
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;An example &lt;strong&gt;Gantt diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+gantt
+section Section
+Completed :done,    des1, 2014-01-06,2014-01-08
+Active        :active,  des2, 2014-01-07, 3d
+Parallel 1   :         des3, after des1, 1d
+Parallel 2   :         des4, after des1, 1d
+Parallel 3   :         des5, after des3, 1d
+Parallel 4   :         des6, after des4, 1d
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;gantt
+section Section
+Completed :done,    des1, 2014-01-06,2014-01-08
+Active        :active,  des2, 2014-01-07, 3d
+Parallel 1   :         des3, after des1, 1d
+Parallel 2   :         des4, after des1, 1d
+Parallel 3   :         des5, after des3, 1d
+Parallel 4   :         des6, after des4, 1d
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;An example &lt;strong&gt;class diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+classDiagram
+Class01 &amp;lt;|-- AveryLongClass : Cool
+&amp;lt;&amp;lt;interface&amp;gt;&amp;gt; Class01
+Class09 --&amp;gt; C2 : Where am i?
+Class09 --* C3
+Class09 --|&amp;gt; Class07
+Class07 : equals()
+Class07 : Object[] elementData
+Class01 : size()
+Class01 : int chimp
+Class01 : int gorilla
+class Class10 {
+  &amp;lt;&amp;lt;service&amp;gt;&amp;gt;
+  int id
+  size()
+}
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;classDiagram
+Class01 &amp;lt;|-- AveryLongClass : Cool
+&amp;lt;&amp;lt;interface&amp;gt;&amp;gt; Class01
+Class09 --&amp;gt; C2 : Where am i?
+Class09 --* C3
+Class09 --|&amp;gt; Class07
+Class07 : equals()
+Class07 : Object[] elementData
+Class01 : size()
+Class01 : int chimp
+Class01 : int gorilla
+class Class10 {
+  &amp;lt;&amp;lt;service&amp;gt;&amp;gt;
+  int id
+  size()
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;An example &lt;strong&gt;state diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+stateDiagram
+[*] --&amp;gt; Still
+Still --&amp;gt; [*]
+Still --&amp;gt; Moving
+Moving --&amp;gt; Still
+Moving --&amp;gt; Crash
+Crash --&amp;gt; [*]
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;stateDiagram
+[*] --&amp;gt; Still
+Still --&amp;gt; [*]
+Still --&amp;gt; Moving
+Moving --&amp;gt; Still
+Moving --&amp;gt; Crash
+Crash --&amp;gt; [*]
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;todo-lists&#34;&gt;Todo lists&lt;/h3&gt;
+&lt;p&gt;You can even write your todo lists in Academic too:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;- [x] Write math example
+- [x] Write diagram example
+- [ ] Do something else
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write math example&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write diagram example&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Do something else&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tables&#34;&gt;Tables&lt;/h3&gt;
+&lt;p&gt;Represent your data in tables:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;First Header&lt;/th&gt;
+&lt;th&gt;Second Header&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;asides&#34;&gt;Asides&lt;/h3&gt;
+&lt;p&gt;Academic supports a 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/#alerts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcode for asides&lt;/a&gt;, also referred to as &lt;em&gt;notices&lt;/em&gt;, &lt;em&gt;hints&lt;/em&gt;, or &lt;em&gt;alerts&lt;/em&gt;. By wrapping a paragraph in &lt;code&gt;{{% alert note %}} ... {{% /alert %}}&lt;/code&gt;, it will render as an aside.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% alert note %}}
+A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
+{{% /alert %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;icons&#34;&gt;Icons&lt;/h3&gt;
+&lt;p&gt;Academic enables you to use a wide range of 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/page-builder/#icons&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;icons from &lt;em&gt;Font Awesome&lt;/em&gt; and &lt;em&gt;Academicons&lt;/em&gt;&lt;/a&gt; in addition to 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/#emojis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;emojis&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Here are some examples using the &lt;code&gt;icon&lt;/code&gt; shortcode to render icons:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; icon name=&amp;quot;terminal&amp;quot; pack=&amp;quot;fas&amp;quot; &amp;gt;}} Terminal  
+{{&amp;lt; icon name=&amp;quot;python&amp;quot; pack=&amp;quot;fab&amp;quot; &amp;gt;}} Python  
+{{&amp;lt; icon name=&amp;quot;r-project&amp;quot; pack=&amp;quot;fab&amp;quot; &amp;gt;}} R
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-terminal  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Terminal&lt;br&gt;
+
+  &lt;i class=&#34;fab fa-python  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Python&lt;br&gt;
+
+  &lt;i class=&#34;fab fa-r-project  pr-1 fa-fw&#34;&gt;&lt;/i&gt; R&lt;/p&gt;
+&lt;h3 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
       <title>An example preprint / working paper</title>
-      <link>http://www.dmitrijev.ru/publication/preprint/</link>
+      <link>/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://www.dmitrijev.ru/publication/preprint/</guid>
+      <guid>/publication/preprint/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
@@ -209,10 +656,59 @@ Bob--&amp;gt;&amp;gt;John: Jolly good!
     </item>
     
     <item>
-      <title>Slides</title>
-      <link>http://www.dmitrijev.ru/slides/example/</link>
+      <title>Display Jupyter Notebooks with Academic</title>
+      <link>/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://www.dmitrijev.ru/slides/example/</guid>
+      <guid>/post/jupyter/</guid>
+      <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
+Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;./index_1_0.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;print(&amp;quot;Welcome to Academic!&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;Welcome to Academic!
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;install-python-and-jupyterlab&#34;&gt;Install Python and JupyterLab&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.anaconda.com/distribution/#download-section&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Install Anaconda&lt;/a&gt; which includes Python 3 and JupyterLab.&lt;/p&gt;
+&lt;p&gt;Alternatively, install JupyterLab with &lt;code&gt;pip3 install jupyterlab&lt;/code&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;create-or-upload-a-jupyter-notebook&#34;&gt;Create or upload a Jupyter notebook&lt;/h2&gt;
+&lt;p&gt;Run the following commands in your Terminal, substituting &lt;code&gt;&amp;lt;MY-WEBSITE-FOLDER&amp;gt;&lt;/code&gt; and &lt;code&gt;&amp;lt;SHORT-POST-TITLE&amp;gt;&lt;/code&gt; with the file path to your Academic website folder and a short title for your blog post (use hyphens instead of spaces), respectively:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;mkdir -p &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
+cd &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
+jupyter lab index.ipynb
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The &lt;code&gt;jupyter&lt;/code&gt; command above will launch the JupyterLab editor, allowing us to add Academic metadata and write the content.&lt;/p&gt;
+&lt;h2 id=&#34;edit-your-post-metadata&#34;&gt;Edit your post metadata&lt;/h2&gt;
+&lt;p&gt;The first cell of your Jupter notebook will contain your post metadata (
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/front-matter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;front matter&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;In Jupter, choose &lt;em&gt;Markdown&lt;/em&gt; as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;---
+title: My post&#39;s title
+date: 2019-09-01
+
+# Put any other Academic metadata here...
+---
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Edit the metadata of your post, using the 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;documentation&lt;/a&gt; as a guide to the available options.&lt;/p&gt;
+&lt;p&gt;To set a 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#featured-image&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;featured image&lt;/a&gt;, place an image named &lt;code&gt;featured&lt;/code&gt; into your post&amp;rsquo;s folder.&lt;/p&gt;
+&lt;p&gt;For other tips, such as using math, see the guide on 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;writing content with Academic&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;convert-notebook-to-markdown&#34;&gt;Convert notebook to Markdown&lt;/h2&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir=.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
+&lt;p&gt;This post was created with Jupyter. The orginal files can be found at &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; | 
@@ -342,10 +838,28 @@ Three
     </item>
     
     <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/terms/</guid>
+      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Academic: the website builder for Hugo</title>
-      <link>http://www.dmitrijev.ru/post/getting-started/</link>
+      <link>/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://www.dmitrijev.ru/post/getting-started/</guid>
+      <guid>/post/getting-started/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or 
@@ -487,9 +1001,9 @@ Three
     
     <item>
       <title>An example journal article</title>
-      <link>http://www.dmitrijev.ru/publication/journal-article/</link>
+      <link>/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>http://www.dmitrijev.ru/publication/journal-article/</guid>
+      <guid>/publication/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -507,9 +1021,9 @@ Three
     
     <item>
       <title>An example conference paper</title>
-      <link>http://www.dmitrijev.ru/publication/conference-paper/</link>
+      <link>/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>http://www.dmitrijev.ru/publication/conference-paper/</guid>
+      <guid>/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -527,18 +1041,18 @@ Three
     
     <item>
       <title>Облако русских тэгов для MT</title>
-      <link>http://www.dmitrijev.ru/2008/07/oblako-russkix-tegov-dlja-mt.php/</link>
+      <link>/2008/07/oblako-russkix-tegov-dlja-mt.php/</link>
       <pubDate>Wed, 23 Jul 2008 04:23:42 +0000</pubDate>
-      <guid>http://www.dmitrijev.ru/2008/07/oblako-russkix-tegov-dlja-mt.php/</guid>
+      <guid>/2008/07/oblako-russkix-tegov-dlja-mt.php/</guid>
       <description>&lt;p&gt;Заметил, что при обозначении Тэгов на кириллице (например, Тэг:&lt;i&gt; Блог&lt;/i&gt;) - Облако их считает Отдельными «облачками», а не одним Большим Облаком&amp;hellip;&lt;br /&gt;После перевода (редактирования) на английский - Облако отображается верно&amp;hellip;&lt;/p&gt;
 &lt;p&gt;Уверен, что для русской версии есть решение. Найду напишу здесь. Возможная причина это то, что данный скрипт (движок этого сайта) - это смесь &lt;i&gt;&lt;b&gt;MTOS-4.1-ru-RC1&lt;/b&gt;&lt;/i&gt; и &lt;i&gt;&lt;b&gt;MTP-4.12-en&lt;/b&gt;&lt;/i&gt; и поэтому не всё отображается корректно&amp;hellip;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Установка Movable Type 4 шаг за шагом со скриншотами</title>
-      <link>http://www.dmitrijev.ru/2008/07/ustanovka-movable-type-4-shag.php/</link>
+      <link>/2008/07/ustanovka-movable-type-4-shag.php/</link>
       <pubDate>Sun, 20 Jul 2008 08:42:03 +0000</pubDate>
-      <guid>http://www.dmitrijev.ru/2008/07/ustanovka-movable-type-4-shag.php/</guid>
+      <guid>/2008/07/ustanovka-movable-type-4-shag.php/</guid>
       <description>&lt;p&gt;&lt;span class=&#34;byline&#34;&gt;От &lt;a href=&#34;http://www.superxm.com/&#34;&gt;Nakamura&lt;/a&gt;. В моем переводе. С небольшими дополнениями и изменениями. По этой
 инструкции, с дополнением под моего хостера, удалось запустить MT.
 Оригинал расположен здесь -&lt;/span&gt; &lt;a href=&#34;http://www.superxm.com/2007/08/movable-type-4-installation-step-by-step-with-screenshots.html&#34;&gt;Movable Type 4 installation step by step with screenshots&lt;/a&gt;.&lt;/p&gt;
@@ -648,18 +1162,18 @@ Movable Type 4. Для того, чтобы иметь возможность в
     
     <item>
       <title>Приветствие!</title>
-      <link>http://www.dmitrijev.ru/2008/07/privetstvie.php/</link>
+      <link>/2008/07/privetstvie.php/</link>
       <pubDate>Sun, 20 Jul 2008 05:42:13 +0000</pubDate>
-      <guid>http://www.dmitrijev.ru/2008/07/privetstvie.php/</guid>
+      <guid>/2008/07/privetstvie.php/</guid>
       <description>&lt;p&gt;&lt;b&gt;&lt;font style=&#34;font-size: 1.25em;&#34;&gt;Приветствую&lt;/font&gt;&lt;/b&gt; &lt;i&gt;всех&lt;/i&gt;, &lt;u&gt;кто&lt;/u&gt; &lt;strike&gt;пометил&lt;/strike&gt; посетил &lt;a href=&#34;http://www.dmitrijev.ru/&#34;&gt;мою домашнюю страничку&lt;/a&gt;!&lt;/p&gt;
 &lt;p&gt;Расширенный текст&lt;br /&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Я установил Movable 4!</title>
-      <link>http://www.dmitrijev.ru/2008/07/ja-ustanovil-movable-4.php/</link>
+      <link>/2008/07/ja-ustanovil-movable-4.php/</link>
       <pubDate>Sun, 20 Jul 2008 05:33:04 +0000</pubDate>
-      <guid>http://www.dmitrijev.ru/2008/07/ja-ustanovil-movable-4.php/</guid>
+      <guid>/2008/07/ja-ustanovil-movable-4.php/</guid>
       <description>&lt;p&gt;Добро пожаловать в мой новый блог, созданный на платформе Movable Type. Это первая запись, она была создана для меня автоматически, когда закончился процесс установки. Уже скоро я создам собственные записи!&lt;/p&gt;
 &lt;h1 class=&#34;asset-name&#34;&gt;Movable Type 4 installation step by step with screenshots&lt;/h1&gt;&lt;b&gt;Quick instructions how to install Movable Type 4 publishing platform - step by step with screenshots!&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;The
 new and cool blog system is out - Movable Type 4, and i&#39;m giving you
@@ -724,18 +1238,18 @@ Movable Type 4 tips and tricks, feel free to bookmark me!&lt;/i&gt;&lt;br /&gt;&
     
     <item>
       <title>Шутка</title>
-      <link>http://www.dmitrijev.ru/2008/04/shutka.php/</link>
+      <link>/2008/04/shutka.php/</link>
       <pubDate>Tue, 01 Apr 2008 12:32:54 +0000</pubDate>
-      <guid>http://www.dmitrijev.ru/2008/04/shutka.php/</guid>
+      <guid>/2008/04/shutka.php/</guid>
       <description>&lt;p&gt;Мая пашутилло&lt;/p&gt;
 &lt;p&gt;о, е&amp;hellip;&lt;br /&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Frequently Asked Question</title>
-      <link>http://www.dmitrijev.ru/2004/03/frequently-asked-question.php/</link>
+      <link>/2004/03/frequently-asked-question.php/</link>
       <pubDate>Tue, 02 Mar 2004 02:08:00 +0000</pubDate>
-      <guid>http://www.dmitrijev.ru/2004/03/frequently-asked-question.php/</guid>
+      <guid>/2004/03/frequently-asked-question.php/</guid>
       <description>&lt;p&gt;Recently Movable Style has attracted quite a few visitors (current at
 around 200-300 unique visitors per day), and sorry if I have not
 updated the site or respond to your comments. I have been &lt;em&gt;busy&lt;/em&gt;&lt;/p&gt;
@@ -812,9 +1326,9 @@ need time to sit down and code it.&lt;/p&gt;
     
     <item>
       <title>Lines with a Modern Look</title>
-      <link>http://www.dmitrijev.ru/2004/01/lines-with-a-modern-look.php/</link>
+      <link>/2004/01/lines-with-a-modern-look.php/</link>
       <pubDate>Mon, 19 Jan 2004 04:02:00 +0000</pubDate>
-      <guid>http://www.dmitrijev.ru/2004/01/lines-with-a-modern-look.php/</guid>
+      <guid>/2004/01/lines-with-a-modern-look.php/</guid>
       <description>&lt;p&gt;I have just created a new style that utilises &lt;tt&gt;position: relative&lt;/tt&gt;
 to move the display of date to the side of the blog entries. Adding
 borders of different width, and I am trying to give it a modern look.
@@ -837,9 +1351,9 @@ I&#39;ll rather to keep this place a small collection of styles of my own.&lt;/p
     
     <item>
       <title>Dual License for Movable Styles</title>
-      <link>http://www.dmitrijev.ru/2004/01/dual-license-for-movable-style.php/</link>
+      <link>/2004/01/dual-license-for-movable-style.php/</link>
       <pubDate>Fri, 16 Jan 2004 11:03:58 +0000</pubDate>
-      <guid>http://www.dmitrijev.ru/2004/01/dual-license-for-movable-style.php/</guid>
+      <guid>/2004/01/dual-license-for-movable-style.php/</guid>
       <description>&lt;p&gt;Thanks to suggestion from &lt;a href=&#34;http://www.eadz.co.nz/&#34;&gt;Eaden&lt;/a&gt;, cascading style sheets on Movable Style will be dual licensed. Currently it is licensed under &lt;a href=&#34;http://creativecommons.org/licenses/by/1.0/&#34;&gt;Creative Common Attribution 1.0&lt;/a&gt;, which requires everyone who uses of MT styles created by me to give credit to me. That includes all the styles listed except &lt;a href=&#34;http://www.movablestyle.com/archives/000002.php&#34;&gt;Movable Type default styles&lt;/a&gt; (copyright &lt;a href=&#34;http://www.sixapart.com/&#34;&gt;Six Aprt&lt;/a&gt;) and &lt;a href=&#34;http://www.movablestyle.com/archives/000013.php&#34;&gt;Lovingrey&lt;/a&gt; (copyright &lt;a href=&#34;http://wavez.weblogs.us/&#34;&gt;Wavez&lt;/a&gt;). Now these styles can also be licensed under &lt;a href=&#34;http://www.gnu.org/copyleft/gpl.html&#34;&gt;GNU Public License 2&lt;/a&gt;, so that it can be modified and included into another weblogging tool, like PHP/Smarty based &lt;a href=&#34;http://www.bblog.com/&#34;&gt;BBlog&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Complicated? I think so as well. I am by no means a license expert, and
 I have never heard of GPLing a CSS file. But somehow this arrangement
@@ -851,9 +1365,9 @@ spirit of Free Software.&lt;/p&gt;</description>
     
     <item>
       <title>Lovingrey</title>
-      <link>http://www.dmitrijev.ru/2003/12/lovingrey.php/</link>
+      <link>/2003/12/lovingrey.php/</link>
       <pubDate>Thu, 18 Dec 2003 12:59:58 +0000</pubDate>
-      <guid>http://www.dmitrijev.ru/2003/12/lovingrey.php/</guid>
+      <guid>/2003/12/lovingrey.php/</guid>
       <description>&lt;p&gt;We have the first style submission yesterday. &lt;a href=&#34;http://wavez.weblogs.us/&#34;&gt;Wavez&lt;/a&gt; modified my &lt;a href=&#34;http://web.archive.org/web/20040202204720/http://www.movablestyle.com/archives/archives/000008.php&#34;&gt;Purple Orange&lt;/a&gt; theme, and created a dark-grey&#39;ish Movable Type style called &#34;Lovingrey&#34;, and have requested to be included here.&lt;/p&gt;
 &lt;blockquote&gt;Apply &lt;a href=&#34;http://www.movablestyle.com/archives/2003-12.php?style=Lovingrey&#34;&gt;Lovingrey&lt;/a&gt; style&lt;br /&gt;&lt;br /&gt;&lt;span class=&#34;mt-enclosure mt-enclosure-image&#34; style=&#34;display: inline;&#34;&gt;&lt;img alt=&#34;lovingrey.gif&#34; src=&#34;http://www.dmitrijev.ru/2008/07/29/lovingrey.gif&#34; class=&#34;mt-image-none&#34; style=&#34;&#34; height=&#34;197&#34; width=&#34;300&#34; /&gt;&lt;/span&gt;&lt;br /&gt;&lt;/blockquote&gt;
 &lt;p&gt;I do like to take more submission, especially original styles :)&lt;/p&gt;
@@ -862,9 +1376,9 @@ spirit of Free Software.&lt;/p&gt;</description>
     
     <item>
       <title>Enter The Matrix</title>
-      <link>http://www.dmitrijev.ru/2003/11/enter-the-matrix.php/</link>
+      <link>/2003/11/enter-the-matrix.php/</link>
       <pubDate>Wed, 12 Nov 2003 03:57:37 +0000</pubDate>
-      <guid>http://www.dmitrijev.ru/2003/11/enter-the-matrix.php/</guid>
+      <guid>/2003/11/enter-the-matrix.php/</guid>
       <description>&lt;p&gt;Here&#39;s a new Movale Type style that I&#39;ve created with an &lt;a href=&#34;http://whatisthematrix.warnerbros.com/rl-img/poster7.jpg&#34;&gt;image&lt;/a&gt; from the &lt;a href=&#34;http://web.archive.org/web/20040202204221/http://us.imdb.com/title/tt0234215/&#34;&gt;Matrix Reloaded&lt;/a&gt; poster.&lt;/p&gt;
 &lt;blockquote&gt;
 Apply &lt;a href=&#34;http://www.movablestyle.com/archives/2003-11.php?style=Matrix-Code&#34;&gt;Matrix Code&lt;/a&gt; style&lt;br /&gt;&lt;span class=&#34;mt-enclosure mt-enclosure-image&#34; style=&#34;display: inline;&#34;&gt;&lt;img alt=&#34;matrix-code.gif&#34; src=&#34;http://www.dmitrijev.ru/2008/07/29/matrix-code.gif&#34; class=&#34;mt-image-none&#34; style=&#34;&#34; height=&#34;197&#34; width=&#34;300&#34; /&gt;&lt;/span&gt;&lt;br /&gt;
@@ -880,9 +1394,9 @@ files.&lt;/p&gt;</description>
     
     <item>
       <title>Style with Mac Stripe</title>
-      <link>http://www.dmitrijev.ru/2003/10/style-with-mac-stripe.php/</link>
+      <link>/2003/10/style-with-mac-stripe.php/</link>
       <pubDate>Sun, 26 Oct 2003 03:20:09 +0000</pubDate>
-      <guid>http://www.dmitrijev.ru/2003/10/style-with-mac-stripe.php/</guid>
+      <guid>/2003/10/style-with-mac-stripe.php/</guid>
       <description>&lt;p&gt;I have been trying to come up with a style that assembles the look of &lt;a href=&#34;http://web.archive.org/web/20040405155230/http://www.apple.com/&#34;&gt;Apple&lt;/a&gt;&#39;s
 operating system, but has found it quite difficult without modifying
 the template file, as the UI is quite graphical intensive with lots of
@@ -897,9 +1411,9 @@ and call this new style &#34;Mac Stripe&#34;&lt;/p&gt;
     
     <item>
       <title>Moving Site</title>
-      <link>http://www.dmitrijev.ru/2003/10/moving-site.php/</link>
+      <link>/2003/10/moving-site.php/</link>
       <pubDate>Tue, 14 Oct 2003 06:10:57 +0000</pubDate>
-      <guid>http://www.dmitrijev.ru/2003/10/moving-site.php/</guid>
+      <guid>/2003/10/moving-site.php/</guid>
       <description>&lt;p&gt;I have recently registered the domain &lt;tt&gt;movablestyle.com&lt;/tt&gt;, and
 will serve this site at that same domain, using a separate MovableType
 database. It will still be on the same old home build Linux server
@@ -913,9 +1427,9 @@ yet...&lt;/li&gt;&lt;/ul&gt;</description>
     
     <item>
       <title>Preferred/Alternate Stylesheet</title>
-      <link>http://www.dmitrijev.ru/2003/10/preferredalternate-stylesheet.php/</link>
+      <link>/2003/10/preferredalternate-stylesheet.php/</link>
       <pubDate>Mon, 13 Oct 2003 07:13:23 +0000</pubDate>
-      <guid>http://www.dmitrijev.ru/2003/10/preferredalternate-stylesheet.php/</guid>
+      <guid>/2003/10/preferredalternate-stylesheet.php/</guid>
       <description>&lt;p&gt;One feature in the latest &lt;a href=&#34;http://www.mozilla.org/products/firebird/&#34;&gt;Mozilla Firebird&lt;/a&gt; is the ability to easily switch between different &lt;a href=&#34;http://www.w3.org/TR/REC-html40/present/styles.html#h-14.3.1&#34;&gt;alternate stylesheets&lt;/a&gt;
 provided by the document. It allows the author of the site to provide
 personalised look &amp;lsquo;n&amp;rsquo; feel, without changing the HTML source
@@ -935,9 +1449,9 @@ out the bandwidth a bit.&lt;/p&gt;</description>
     
     <item>
       <title>Hitting with a bit or warmth</title>
-      <link>http://www.dmitrijev.ru/2003/10/hitting-with-a-bit-or-warmth.php/</link>
+      <link>/2003/10/hitting-with-a-bit-or-warmth.php/</link>
       <pubDate>Sun, 05 Oct 2003 03:08:29 +0000</pubDate>
-      <guid>http://www.dmitrijev.ru/2003/10/hitting-with-a-bit-or-warmth.php/</guid>
+      <guid>/2003/10/hitting-with-a-bit-or-warmth.php/</guid>
       <description>&lt;p&gt;For the themes that I have created so far, you can see that I
 usually favour bright cold colour (either green or blue with white
 background). I decided that I want to try out something different
@@ -954,9 +1468,9 @@ into my collection of MovableType style sheets.&lt;/p&gt;
     
     <item>
       <title>Slashdot Style</title>
-      <link>http://www.dmitrijev.ru/2003/10/slashdot-style.php/</link>
+      <link>/2003/10/slashdot-style.php/</link>
       <pubDate>Sat, 04 Oct 2003 05:06:05 +0000</pubDate>
-      <guid>http://www.dmitrijev.ru/2003/10/slashdot-style.php/</guid>
+      <guid>/2003/10/slashdot-style.php/</guid>
       <description>&lt;p&gt;I have been reading &lt;a href=&#34;http://slashdot.org/&#34;&gt;Slashdot&lt;/a&gt;
 for at least 5-6 years I think, and it has to be one of the pioneers of
 weblogs. Even through it pushes out dozens of technology-related news
@@ -976,9 +1490,9 @@ template...&lt;/p&gt;
     
     <item>
       <title>Plain Blue</title>
-      <link>http://www.dmitrijev.ru/2003/10/plain-blue.php/</link>
+      <link>/2003/10/plain-blue.php/</link>
       <pubDate>Sat, 04 Oct 2003 03:04:03 +0000</pubDate>
-      <guid>http://www.dmitrijev.ru/2003/10/plain-blue.php/</guid>
+      <guid>/2003/10/plain-blue.php/</guid>
       <description>&lt;p&gt;Getting sick of border of different shade wrapping around each
 other? This style is much plainer than the previous boxed styles. It
 places the #links side bar to the right hand side, flowing down from
@@ -992,9 +1506,9 @@ of the page height...&lt;/p&gt;
     
     <item>
       <title>Another boxed style</title>
-      <link>http://www.dmitrijev.ru/2008/07/privetstvie.php/</link>
+      <link>/2008/07/privetstvie.php/</link>
       <pubDate>Sat, 04 Oct 2003 01:01:01 +0000</pubDate>
-      <guid>http://www.dmitrijev.ru/2008/07/privetstvie.php/</guid>
+      <guid>/2008/07/privetstvie.php/</guid>
       <description>&lt;p&gt;Well. There is nothing new in this one, but turning the &lt;a href=&#34;http://www.movablestyle.com/archives/000004.php&#34;&gt;previous style&lt;/a&gt; into a different colour theme, to prove that it is actually easy to take an existing style and change its colours.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;a href=&#34;http://www.movablestyle.com/archives/2003-10.php?style=Boxed-Green&#34;&gt;Boxed Theme in Green&lt;/a&gt;
@@ -1003,9 +1517,9 @@ of the page height...&lt;/p&gt;
     
     <item>
       <title>A boxed style</title>
-      <link>http://www.dmitrijev.ru/2003/09/a-boxed-style.php/</link>
+      <link>/2003/09/a-boxed-style.php/</link>
       <pubDate>Tue, 09 Sep 2003 02:58:40 +0000</pubDate>
-      <guid>http://www.dmitrijev.ru/2003/09/a-boxed-style.php/</guid>
+      <guid>/2003/09/a-boxed-style.php/</guid>
       <description>&lt;p&gt;I&#39;ve created a style that has bolders in neverly every DIV&#39;s, to
 help me to visualise the actual boundary. It has a gray scale theme,
 and #content and #links are positioned using absolute position. Here&#39;s
@@ -1017,9 +1531,9 @@ the theme:&lt;/p&gt;
     
     <item>
       <title>TypePad-Look-Alike Stylesheet</title>
-      <link>http://www.dmitrijev.ru/2003/09/typepadlookalike-stylesheet.php/</link>
+      <link>/2003/09/typepadlookalike-stylesheet.php/</link>
       <pubDate>Thu, 04 Sep 2003 02:56:00 +0000</pubDate>
-      <guid>http://www.dmitrijev.ru/2003/09/typepadlookalike-stylesheet.php/</guid>
+      <guid>/2003/09/typepadlookalike-stylesheet.php/</guid>
       <description>&lt;p&gt;This is the first stylesheet that I&#39;ve done for MovableStyle site!
 Well. The look &#39;n&#39; feel is nothing original, but imitate many existing
 sites on &lt;a href=&#34;http://www.typepad.com/&#34;&gt;TypePad.com&lt;/a&gt;, including Claudine&#39;s beta testing site.&lt;/p&gt;
@@ -1045,9 +1559,9 @@ Mozilla users will loose out. At the end, I just set up a fixed margin
     
     <item>
       <title>Default Styles from Movable Type</title>
-      <link>http://www.dmitrijev.ru/2003/09/default-styles-from-movable-ty.php/</link>
+      <link>/2003/09/default-styles-from-movable-ty.php/</link>
       <pubDate>Wed, 03 Sep 2003 05:52:37 +0000</pubDate>
-      <guid>http://www.dmitrijev.ru/2003/09/default-styles-from-movable-ty.php/</guid>
+      <guid>/2003/09/default-styles-from-movable-ty.php/</guid>
       <description>&lt;p&gt;These are the default stylesheets &lt;a href=&#34;http://www.movabletype.org/default-styles.shtml&#34;&gt;listed&lt;/a&gt; on the Movable Type website. These are probably the most common styles you&amp;rsquo;ll see around the web.&lt;/p&gt;
 &lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&#34;http://www.movablestyle.com/archives/2003-09.php?style=MovableType-Clean&#34;&gt;Clean&lt;/a&gt;&lt;/p&gt;
@@ -1062,9 +1576,9 @@ Mozilla users will loose out. At the end, I just set up a fixed margin
     
     <item>
       <title>First Entry</title>
-      <link>http://www.dmitrijev.ru/2003/09/first-entry.php/</link>
+      <link>/2003/09/first-entry.php/</link>
       <pubDate>Wed, 03 Sep 2003 02:47:48 +0000</pubDate>
-      <guid>http://www.dmitrijev.ru/2003/09/first-entry.php/</guid>
+      <guid>/2003/09/first-entry.php/</guid>
       <description>&lt;p&gt;I am starting this new blog to collect good CSS style sheets that
 work with the stock Movable Type template. Movable Type is powerful,
 and with its template engine, one can customise an unique blogsite by
@@ -1084,9 +1598,9 @@ paste right into their &#34;&lt;tt&gt;styles-site.css&lt;/tt&gt;&#34; template t
     
     <item>
       <title>about me</title>
-      <link>http://www.dmitrijev.ru/about/</link>
+      <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://www.dmitrijev.ru/about/</guid>
+      <guid>/about/</guid>
       <description></description>
     </item>
     

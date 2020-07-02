@@ -3,330 +3,365 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.dmitrijev.ru/courses/example/example1/</loc>
+    <loc>/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/courses/example/</loc>
+    <loc>/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/courses/example/example2/</loc>
+    <loc>/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/courses/example/example3/</loc>
+    <loc>/courses/example/example3/</loc>
     <lastmod>2019-05-05T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/talk/example/</loc>
+    <loc>/talk/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/talk/</loc>
+    <loc>/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/tag/demo/</loc>
+    <loc>/tag/demo/</loc>
     <lastmod>2020-06-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/project/internal-project/</loc>
+    <loc>/project/internal-project/</loc>
     <lastmod>2020-06-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/tag/links/</loc>
+    <loc>/tag/links/</loc>
     <lastmod>2020-06-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/project/</loc>
+    <loc>/project/</loc>
     <lastmod>2020-06-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2020-06-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/project/external-project/</loc>
+    <loc>/project/external-project/</loc>
     <lastmod>2020-06-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/category/academic/</loc>
+    <loc>/category/academic/</loc>
     <lastmod>2020-05-19T16:31:46+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/tag/blog/</loc>
+    <loc>/tag/blog/</loc>
     <lastmod>2020-05-19T16:31:46+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2020-05-19T16:31:46+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/post/my-article-name/</loc>
+    <loc>/post/my-article-name/</loc>
     <lastmod>2020-05-19T16:31:46+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2020-05-19T16:31:46+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/courses/</loc>
+    <loc>/blog/</loc>
+    <lastmod>2020-05-18T02:57:17+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/test/</loc>
+    <lastmod>2020-05-18T02:57:17+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/a/</loc>
+    <lastmod>2020-05-18T02:57:17+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/writing-technical-content/</loc>
+    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/publication-type/3/</loc>
+    <loc>/publication-type/3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/publication/preprint/</loc>
+    <loc>/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/authors/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <loc>/authors/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/publication_types/</loc>
+    <loc>/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/publication/</loc>
+    <loc>/publication/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/tag/source-themes/</loc>
+    <loc>/tag/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/author/vladimir-dmitrijev/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <loc>/author/vladimir-dmitrijev/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/slides/</loc>
+    <loc>/post/jupyter/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/slides/example/</loc>
+    <loc>/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/tag/academic/</loc>
+    <loc>/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/academic/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/post/getting-started/</loc>
+    <loc>/post/getting-started/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/category/demo/</loc>
+    <loc>/category/demo/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
+    <loc>/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/tag/%E5%BC%80%E6%BA%90/</loc>
+    <loc>/tag/%E5%BC%80%E6%BA%90/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/category/%E6%95%99%E7%A8%8B/</loc>
+    <loc>/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/publication-type/2/</loc>
+    <loc>/publication-type/2/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/publication/journal-article/</loc>
+    <loc>/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/author/robert-ford/</loc>
+    <loc>/author/robert-ford/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/publication-type/1/</loc>
+    <loc>/publication-type/1/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/publication/conference-paper/</loc>
+    <loc>/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/tag/bags/</loc>
+    <loc>/tag/bags/</loc>
     <lastmod>2008-07-23T04:23:42+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/</loc>
+    <loc>/category/movable-type/</loc>
     <lastmod>2008-07-23T04:23:42+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/category/movable-type/</loc>
+    <loc>/2008/07/oblako-russkix-tegov-dlja-mt.php/</loc>
     <lastmod>2008-07-23T04:23:42+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/2008/07/oblako-russkix-tegov-dlja-mt.php/</loc>
-    <lastmod>2008-07-23T04:23:42+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.dmitrijev.ru/2008/07/ustanovka-movable-type-4-shag.php/</loc>
+    <loc>/2008/07/ustanovka-movable-type-4-shag.php/</loc>
     <lastmod>2008-07-20T08:42:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/2008/07/privetstvie.php/</loc>
+    <loc>/2008/07/privetstvie.php/</loc>
     <lastmod>2008-07-20T05:42:13+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/2008/07/ja-ustanovil-movable-4.php/</loc>
+    <loc>/2008/07/ja-ustanovil-movable-4.php/</loc>
     <lastmod>2008-07-20T05:33:04+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/2008/04/shutka.php/</loc>
+    <loc>/2008/04/shutka.php/</loc>
     <lastmod>2008-04-01T12:32:54+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/2004/03/frequently-asked-question.php/</loc>
+    <loc>/2004/03/frequently-asked-question.php/</loc>
     <lastmod>2004-03-02T02:08:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/tag/mtstyle/</loc>
+    <loc>/tag/mtstyle/</loc>
     <lastmod>2004-03-02T02:08:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/2004/01/lines-with-a-modern-look.php/</loc>
+    <loc>/2004/01/lines-with-a-modern-look.php/</loc>
     <lastmod>2004-01-19T04:02:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/2004/01/dual-license-for-movable-style.php/</loc>
+    <loc>/2004/01/dual-license-for-movable-style.php/</loc>
     <lastmod>2004-01-16T11:03:58+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/2003/12/lovingrey.php/</loc>
+    <loc>/2003/12/lovingrey.php/</loc>
     <lastmod>2003-12-18T12:59:58+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/2003/11/enter-the-matrix.php/</loc>
+    <loc>/2003/11/enter-the-matrix.php/</loc>
     <lastmod>2003-11-12T03:57:37+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/2003/10/style-with-mac-stripe.php/</loc>
+    <loc>/2003/10/style-with-mac-stripe.php/</loc>
     <lastmod>2003-10-26T03:20:09+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/2003/10/moving-site.php/</loc>
+    <loc>/2003/10/moving-site.php/</loc>
     <lastmod>2003-10-14T06:10:57+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/2003/10/preferredalternate-stylesheet.php/</loc>
+    <loc>/2003/10/preferredalternate-stylesheet.php/</loc>
     <lastmod>2003-10-13T07:13:23+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/2003/10/hitting-with-a-bit-or-warmth.php/</loc>
+    <loc>/2003/10/hitting-with-a-bit-or-warmth.php/</loc>
     <lastmod>2003-10-05T03:08:29+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/2003/10/slashdot-style.php/</loc>
+    <loc>/2003/10/slashdot-style.php/</loc>
     <lastmod>2003-10-04T05:06:05+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/2003/10/plain-blue.php/</loc>
+    <loc>/2003/10/plain-blue.php/</loc>
     <lastmod>2003-10-04T03:04:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/2008/07/privetstvie.php/</loc>
+    <loc>/2008/07/privetstvie.php/</loc>
     <lastmod>2003-10-04T01:01:01+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/2003/09/a-boxed-style.php/</loc>
+    <loc>/2003/09/a-boxed-style.php/</loc>
     <lastmod>2003-09-09T02:58:40+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/2003/09/typepadlookalike-stylesheet.php/</loc>
+    <loc>/2003/09/typepadlookalike-stylesheet.php/</loc>
     <lastmod>2003-09-04T02:56:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/2003/09/default-styles-from-movable-ty.php/</loc>
+    <loc>/2003/09/default-styles-from-movable-ty.php/</loc>
     <lastmod>2003-09-03T05:52:37+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/2003/09/first-entry.php/</loc>
+    <loc>/2003/09/first-entry.php/</loc>
     <lastmod>2003-09-03T02:47:48+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/about/</loc>
+    <loc>/about/</loc>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/mt/</loc>
+    <loc>/mt/</loc>
   </url>
   
   <url>
-    <loc>http://www.dmitrijev.ru/movable-type/</loc>
+    <loc>/movable-type/</loc>
   </url>
   
 </urlset>
