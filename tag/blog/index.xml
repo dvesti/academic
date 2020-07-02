@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog | Dmitrijev.ru</title>
-    <link>http://example.com/academic/tag/blog/</link>
-      <atom:link href="http://example.com/academic/tag/blog/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://www.dmitrijev.ru/tag/blog/</link>
+      <atom:link href="http://www.dmitrijev.ru/tag/blog/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru</language><lastBuildDate>Tue, 19 May 2020 16:31:46 +0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru</language><copyright>© Vladimir Dmitrijev 2003-2020</copyright><lastBuildDate>Tue, 19 May 2020 16:31:46 +0300</lastBuildDate>
     <image>
-      <url>http://example.com/academic/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>http://www.dmitrijev.ru/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Blog</title>
-      <link>http://example.com/academic/tag/blog/</link>
+      <link>http://www.dmitrijev.ru/tag/blog/</link>
     </image>
     
     <item>
       <title>My Article Name</title>
-      <link>http://example.com/academic/post/my-article-name/</link>
+      <link>http://www.dmitrijev.ru/post/my-article-name/</link>
       <pubDate>Tue, 19 May 2020 16:31:46 +0300</pubDate>
-      <guid>http://example.com/academic/post/my-article-name/</guid>
+      <guid>http://www.dmitrijev.ru/post/my-article-name/</guid>
       <description>&lt;p&gt;проверка&lt;/p&gt;
 &lt;p&gt;Два притопа &amp;ndash; три &lt;strong&gt;прихлопа&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://www.dmitriev.ee/punbb/extensions/chess_diagram/gendiag-jane.php?coord&amp;amp;size=29&amp;amp;style=merida&amp;amp;fen=r1bq1rk1/p1p2pb1/1p1p3p/2nPp1p1/2P1P3/2NB1NP1/PP2QPP1/R3R1K1+w+-+-+0+15&#34; alt=&#34;Диаграмма&#34;&gt;
-r1bq1rk1/p1p2pb1/1p1p3p/2nPp1p1/2P1P3/2NB1NP1/PP2QPP1/R3R1K1+w+-+-+0+15&lt;/p&gt;
+&lt;strong&gt;FEN&lt;/strong&gt;: r1bq1rk1/p1p2pb1/1p1p3p/2nPp1p1/2P1P3/2NB1NP1/PP2QPP1/R3R1K1&lt;/p&gt;
 &lt;p&gt;Картинка
 &lt;img src=&#34;https://www.dmitriev.ee/punbb/extensions/chess_diagram/gendiag-fritz.php?size=29&amp;amp;coord&amp;amp;style=alfa&amp;amp;fen=r6b/p1pq1p1k/1p2p1rp/4PpBQ/3P1P2/2PR2R1/P5PP/6K1&#34; alt=&#34;Диаграмма2&#34;&gt;
-r6b/p1pq1p1k/1p2p1rp/4PpBQ/3P1P2/2PR2R1/P5PP/6K1&lt;/p&gt;
+&lt;strong&gt;FEN:&lt;/strong&gt; r6b/p1pq1p1k/1p2p1rp/4PpBQ/3P1P2/2PR2R1/P5PP/6K1&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;http://www.euruchess.org/diagol/29/diagol.php?position=r1bq1rk1/p1p2pb1/1p1p3p/2nPp1p1/2P1P3/2NB1NP1/PP2QPP1/R3R1K1%20w%20-%20-%200%2015&#34; alt=&#34;Диаграмма3&#34;&gt;
-r1bq1rk1/p1p2pb1/1p1p3p/2nPp1p1/2P1P3/2NB1NP1/PP2QPP1/R3R1K1%20w%20-%20-%200%2015&lt;/p&gt;
+&lt;strong&gt;FEN:&lt;/strong&gt; r1bq1rk1/p1p2pb1/1p1p3p/2nPp1p1/2P1P3/2NB1NP1/PP2QPP1/R3R1K1&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://www.dmitriev.ee/punbb/extensions/cd52/gendiag.php?size=29&amp;amp;coord&amp;amp;style=alfa&amp;amp;fen=r6b/p1pq1p1k/1p2p1rp/4PpBQ/3P1P2/2PR2R1/P5PP/6K1&#34; alt=&#34;Диаграмма3&#34;&gt;&lt;/p&gt;
 &lt;p&gt;An example &lt;strong&gt;flowchart&lt;/strong&gt;:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;```mermaid
@@ -88,223 +88,10 @@ Bob--&amp;gt;&amp;gt;John: Jolly good!
     </item>
     
     <item>
-      <title>Программа «A»</title>
-      <link>http://example.com/academic/post/a/</link>
-      <pubDate>Mon, 18 May 2020 02:57:17 +0300</pubDate>
-      <guid>http://example.com/academic/post/a/</guid>
-      <description>&lt;p&gt;Всем привет!&lt;/p&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;h2 id=&#34;normal-use&#34;&gt;normal use&lt;/h2&gt;
-&lt;p&gt;&lt;code&gt;Note&lt;/code&gt; example:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-shortcode&#34;&gt;{{&amp;lt; alert note &amp;gt;}}
-&amp;lt;p&amp;gt;A notice disclaimer&amp;lt;/p&amp;gt;
-{{&amp;lt; /alert &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;strong&gt;Result:&lt;/strong&gt;&lt;/p&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    A notice disclaimer
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;!--more--&gt;
-&lt;p&gt;You could &lt;strong&gt;custom title&lt;/strong&gt; :&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-shortcode&#34;&gt;{{&amp;lt; alert note Примечание &amp;gt;}}
-&amp;lt;p&amp;gt;A notice disclaimer&amp;lt;/p&amp;gt;
-{{&amp;lt; /alert &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    A notice disclaimer
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&#34;tip&#34;&gt;tip&lt;/h2&gt;
-&lt;pre&gt;&lt;code class=&#34;language-js&#34;&gt;{{&amp;lt; alert tip &amp;gt;}}
-&amp;lt;p&amp;gt;A tip disclaimer&amp;lt;/p&amp;gt;
-{{&amp;lt; /alert &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;div class=&#34;alert alert-tip&#34;&gt;
-  &lt;div&gt;
-    A tip disclaimer
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&#34;info&#34;&gt;info&lt;/h2&gt;
-&lt;pre&gt;&lt;code class=&#34;language-html&#34;&gt;{{&amp;lt; alert info &amp;gt;}}
-&amp;lt;p&amp;gt;A info disclaimer&amp;lt;/p&amp;gt;
-{{&amp;lt; /alert &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;div class=&#34;alert alert-info&#34;&gt;
-  &lt;div&gt;
-    An information disclaimer
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&#34;warning&#34;&gt;warning&lt;/h2&gt;
-&lt;pre&gt;&lt;code class=&#34;language-shjs&#34;&gt;{{&amp;lt; alert warning &amp;gt;}}
-&amp;lt;p&amp;gt;A warning disclaimer&amp;lt;/p&amp;gt;
-{{&amp;lt; /alert &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;div class=&#34;alert alert-warning&#34;&gt;
-  &lt;div&gt;
-    An warning disclaimer
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h1 id=&#34;output-successfully-escaped---шорткод---highlight&#34;&gt;Output: Successfully escaped - шорткод - highlight&lt;/h1&gt;
-&lt;h2 id=&#34;python&#34;&gt;Python&lt;/h2&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;  &lt;span style=&#34;color:#a6e22e&#34;&gt;@requires_authorization&lt;/span&gt;
-&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;somefunc&lt;/span&gt;(param1&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;&amp;#39;&lt;/span&gt;, param2&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;):
-    &lt;span style=&#34;color:#e6db74&#34;&gt;r&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;&amp;#39;&amp;#39;A docstring&amp;#39;&amp;#39;&amp;#39;&lt;/span&gt;
-    &lt;span style=&#34;color:#66d9ef&#34;&gt;if&lt;/span&gt; param1 &lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&lt;/span&gt; param2: &lt;span style=&#34;color:#75715e&#34;&gt;# interesting&lt;/span&gt;
-        &lt;span style=&#34;color:#66d9ef&#34;&gt;print&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;Gre&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;\&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;ater&amp;#39;&lt;/span&gt;
-    &lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt; (param2 &lt;span style=&#34;color:#f92672&#34;&gt;-&lt;/span&gt; param1 &lt;span style=&#34;color:#f92672&#34;&gt;+&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;+&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;0b10&lt;/span&gt;l) &lt;span style=&#34;color:#f92672&#34;&gt;or&lt;/span&gt; None
-
-&lt;span style=&#34;color:#66d9ef&#34;&gt;class&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;SomeClass&lt;/span&gt;:
-    &lt;span style=&#34;color:#66d9ef&#34;&gt;pass&lt;/span&gt;
-
-&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; message &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;&amp;#39;&amp;#39;interpreter
-&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;... prompt&amp;#39;&amp;#39;&amp;#39;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h2 id=&#34;php&#34;&gt;PHP&lt;/h2&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-php&#34; data-lang=&#34;php&#34;&gt; require_once &amp;#39;Zend/Uri/Http.php&amp;#39;;
-
-namespace Location\Web;
-
-interface Factory
-{
-    static function _factory();
-}
-
-abstract class URI extends BaseURI implements Factory
-{
-    abstract function test();
-
-    public static $st1 = 1;
-    const ME = &amp;#34;Yo&amp;#34;;
-    var $list = NULL;
-    private $var;
-
-    /**
-     * Returns a URI
-     *
-     * @return URI
-     */
-    static public function _factory($stats = array(), $uri = &amp;#39;http&amp;#39;)
-    {
-        echo __METHOD__;
-        $uri = explode(&amp;#39;:&amp;#39;, $uri, 0b10);
-        $schemeSpecific = isset($uri[1]) ? $uri[1] : &amp;#39;&amp;#39;;
-        $desc = &amp;#39;Multi
-line description&amp;#39;;
-
-        // Security check
-        if (!ctype_alnum($scheme)) {
-            throw new Zend_Uri_Exception(&amp;#39;Illegal scheme&amp;#39;);
-        }
-
-        $this-&amp;gt;var = 0 - self::$st;
-        $this-&amp;gt;list = list(Array(&amp;#34;1&amp;#34;=&amp;gt; 2, 2=&amp;gt;self::ME, 3 =&amp;gt; \Location\Web\URI::class));
-
-        return [
-            &amp;#39;uri&amp;#39;   =&amp;gt; $uri,
-            &amp;#39;value&amp;#39; =&amp;gt; null,
-        ];
-    }
-}
-
-echo URI::ME . URI::$st1;
-
-__halt_compiler () ; datahere
-datahere
-datahere */
-datahere&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h2 id=&#34;javascript&#34;&gt;JavaScript&lt;/h2&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-js&#34; data-lang=&#34;js&#34;&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;function&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;$initHighlight&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;block&lt;/span&gt;, &lt;span style=&#34;color:#a6e22e&#34;&gt;cls&lt;/span&gt;) {
-  &lt;span style=&#34;color:#66d9ef&#34;&gt;try&lt;/span&gt; {
-    &lt;span style=&#34;color:#66d9ef&#34;&gt;if&lt;/span&gt; (&lt;span style=&#34;color:#a6e22e&#34;&gt;cls&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;search&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;/\bno\-highlight\b/&lt;/span&gt;) &lt;span style=&#34;color:#f92672&#34;&gt;!=&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;-&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;)
-      &lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;process&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;block&lt;/span&gt;, &lt;span style=&#34;color:#66d9ef&#34;&gt;true&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;0x0F&lt;/span&gt;) &lt;span style=&#34;color:#f92672&#34;&gt;+&lt;/span&gt;
-             &lt;span style=&#34;color:#e6db74&#34;&gt;` class=&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;${&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;cls&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;}&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;`&lt;/span&gt;;
-  } &lt;span style=&#34;color:#66d9ef&#34;&gt;catch&lt;/span&gt; (&lt;span style=&#34;color:#a6e22e&#34;&gt;e&lt;/span&gt;) {
-    &lt;span style=&#34;color:#75715e&#34;&gt;/* handle exception */&lt;/span&gt;
-  }
-  &lt;span style=&#34;color:#66d9ef&#34;&gt;for&lt;/span&gt; (&lt;span style=&#34;color:#66d9ef&#34;&gt;var&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;i&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;/&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;; &lt;span style=&#34;color:#a6e22e&#34;&gt;i&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;classes&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;length&lt;/span&gt;; &lt;span style=&#34;color:#a6e22e&#34;&gt;i&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;++&lt;/span&gt;) {
-    &lt;span style=&#34;color:#66d9ef&#34;&gt;if&lt;/span&gt; (&lt;span style=&#34;color:#a6e22e&#34;&gt;checkCondition&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;classes&lt;/span&gt;[&lt;span style=&#34;color:#a6e22e&#34;&gt;i&lt;/span&gt;]) &lt;span style=&#34;color:#f92672&#34;&gt;===&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;undefined&lt;/span&gt;)
-      &lt;span style=&#34;color:#a6e22e&#34;&gt;console&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;log&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;undefined&amp;#39;&lt;/span&gt;);
-  }
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h2 id=&#34;html&#34;&gt;HTML&lt;/h2&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt; &lt;span style=&#34;color:#75715e&#34;&gt;&amp;lt;!DOCTYPE html&amp;gt;&lt;/span&gt;
-&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;title&lt;/span&gt;&amp;gt;Title&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;title&lt;/span&gt;&amp;gt;
-
-&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;style&lt;/span&gt;&amp;gt;&lt;span style=&#34;color:#f92672&#34;&gt;body&lt;/span&gt; {&lt;span style=&#34;color:#66d9ef&#34;&gt;width&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;500&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;px&lt;/span&gt;;}&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;style&lt;/span&gt;&amp;gt;
-
-&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;script&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;type&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;application/javascript&amp;#34;&lt;/span&gt;&amp;gt;
-  &lt;span style=&#34;color:#66d9ef&#34;&gt;function&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;$init&lt;/span&gt;() {&lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;true&lt;/span&gt;;}
-&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;script&lt;/span&gt;&amp;gt;
-
-&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;body&lt;/span&gt;&amp;gt;
-  &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;p&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;checked&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;class&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;title&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;id&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;title&amp;#39;&lt;/span&gt;&amp;gt;Title&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;p&lt;/span&gt;&amp;gt;
-  &lt;span style=&#34;color:#75715e&#34;&gt;&amp;lt;!-- here goes the rest of the page --&amp;gt;&lt;/span&gt;
-&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;body&lt;/span&gt;&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;div class=&#34;alert alert-primary&#34;&gt;
-  &lt;div&gt;
-    This is a primary alert—check it out!
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;alert alert-secondary&#34;&gt;
-  &lt;div&gt;
-    This is a secondary alert—check it out!
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;alert alert-success&#34;&gt;
-  &lt;div&gt;
-    This is a success alert—check it out!
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;alert alert-info&#34;&gt;
-  &lt;div&gt;
-    This is a info alert—check it out!
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;alert alert-warning&#34;&gt;
-  &lt;div&gt;
-    This is a warning alert—check it out!
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;alert alert-danger&#34;&gt;
-  &lt;div&gt;
-    This is a danger alert—check it out!
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;alert alert-dark&#34;&gt;
-  &lt;div&gt;
-    This is a dark alert—check it out!
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;alert alert-light&#34;&gt;
-  &lt;div&gt;
-    This is a light alert—check it out!
-  &lt;/div&gt;
-&lt;/div&gt;</description>
-    </item>
-    
-    <item>
       <title>Установка Movable Type 4 шаг за шагом со скриншотами</title>
-      <link>http://example.com/academic/2008/07/ustanovka-movable-type-4-shag.php/</link>
+      <link>http://www.dmitrijev.ru/2008/07/ustanovka-movable-type-4-shag.php/</link>
       <pubDate>Sun, 20 Jul 2008 08:42:03 +0000</pubDate>
-      <guid>http://example.com/academic/2008/07/ustanovka-movable-type-4-shag.php/</guid>
+      <guid>http://www.dmitrijev.ru/2008/07/ustanovka-movable-type-4-shag.php/</guid>
       <description>&lt;p&gt;&lt;span class=&#34;byline&#34;&gt;От &lt;a href=&#34;http://www.superxm.com/&#34;&gt;Nakamura&lt;/a&gt;. В моем переводе. С небольшими дополнениями и изменениями. По этой
 инструкции, с дополнением под моего хостера, удалось запустить MT.
 Оригинал расположен здесь -&lt;/span&gt; &lt;a href=&#34;http://www.superxm.com/2007/08/movable-type-4-installation-step-by-step-with-screenshots.html&#34;&gt;Movable Type 4 installation step by step with screenshots&lt;/a&gt;.&lt;/p&gt;
@@ -414,18 +201,18 @@ Movable Type 4. Для того, чтобы иметь возможность в
     
     <item>
       <title>Приветствие!</title>
-      <link>http://example.com/academic/2008/07/privetstvie.php/</link>
+      <link>http://www.dmitrijev.ru/2008/07/privetstvie.php/</link>
       <pubDate>Sun, 20 Jul 2008 05:42:13 +0000</pubDate>
-      <guid>http://example.com/academic/2008/07/privetstvie.php/</guid>
+      <guid>http://www.dmitrijev.ru/2008/07/privetstvie.php/</guid>
       <description>&lt;p&gt;&lt;b&gt;&lt;font style=&#34;font-size: 1.25em;&#34;&gt;Приветствую&lt;/font&gt;&lt;/b&gt; &lt;i&gt;всех&lt;/i&gt;, &lt;u&gt;кто&lt;/u&gt; &lt;strike&gt;пометил&lt;/strike&gt; посетил &lt;a href=&#34;http://www.dmitrijev.ru/&#34;&gt;мою домашнюю страничку&lt;/a&gt;!&lt;/p&gt;
 &lt;p&gt;Расширенный текст&lt;br /&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Я установил Movable 4!</title>
-      <link>http://example.com/academic/2008/07/ja-ustanovil-movable-4.php/</link>
+      <link>http://www.dmitrijev.ru/2008/07/ja-ustanovil-movable-4.php/</link>
       <pubDate>Sun, 20 Jul 2008 05:33:04 +0000</pubDate>
-      <guid>http://example.com/academic/2008/07/ja-ustanovil-movable-4.php/</guid>
+      <guid>http://www.dmitrijev.ru/2008/07/ja-ustanovil-movable-4.php/</guid>
       <description>&lt;p&gt;Добро пожаловать в мой новый блог, созданный на платформе Movable Type. Это первая запись, она была создана для меня автоматически, когда закончился процесс установки. Уже скоро я создам собственные записи!&lt;/p&gt;
 &lt;h1 class=&#34;asset-name&#34;&gt;Movable Type 4 installation step by step with screenshots&lt;/h1&gt;&lt;b&gt;Quick instructions how to install Movable Type 4 publishing platform - step by step with screenshots!&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;The
 new and cool blog system is out - Movable Type 4, and i&#39;m giving you
@@ -490,9 +277,9 @@ Movable Type 4 tips and tricks, feel free to bookmark me!&lt;/i&gt;&lt;br /&gt;&
     
     <item>
       <title>Шутка</title>
-      <link>http://example.com/academic/2008/04/shutka.php/</link>
+      <link>http://www.dmitrijev.ru/2008/04/shutka.php/</link>
       <pubDate>Tue, 01 Apr 2008 12:32:54 +0000</pubDate>
-      <guid>http://example.com/academic/2008/04/shutka.php/</guid>
+      <guid>http://www.dmitrijev.ru/2008/04/shutka.php/</guid>
       <description>&lt;p&gt;Мая пашутилло&lt;/p&gt;
 &lt;p&gt;о, е&amp;hellip;&lt;br /&gt;&lt;/p&gt;</description>
     </item>
