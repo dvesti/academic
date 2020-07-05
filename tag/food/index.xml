@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Food | Dmitrijev.ru</title>
-    <link>/academic/tag/food/</link>
-      <atom:link href="/academic/tag/food/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/food/</link>
+      <atom:link href="/tag/food/index.xml" rel="self" type="application/rss+xml" />
     <description>Food</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru</language><copyright>© Vladimir Dmitrijev 2003-2020</copyright><lastBuildDate>Sun, 05 Jul 2020 13:42:13 +0300</lastBuildDate>
     <image>
-      <url>/academic/images/icon_hu4f7f1b8434ceb601df928cdf3e46831d_46965_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu4f7f1b8434ceb601df928cdf3e46831d_46965_512x512_fill_lanczos_center_2.png</url>
       <title>Food</title>
-      <link>/academic/tag/food/</link>
+      <link>/tag/food/</link>
     </image>
     
     <item>
       <title>Не все клубни, как клубни</title>
-      <link>/academic/blog/potatos/</link>
+      <link>/blog/potatos/</link>
       <pubDate>Sun, 05 Jul 2020 13:42:13 +0300</pubDate>
-      <guid>/academic/blog/potatos/</guid>
+      <guid>/blog/potatos/</guid>
       <description>&lt;p&gt;Купленная картошка и оставленная на полу в пакете сгнила через 3 дня. И не жарко было. Клубни превратились в кисель на радость мушкам.&lt;/p&gt;
 &lt;p&gt;Половину всё же удалось спасти: 5 штучек. Помыл и сразу сварил.&lt;br&gt;
 Варил 1 час — твёрдые, как кирпич. И верно: кирпич, как показывает практика, гниёт долго…&lt;/p&gt;</description>
