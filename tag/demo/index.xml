@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Demo | Dmitrijev.ru</title>
-    <link>https://dvesti.github.io/academic/tag/demo/</link>
-      <atom:link href="https://dvesti.github.io/academic/tag/demo/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dmitrijev.ru/tag/demo/</link>
+      <atom:link href="https://dmitrijev.ru/tag/demo/index.xml" rel="self" type="application/rss+xml" />
     <description>Demo</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru</language><copyright>© Vladimir Dmitrijev 2003-2020</copyright><lastBuildDate>Fri, 26 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://dvesti.github.io/academic/images/icon_hu4f7f1b8434ceb601df928cdf3e46831d_46965_512x512_fill_lanczos_center_2.png</url>
+      <url>https://dmitrijev.ru/images/icon_hu4f7f1b8434ceb601df928cdf3e46831d_46965_512x512_fill_lanczos_center_2.png</url>
       <title>Demo</title>
-      <link>https://dvesti.github.io/academic/tag/demo/</link>
+      <link>https://dmitrijev.ru/tag/demo/</link>
     </image>
     
     <item>
       <title>Шахматный портал -- Euruchess.org</title>
-      <link>https://dvesti.github.io/academic/project/external-project/</link>
+      <link>https://dmitrijev.ru/project/external-project/</link>
       <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://dvesti.github.io/academic/project/external-project/</guid>
+      <guid>https://dmitrijev.ru/project/external-project/</guid>
       <description></description>
     </item>
     

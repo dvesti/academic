@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types | Dmitrijev.ru</title>
-    <link>https://dvesti.github.io/academic/publication_types/</link>
-      <atom:link href="https://dvesti.github.io/academic/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dmitrijev.ru/publication_types/</link>
+      <atom:link href="https://dmitrijev.ru/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru</language><copyright>© Vladimir Dmitrijev 2003-2020</copyright><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://dvesti.github.io/academic/images/icon_hu4f7f1b8434ceb601df928cdf3e46831d_46965_512x512_fill_lanczos_center_2.png</url>
+      <url>https://dmitrijev.ru/images/icon_hu4f7f1b8434ceb601df928cdf3e46831d_46965_512x512_fill_lanczos_center_2.png</url>
       <title>Publication_types</title>
-      <link>https://dvesti.github.io/academic/publication_types/</link>
+      <link>https://dmitrijev.ru/publication_types/</link>
     </image>
     
   </channel>

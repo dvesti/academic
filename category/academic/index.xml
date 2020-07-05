@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic | Dmitrijev.ru</title>
-    <link>https://dvesti.github.io/academic/category/academic/</link>
-      <atom:link href="https://dvesti.github.io/academic/category/academic/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dmitrijev.ru/category/academic/</link>
+      <atom:link href="https://dmitrijev.ru/category/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru</language><copyright>© Vladimir Dmitrijev 2003-2020</copyright><lastBuildDate>Sun, 05 Jul 2020 17:30:13 +0300</lastBuildDate>
     <image>
-      <url>https://dvesti.github.io/academic/images/icon_hu4f7f1b8434ceb601df928cdf3e46831d_46965_512x512_fill_lanczos_center_2.png</url>
+      <url>https://dmitrijev.ru/images/icon_hu4f7f1b8434ceb601df928cdf3e46831d_46965_512x512_fill_lanczos_center_2.png</url>
       <title>Academic</title>
-      <link>https://dvesti.github.io/academic/category/academic/</link>
+      <link>https://dmitrijev.ru/category/academic/</link>
     </image>
     
     <item>
       <title>Статьи можно комментировать</title>
-      <link>https://dvesti.github.io/academic/blog/add-comments/</link>
+      <link>https://dmitrijev.ru/blog/add-comments/</link>
       <pubDate>Sun, 05 Jul 2020 17:30:13 +0300</pubDate>
-      <guid>https://dvesti.github.io/academic/blog/add-comments/</guid>
+      <guid>https://dmitrijev.ru/blog/add-comments/</guid>
       <description>&lt;p&gt;Добавил возможность под каждой статьёй оставлять свой комментарий&lt;/p&gt;
 &lt;p&gt;Для этого использовал 
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/customization/#comments&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;это&lt;/strong&gt;&lt;/a&gt; руководство.&lt;br&gt;
@@ -26,9 +26,9 @@
     
     <item>
       <title>My Article Name – Тест</title>
-      <link>https://dvesti.github.io/academic/blog/my-article-name-%D1%82%D0%B5%D1%81%D1%82/</link>
+      <link>https://dmitrijev.ru/blog/my-article-name-%D1%82%D0%B5%D1%81%D1%82/</link>
       <pubDate>Tue, 19 May 2020 16:31:46 +0300</pubDate>
-      <guid>https://dvesti.github.io/academic/blog/my-article-name-%D1%82%D0%B5%D1%81%D1%82/</guid>
+      <guid>https://dmitrijev.ru/blog/my-article-name-%D1%82%D0%B5%D1%81%D1%82/</guid>
       <description>&lt;p&gt;Проверка Шахматных Диаграмм&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://www.dmitriev.ee/punbb/extensions/chess_diagram/gendiag-jane.php?coord&amp;amp;size=29&amp;amp;style=merida&amp;amp;fen=r1bq1rk1/p1p2pb1/1p1p3p/2nPp1p1/2P1P3/2NB1NP1/PP2QPP1/R3R1K1+w+-+-+0+15&#34; alt=&#34;Диаграмма&#34;&gt;
 &lt;strong&gt;FEN&lt;/strong&gt;: &lt;code&gt;r1bq1rk1/p1p2pb1/1p1p3p/2nPp1p1/2P1P3/2NB1NP1/PP2QPP1/R3R1K1&lt;/code&gt;&lt;/p&gt;
