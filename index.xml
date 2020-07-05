@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dmitrijev.ru</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dvesti.github.io/academic/</link>
+      <atom:link href="https://dvesti.github.io/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Dmitrijev.ru</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru</language><copyright>© Vladimir Dmitrijev 2003-2020</copyright><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate>
     <image>
-      <url>/images/icon_hu4f7f1b8434ceb601df928cdf3e46831d_46965_512x512_fill_lanczos_center_2.png</url>
+      <url>https://dvesti.github.io/academic/images/icon_hu4f7f1b8434ceb601df928cdf3e46831d_46965_512x512_fill_lanczos_center_2.png</url>
       <title>Dmitrijev.ru</title>
-      <link>/</link>
+      <link>https://dvesti.github.io/academic/</link>
     </image>
     
     <item>
       <title>Example Page 1</title>
-      <link>/courses/example/example1/</link>
+      <link>https://dvesti.github.io/academic/courses/example/example1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/example/example1/</guid>
+      <guid>https://dvesti.github.io/academic/courses/example/example1/</guid>
       <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -35,9 +35,9 @@
     
     <item>
       <title>Example Page 2</title>
-      <link>/courses/example/example2/</link>
+      <link>https://dvesti.github.io/academic/courses/example/example2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/example/example2/</guid>
+      <guid>https://dvesti.github.io/academic/courses/example/example2/</guid>
       <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -56,9 +56,9 @@
     
     <item>
       <title>Example Page 3</title>
-      <link>/courses/example/example3/</link>
+      <link>https://dvesti.github.io/academic/courses/example/example3/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0200</pubDate>
-      <guid>/courses/example/example3/</guid>
+      <guid>https://dvesti.github.io/academic/courses/example/example3/</guid>
       <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-5&#34;&gt;Tip 5&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -77,9 +77,9 @@
     
     <item>
       <title>Example Talk</title>
-      <link>/talk/example/</link>
+      <link>https://dvesti.github.io/academic/talk/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>/talk/example/</guid>
+      <guid>https://dvesti.github.io/academic/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -99,9 +99,9 @@
     
     <item>
       <title>Оруэлл «1984»</title>
-      <link>/blog/orwell-1984/</link>
+      <link>https://dvesti.github.io/academic/blog/orwell-1984/</link>
       <pubDate>Sun, 05 Jul 2020 21:30:13 +0300</pubDate>
-      <guid>/blog/orwell-1984/</guid>
+      <guid>https://dvesti.github.io/academic/blog/orwell-1984/</guid>
       <description>&lt;p&gt;За день упоминание о романе Джорджа Оруэлла &lt;strong&gt;«1984»&lt;/strong&gt; встретил 3 раза. Редкое совпадение. Правда, иногда подразумевали и &lt;strong&gt;«Скотный Двор»&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Разговор шёл про то, что все равны и про страну, где правит одна партия.&lt;br&gt;
 Видимо, &lt;strong&gt;«1984»&lt;/strong&gt; надо прочитать.&lt;br&gt;
@@ -110,9 +110,9 @@
     
     <item>
       <title>Статьи можно комментировать</title>
-      <link>/blog/add-comments/</link>
+      <link>https://dvesti.github.io/academic/blog/add-comments/</link>
       <pubDate>Sun, 05 Jul 2020 17:30:13 +0300</pubDate>
-      <guid>/blog/add-comments/</guid>
+      <guid>https://dvesti.github.io/academic/blog/add-comments/</guid>
       <description>&lt;p&gt;Добавил возможность под каждой статьёй оставлять свой комментарий&lt;/p&gt;
 &lt;p&gt;Для этого использовал 
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/customization/#comments&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;это&lt;/strong&gt;&lt;/a&gt; руководство.&lt;br&gt;
@@ -122,9 +122,9 @@
     
     <item>
       <title>Не все клубни, как клубни</title>
-      <link>/blog/potatos/</link>
+      <link>https://dvesti.github.io/academic/blog/potatos/</link>
       <pubDate>Sun, 05 Jul 2020 13:42:13 +0300</pubDate>
-      <guid>/blog/potatos/</guid>
+      <guid>https://dvesti.github.io/academic/blog/potatos/</guid>
       <description>&lt;p&gt;Купленная картошка и оставленная на полу в пакете сгнила через 3 дня. И не жарко было. Клубни превратились в кисель на радость мушкам.&lt;/p&gt;
 &lt;p&gt;Половину всё же удалось спасти: 5 штучек. Помыл и сразу сварил.&lt;br&gt;
 Варил 1 час — твёрдые, как кирпич. И верно: кирпич, как показывает практика, гниёт долго…&lt;/p&gt;</description>
@@ -132,9 +132,9 @@
     
     <item>
       <title>В США новый «рекорд» по заболевшим COVID-19</title>
-      <link>/blog/2020-07-04-usa-covid-19/</link>
+      <link>https://dvesti.github.io/academic/blog/2020-07-04-usa-covid-19/</link>
       <pubDate>Sat, 04 Jul 2020 21:30:13 +0300</pubDate>
-      <guid>/blog/2020-07-04-usa-covid-19/</guid>
+      <guid>https://dvesti.github.io/academic/blog/2020-07-04-usa-covid-19/</guid>
       <description>&lt;p&gt;За последние девять дней в США седьмой раз обновился анти-рекорд по суточному приросту заразившихся &lt;em&gt;COVID-19&lt;/em&gt; — он достиг &lt;strong&gt;57,5 тыс.&lt;/strong&gt; Главный инфекционист страны предупредил, что прирост может подскочить и до 100 тыс. человек.&lt;/p&gt;
 &lt;p&gt;В &lt;strong&gt;США&lt;/strong&gt; за день выявили &lt;strong&gt;57,5 тыс.&lt;/strong&gt; заразившихся коронавирусом — это самый высокий показатель за все время пандемии.&lt;br&gt;
 Для сравнения, в &lt;strong&gt;Бразилии&lt;/strong&gt; за сутки зарегистрировали &lt;strong&gt;42,2 тыс.&lt;/strong&gt; заболевших, в &lt;strong&gt;России&lt;/strong&gt; — &lt;strong&gt;6,7 тыс.&lt;/strong&gt;, сообщает 
@@ -143,9 +143,9 @@
     
     <item>
       <title>Чётная и ясная позиция министра МВД</title>
-      <link>/blog/helme-ratasu-v-tallinne-vlast-uzhe-ne-v-rukah-jestoncev/</link>
+      <link>https://dvesti.github.io/academic/blog/helme-ratasu-v-tallinne-vlast-uzhe-ne-v-rukah-jestoncev/</link>
       <pubDate>Sat, 04 Jul 2020 15:30:13 +0300</pubDate>
-      <guid>/blog/helme-ratasu-v-tallinne-vlast-uzhe-ne-v-rukah-jestoncev/</guid>
+      <guid>https://dvesti.github.io/academic/blog/helme-ratasu-v-tallinne-vlast-uzhe-ne-v-rukah-jestoncev/</guid>
       <description>&lt;p&gt;Министр МВД &lt;strong&gt;Март Хельме&lt;/strong&gt; сказал премьер-министру Эстонии &lt;strong&gt;Юри Ратасу&lt;/strong&gt;: «&lt;em&gt;Посмотри, что случилось в Таллинне. Там уже власть не в руках эстонцев&lt;/em&gt;» (Источник: 
 &lt;a href=&#34;https://rus.err.ee/1109361/helme-ratasu-v-tallinne-vlast-uzhe-ne-v-rukah-jestoncev&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rus.err.ee&lt;/a&gt;)&lt;/p&gt;
 &lt;p&gt;Хотел объяснить слова министра, да тут всё и так ясно сказано самим автором: власть по всей Эстонии должна быть у людей с эстонской национальностью. И её не должны иметь люди иной национальности. Пусть те работают, а мы будем иметь хорошие зарплаты от государства, сидеть на хороших должностях, как и наши дети.&lt;br&gt;
@@ -155,9 +155,9 @@
     
     <item>
       <title>К нам приехала пожарка</title>
-      <link>/blog/priehala-pojarka/</link>
+      <link>https://dvesti.github.io/academic/blog/priehala-pojarka/</link>
       <pubDate>Fri, 03 Jul 2020 12:42:13 +0000</pubDate>
-      <guid>/blog/priehala-pojarka/</guid>
+      <guid>https://dvesti.github.io/academic/blog/priehala-pojarka/</guid>
       <description>&lt;p&gt;Первого июля пол-восьмого утра почувствовал необычный запах. Подошёл к окну, чтобы его закрыть. Во дворе были странные люди: один в синих шортах, другой в костюме с галстуком. С ними была также молодая женщина в юбке «карандаш» под огромным белым зонтом. Шёл сильный дождь, но они и не собирались прятаться под крышу.&lt;/p&gt;
 &lt;p&gt;Удивившись увиденному, я почему-то подошёл к другому окну.&lt;br&gt;
 Перед глазами предстала следующая картина: стоит пожарная машина, мигает. Из-под капота, припаркованной под моими окнами машины, идёт дым. Пожарный с брандспойтом старается заглушить дым. Отключит шланг, начинает открывать капот ломиком — специальным, пожарным. Раньше такие на пожарных щитах висели. Красные. Этот &amp;ndash; не красный. Погнул капот, не открыл. Взял брандспойт поливает: соревнуется с ливнем. Положил, снова взял ломик.&lt;br&gt;
@@ -170,9 +170,9 @@
     
     <item>
       <title>Dmitriev.ee</title>
-      <link>/project/internal-project/</link>
+      <link>https://dvesti.github.io/academic/project/internal-project/</link>
       <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/project/internal-project/</guid>
+      <guid>https://dvesti.github.io/academic/project/internal-project/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
@@ -183,17 +183,17 @@
     
     <item>
       <title>Шахматный портал -- Euruchess.org</title>
-      <link>/project/external-project/</link>
+      <link>https://dvesti.github.io/academic/project/external-project/</link>
       <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/project/external-project/</guid>
+      <guid>https://dvesti.github.io/academic/project/external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>My Article Name – Тест</title>
-      <link>/blog/my-article-name-%D1%82%D0%B5%D1%81%D1%82/</link>
+      <link>https://dvesti.github.io/academic/blog/my-article-name-%D1%82%D0%B5%D1%81%D1%82/</link>
       <pubDate>Tue, 19 May 2020 16:31:46 +0300</pubDate>
-      <guid>/blog/my-article-name-%D1%82%D0%B5%D1%81%D1%82/</guid>
+      <guid>https://dvesti.github.io/academic/blog/my-article-name-%D1%82%D0%B5%D1%81%D1%82/</guid>
       <description>&lt;p&gt;Проверка Шахматных Диаграмм&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://www.dmitriev.ee/punbb/extensions/chess_diagram/gendiag-jane.php?coord&amp;amp;size=29&amp;amp;style=merida&amp;amp;fen=r1bq1rk1/p1p2pb1/1p1p3p/2nPp1p1/2P1P3/2NB1NP1/PP2QPP1/R3R1K1+w+-+-+0+15&#34; alt=&#34;Диаграмма&#34;&gt;
 &lt;strong&gt;FEN&lt;/strong&gt;: &lt;code&gt;r1bq1rk1/p1p2pb1/1p1p3p/2nPp1p1/2P1P3/2NB1NP1/PP2QPP1/R3R1K1&lt;/code&gt;&lt;/p&gt;
@@ -266,9 +266,9 @@ Bob--&amp;gt;&amp;gt;John: Jolly good!
     
     <item>
       <title>Программа «A»</title>
-      <link>/blog/pogramma-a/</link>
+      <link>https://dvesti.github.io/academic/blog/pogramma-a/</link>
       <pubDate>Mon, 18 May 2020 02:56:17 +0300</pubDate>
-      <guid>/blog/pogramma-a/</guid>
+      <guid>https://dvesti.github.io/academic/blog/pogramma-a/</guid>
       <description>&lt;p&gt;Всем привет!&lt;/p&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -479,9 +479,9 @@ datahere&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
     
     <item>
       <title>Writing technical content in Academic</title>
-      <link>/blog/writing-technical-content-in-academic/</link>
+      <link>https://dvesti.github.io/academic/blog/writing-technical-content-in-academic/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/blog/writing-technical-content-in-academic/</guid>
+      <guid>https://dvesti.github.io/academic/blog/writing-technical-content-in-academic/</guid>
       <description>&lt;p&gt;Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Academic.&lt;/p&gt;
@@ -717,9 +717,9 @@ A Markdown aside is useful for displaying notices, hints, or definitions to your
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>/publication/preprint/</link>
+      <link>https://dvesti.github.io/academic/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/preprint/</guid>
+      <guid>https://dvesti.github.io/academic/publication/preprint/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
@@ -732,9 +732,9 @@ A Markdown aside is useful for displaying notices, hints, or definitions to your
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>/blog/display-jupyter-notebooks-with-academic/</link>
+      <link>https://dvesti.github.io/academic/blog/display-jupyter-notebooks-with-academic/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/blog/display-jupyter-notebooks-with-academic/</guid>
+      <guid>https://dvesti.github.io/academic/blog/display-jupyter-notebooks-with-academic/</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
 Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
 &lt;/code&gt;&lt;/pre&gt;
@@ -781,9 +781,9 @@ date: 2019-09-01
     
     <item>
       <title>Slides</title>
-      <link>/slides/example/</link>
+      <link>https://dvesti.github.io/academic/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/slides/example/</guid>
+      <guid>https://dvesti.github.io/academic/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; | 
@@ -914,27 +914,27 @@ Three
     
     <item>
       <title>Privacy Policy</title>
-      <link>/privacy/</link>
+      <link>https://dvesti.github.io/academic/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/privacy/</guid>
+      <guid>https://dvesti.github.io/academic/privacy/</guid>
       <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Terms</title>
-      <link>/terms/</link>
+      <link>https://dvesti.github.io/academic/terms/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/terms/</guid>
+      <guid>https://dvesti.github.io/academic/terms/</guid>
       <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Academic: the website builder for Hugo</title>
-      <link>/blog/academic-the-website-builder-for-hugo/</link>
+      <link>https://dvesti.github.io/academic/blog/academic-the-website-builder-for-hugo/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/blog/academic-the-website-builder-for-hugo/</guid>
+      <guid>https://dvesti.github.io/academic/blog/academic-the-website-builder-for-hugo/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or 
@@ -1076,9 +1076,9 @@ Three
     
     <item>
       <title>An example journal article</title>
-      <link>/publication/journal-article/</link>
+      <link>https://dvesti.github.io/academic/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article/</guid>
+      <guid>https://dvesti.github.io/academic/publication/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -1096,9 +1096,9 @@ Three
     
     <item>
       <title>An example conference paper</title>
-      <link>/publication/conference-paper/</link>
+      <link>https://dvesti.github.io/academic/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper/</guid>
+      <guid>https://dvesti.github.io/academic/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -1116,18 +1116,18 @@ Three
     
     <item>
       <title>Облако русских тэгов для MT</title>
-      <link>/2008/07/oblako-russkix-tegov-dlja-mt.php/</link>
+      <link>https://dvesti.github.io/academic/2008/07/oblako-russkix-tegov-dlja-mt.php/</link>
       <pubDate>Wed, 23 Jul 2008 04:23:42 +0000</pubDate>
-      <guid>/2008/07/oblako-russkix-tegov-dlja-mt.php/</guid>
+      <guid>https://dvesti.github.io/academic/2008/07/oblako-russkix-tegov-dlja-mt.php/</guid>
       <description>&lt;p&gt;Заметил, что при обозначении Тэгов на кириллице (например, Тэг:&lt;i&gt; Блог&lt;/i&gt;) - Облако их считает Отдельными «облачками», а не одним Большим Облаком&amp;hellip;&lt;br /&gt;После перевода (редактирования) на английский - Облако отображается верно&amp;hellip;&lt;/p&gt;
 &lt;p&gt;Уверен, что для русской версии есть решение. Найду напишу здесь. Возможная причина это то, что данный скрипт (движок этого сайта) - это смесь &lt;i&gt;&lt;b&gt;MTOS-4.1-ru-RC1&lt;/b&gt;&lt;/i&gt; и &lt;i&gt;&lt;b&gt;MTP-4.12-en&lt;/b&gt;&lt;/i&gt; и поэтому не всё отображается корректно&amp;hellip;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Установка Movable Type 4 шаг за шагом со скриншотами</title>
-      <link>/2008/07/ustanovka-movable-type-4-shag.php/</link>
+      <link>https://dvesti.github.io/academic/2008/07/ustanovka-movable-type-4-shag.php/</link>
       <pubDate>Sun, 20 Jul 2008 08:42:03 +0000</pubDate>
-      <guid>/2008/07/ustanovka-movable-type-4-shag.php/</guid>
+      <guid>https://dvesti.github.io/academic/2008/07/ustanovka-movable-type-4-shag.php/</guid>
       <description>&lt;p&gt;&lt;span class=&#34;byline&#34;&gt;От &lt;a href=&#34;http://www.superxm.com/&#34;&gt;Nakamura&lt;/a&gt;. В моем переводе. С небольшими дополнениями и изменениями. По этой
 инструкции, с дополнением под моего хостера, удалось запустить MT.
 Оригинал расположен здесь -&lt;/span&gt; &lt;a href=&#34;http://www.superxm.com/2007/08/movable-type-4-installation-step-by-step-with-screenshots.html&#34;&gt;Movable Type 4 installation step by step with screenshots&lt;/a&gt;.&lt;/p&gt;
@@ -1237,18 +1237,18 @@ Movable Type 4. Для того, чтобы иметь возможность в
     
     <item>
       <title>Приветствие!</title>
-      <link>/2008/07/privetstvie.php/</link>
+      <link>https://dvesti.github.io/academic/2008/07/privetstvie.php/</link>
       <pubDate>Sun, 20 Jul 2008 05:42:13 +0000</pubDate>
-      <guid>/2008/07/privetstvie.php/</guid>
+      <guid>https://dvesti.github.io/academic/2008/07/privetstvie.php/</guid>
       <description>&lt;p&gt;&lt;b&gt;&lt;font style=&#34;font-size: 1.25em;&#34;&gt;Приветствую&lt;/font&gt;&lt;/b&gt; &lt;i&gt;всех&lt;/i&gt;, &lt;u&gt;кто&lt;/u&gt; &lt;strike&gt;пометил&lt;/strike&gt; посетил &lt;a href=&#34;http://www.dmitrijev.ru/&#34;&gt;мою домашнюю страничку&lt;/a&gt;!&lt;/p&gt;
 &lt;p&gt;Расширенный текст&lt;br /&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Я установил Movable 4!</title>
-      <link>/2008/07/ja-ustanovil-movable-4.php/</link>
+      <link>https://dvesti.github.io/academic/2008/07/ja-ustanovil-movable-4.php/</link>
       <pubDate>Sun, 20 Jul 2008 05:33:04 +0000</pubDate>
-      <guid>/2008/07/ja-ustanovil-movable-4.php/</guid>
+      <guid>https://dvesti.github.io/academic/2008/07/ja-ustanovil-movable-4.php/</guid>
       <description>&lt;p&gt;Добро пожаловать в мой новый блог, созданный на платформе Movable Type. Это первая запись, она была создана для меня автоматически, когда закончился процесс установки. Уже скоро я создам собственные записи!&lt;/p&gt;
 &lt;h1 class=&#34;asset-name&#34;&gt;Movable Type 4 installation step by step with screenshots&lt;/h1&gt;&lt;b&gt;Quick instructions how to install Movable Type 4 publishing platform - step by step with screenshots!&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;The
 new and cool blog system is out - Movable Type 4, and i&#39;m giving you
@@ -1313,18 +1313,18 @@ Movable Type 4 tips and tricks, feel free to bookmark me!&lt;/i&gt;&lt;br /&gt;&
     
     <item>
       <title>Шутка</title>
-      <link>/2008/04/shutka.php/</link>
+      <link>https://dvesti.github.io/academic/2008/04/shutka.php/</link>
       <pubDate>Tue, 01 Apr 2008 12:32:54 +0000</pubDate>
-      <guid>/2008/04/shutka.php/</guid>
+      <guid>https://dvesti.github.io/academic/2008/04/shutka.php/</guid>
       <description>&lt;p&gt;Мая пашутилло&lt;/p&gt;
 &lt;p&gt;о, е&amp;hellip;&lt;br /&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Frequently Asked Question</title>
-      <link>/2004/03/frequently-asked-question.php/</link>
+      <link>https://dvesti.github.io/academic/2004/03/frequently-asked-question.php/</link>
       <pubDate>Tue, 02 Mar 2004 02:08:00 +0000</pubDate>
-      <guid>/2004/03/frequently-asked-question.php/</guid>
+      <guid>https://dvesti.github.io/academic/2004/03/frequently-asked-question.php/</guid>
       <description>&lt;p&gt;Recently Movable Style has attracted quite a few visitors (current at
 around 200-300 unique visitors per day), and sorry if I have not
 updated the site or respond to your comments. I have been &lt;em&gt;busy&lt;/em&gt;&lt;/p&gt;
@@ -1401,9 +1401,9 @@ need time to sit down and code it.&lt;/p&gt;
     
     <item>
       <title>Lines with a Modern Look</title>
-      <link>/2004/01/lines-with-a-modern-look.php/</link>
+      <link>https://dvesti.github.io/academic/2004/01/lines-with-a-modern-look.php/</link>
       <pubDate>Mon, 19 Jan 2004 04:02:00 +0000</pubDate>
-      <guid>/2004/01/lines-with-a-modern-look.php/</guid>
+      <guid>https://dvesti.github.io/academic/2004/01/lines-with-a-modern-look.php/</guid>
       <description>&lt;p&gt;I have just created a new style that utilises &lt;tt&gt;position: relative&lt;/tt&gt;
 to move the display of date to the side of the blog entries. Adding
 borders of different width, and I am trying to give it a modern look.
@@ -1426,9 +1426,9 @@ I&#39;ll rather to keep this place a small collection of styles of my own.&lt;/p
     
     <item>
       <title>Dual License for Movable Styles</title>
-      <link>/2004/01/dual-license-for-movable-style.php/</link>
+      <link>https://dvesti.github.io/academic/2004/01/dual-license-for-movable-style.php/</link>
       <pubDate>Fri, 16 Jan 2004 11:03:58 +0000</pubDate>
-      <guid>/2004/01/dual-license-for-movable-style.php/</guid>
+      <guid>https://dvesti.github.io/academic/2004/01/dual-license-for-movable-style.php/</guid>
       <description>&lt;p&gt;Thanks to suggestion from &lt;a href=&#34;http://www.eadz.co.nz/&#34;&gt;Eaden&lt;/a&gt;, cascading style sheets on Movable Style will be dual licensed. Currently it is licensed under &lt;a href=&#34;http://creativecommons.org/licenses/by/1.0/&#34;&gt;Creative Common Attribution 1.0&lt;/a&gt;, which requires everyone who uses of MT styles created by me to give credit to me. That includes all the styles listed except &lt;a href=&#34;http://www.movablestyle.com/archives/000002.php&#34;&gt;Movable Type default styles&lt;/a&gt; (copyright &lt;a href=&#34;http://www.sixapart.com/&#34;&gt;Six Aprt&lt;/a&gt;) and &lt;a href=&#34;http://www.movablestyle.com/archives/000013.php&#34;&gt;Lovingrey&lt;/a&gt; (copyright &lt;a href=&#34;http://wavez.weblogs.us/&#34;&gt;Wavez&lt;/a&gt;). Now these styles can also be licensed under &lt;a href=&#34;http://www.gnu.org/copyleft/gpl.html&#34;&gt;GNU Public License 2&lt;/a&gt;, so that it can be modified and included into another weblogging tool, like PHP/Smarty based &lt;a href=&#34;http://www.bblog.com/&#34;&gt;BBlog&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Complicated? I think so as well. I am by no means a license expert, and
 I have never heard of GPLing a CSS file. But somehow this arrangement
@@ -1440,9 +1440,9 @@ spirit of Free Software.&lt;/p&gt;</description>
     
     <item>
       <title>Lovingrey</title>
-      <link>/2003/12/lovingrey.php/</link>
+      <link>https://dvesti.github.io/academic/2003/12/lovingrey.php/</link>
       <pubDate>Thu, 18 Dec 2003 12:59:58 +0000</pubDate>
-      <guid>/2003/12/lovingrey.php/</guid>
+      <guid>https://dvesti.github.io/academic/2003/12/lovingrey.php/</guid>
       <description>&lt;p&gt;We have the first style submission yesterday. &lt;a href=&#34;http://wavez.weblogs.us/&#34;&gt;Wavez&lt;/a&gt; modified my &lt;a href=&#34;http://web.archive.org/web/20040202204720/http://www.movablestyle.com/archives/archives/000008.php&#34;&gt;Purple Orange&lt;/a&gt; theme, and created a dark-grey&#39;ish Movable Type style called &#34;Lovingrey&#34;, and have requested to be included here.&lt;/p&gt;
 &lt;blockquote&gt;Apply &lt;a href=&#34;http://www.movablestyle.com/archives/2003-12.php?style=Lovingrey&#34;&gt;Lovingrey&lt;/a&gt; style&lt;br /&gt;&lt;br /&gt;&lt;span class=&#34;mt-enclosure mt-enclosure-image&#34; style=&#34;display: inline;&#34;&gt;&lt;img alt=&#34;lovingrey.gif&#34; src=&#34;http://www.dmitrijev.ru/2008/07/29/lovingrey.gif&#34; class=&#34;mt-image-none&#34; style=&#34;&#34; height=&#34;197&#34; width=&#34;300&#34; /&gt;&lt;/span&gt;&lt;br /&gt;&lt;/blockquote&gt;
 &lt;p&gt;I do like to take more submission, especially original styles :)&lt;/p&gt;
@@ -1451,9 +1451,9 @@ spirit of Free Software.&lt;/p&gt;</description>
     
     <item>
       <title>Enter The Matrix</title>
-      <link>/2003/11/enter-the-matrix.php/</link>
+      <link>https://dvesti.github.io/academic/2003/11/enter-the-matrix.php/</link>
       <pubDate>Wed, 12 Nov 2003 03:57:37 +0000</pubDate>
-      <guid>/2003/11/enter-the-matrix.php/</guid>
+      <guid>https://dvesti.github.io/academic/2003/11/enter-the-matrix.php/</guid>
       <description>&lt;p&gt;Here&#39;s a new Movale Type style that I&#39;ve created with an &lt;a href=&#34;http://whatisthematrix.warnerbros.com/rl-img/poster7.jpg&#34;&gt;image&lt;/a&gt; from the &lt;a href=&#34;http://web.archive.org/web/20040202204221/http://us.imdb.com/title/tt0234215/&#34;&gt;Matrix Reloaded&lt;/a&gt; poster.&lt;/p&gt;
 &lt;blockquote&gt;
 Apply &lt;a href=&#34;http://www.movablestyle.com/archives/2003-11.php?style=Matrix-Code&#34;&gt;Matrix Code&lt;/a&gt; style&lt;br /&gt;&lt;span class=&#34;mt-enclosure mt-enclosure-image&#34; style=&#34;display: inline;&#34;&gt;&lt;img alt=&#34;matrix-code.gif&#34; src=&#34;http://www.dmitrijev.ru/2008/07/29/matrix-code.gif&#34; class=&#34;mt-image-none&#34; style=&#34;&#34; height=&#34;197&#34; width=&#34;300&#34; /&gt;&lt;/span&gt;&lt;br /&gt;
@@ -1469,9 +1469,9 @@ files.&lt;/p&gt;</description>
     
     <item>
       <title>Style with Mac Stripe</title>
-      <link>/2003/10/style-with-mac-stripe.php/</link>
+      <link>https://dvesti.github.io/academic/2003/10/style-with-mac-stripe.php/</link>
       <pubDate>Sun, 26 Oct 2003 03:20:09 +0000</pubDate>
-      <guid>/2003/10/style-with-mac-stripe.php/</guid>
+      <guid>https://dvesti.github.io/academic/2003/10/style-with-mac-stripe.php/</guid>
       <description>&lt;p&gt;I have been trying to come up with a style that assembles the look of &lt;a href=&#34;http://web.archive.org/web/20040405155230/http://www.apple.com/&#34;&gt;Apple&lt;/a&gt;&#39;s
 operating system, but has found it quite difficult without modifying
 the template file, as the UI is quite graphical intensive with lots of
@@ -1486,9 +1486,9 @@ and call this new style &#34;Mac Stripe&#34;&lt;/p&gt;
     
     <item>
       <title>Moving Site</title>
-      <link>/2003/10/moving-site.php/</link>
+      <link>https://dvesti.github.io/academic/2003/10/moving-site.php/</link>
       <pubDate>Tue, 14 Oct 2003 06:10:57 +0000</pubDate>
-      <guid>/2003/10/moving-site.php/</guid>
+      <guid>https://dvesti.github.io/academic/2003/10/moving-site.php/</guid>
       <description>&lt;p&gt;I have recently registered the domain &lt;tt&gt;movablestyle.com&lt;/tt&gt;, and
 will serve this site at that same domain, using a separate MovableType
 database. It will still be on the same old home build Linux server
@@ -1502,9 +1502,9 @@ yet...&lt;/li&gt;&lt;/ul&gt;</description>
     
     <item>
       <title>Preferred/Alternate Stylesheet</title>
-      <link>/2003/10/preferredalternate-stylesheet.php/</link>
+      <link>https://dvesti.github.io/academic/2003/10/preferredalternate-stylesheet.php/</link>
       <pubDate>Mon, 13 Oct 2003 07:13:23 +0000</pubDate>
-      <guid>/2003/10/preferredalternate-stylesheet.php/</guid>
+      <guid>https://dvesti.github.io/academic/2003/10/preferredalternate-stylesheet.php/</guid>
       <description>&lt;p&gt;One feature in the latest &lt;a href=&#34;http://www.mozilla.org/products/firebird/&#34;&gt;Mozilla Firebird&lt;/a&gt; is the ability to easily switch between different &lt;a href=&#34;http://www.w3.org/TR/REC-html40/present/styles.html#h-14.3.1&#34;&gt;alternate stylesheets&lt;/a&gt;
 provided by the document. It allows the author of the site to provide
 personalised look &amp;lsquo;n&amp;rsquo; feel, without changing the HTML source
@@ -1524,9 +1524,9 @@ out the bandwidth a bit.&lt;/p&gt;</description>
     
     <item>
       <title>Hitting with a bit or warmth</title>
-      <link>/2003/10/hitting-with-a-bit-or-warmth.php/</link>
+      <link>https://dvesti.github.io/academic/2003/10/hitting-with-a-bit-or-warmth.php/</link>
       <pubDate>Sun, 05 Oct 2003 03:08:29 +0000</pubDate>
-      <guid>/2003/10/hitting-with-a-bit-or-warmth.php/</guid>
+      <guid>https://dvesti.github.io/academic/2003/10/hitting-with-a-bit-or-warmth.php/</guid>
       <description>&lt;p&gt;For the themes that I have created so far, you can see that I
 usually favour bright cold colour (either green or blue with white
 background). I decided that I want to try out something different
@@ -1543,9 +1543,9 @@ into my collection of MovableType style sheets.&lt;/p&gt;
     
     <item>
       <title>Slashdot Style</title>
-      <link>/2003/10/slashdot-style.php/</link>
+      <link>https://dvesti.github.io/academic/2003/10/slashdot-style.php/</link>
       <pubDate>Sat, 04 Oct 2003 05:06:05 +0000</pubDate>
-      <guid>/2003/10/slashdot-style.php/</guid>
+      <guid>https://dvesti.github.io/academic/2003/10/slashdot-style.php/</guid>
       <description>&lt;p&gt;I have been reading &lt;a href=&#34;http://slashdot.org/&#34;&gt;Slashdot&lt;/a&gt;
 for at least 5-6 years I think, and it has to be one of the pioneers of
 weblogs. Even through it pushes out dozens of technology-related news
@@ -1565,9 +1565,9 @@ template...&lt;/p&gt;
     
     <item>
       <title>Plain Blue</title>
-      <link>/2003/10/plain-blue.php/</link>
+      <link>https://dvesti.github.io/academic/2003/10/plain-blue.php/</link>
       <pubDate>Sat, 04 Oct 2003 03:04:03 +0000</pubDate>
-      <guid>/2003/10/plain-blue.php/</guid>
+      <guid>https://dvesti.github.io/academic/2003/10/plain-blue.php/</guid>
       <description>&lt;p&gt;Getting sick of border of different shade wrapping around each
 other? This style is much plainer than the previous boxed styles. It
 places the #links side bar to the right hand side, flowing down from
@@ -1581,9 +1581,9 @@ of the page height...&lt;/p&gt;
     
     <item>
       <title>Another boxed style</title>
-      <link>/2008/07/privetstvie.php/</link>
+      <link>https://dvesti.github.io/academic/2008/07/privetstvie.php/</link>
       <pubDate>Sat, 04 Oct 2003 01:01:01 +0000</pubDate>
-      <guid>/2008/07/privetstvie.php/</guid>
+      <guid>https://dvesti.github.io/academic/2008/07/privetstvie.php/</guid>
       <description>&lt;p&gt;Well. There is nothing new in this one, but turning the &lt;a href=&#34;http://www.movablestyle.com/archives/000004.php&#34;&gt;previous style&lt;/a&gt; into a different colour theme, to prove that it is actually easy to take an existing style and change its colours.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;a href=&#34;http://www.movablestyle.com/archives/2003-10.php?style=Boxed-Green&#34;&gt;Boxed Theme in Green&lt;/a&gt;
@@ -1592,9 +1592,9 @@ of the page height...&lt;/p&gt;
     
     <item>
       <title>A boxed style</title>
-      <link>/2003/09/a-boxed-style.php/</link>
+      <link>https://dvesti.github.io/academic/2003/09/a-boxed-style.php/</link>
       <pubDate>Tue, 09 Sep 2003 02:58:40 +0000</pubDate>
-      <guid>/2003/09/a-boxed-style.php/</guid>
+      <guid>https://dvesti.github.io/academic/2003/09/a-boxed-style.php/</guid>
       <description>&lt;p&gt;I&#39;ve created a style that has bolders in neverly every DIV&#39;s, to
 help me to visualise the actual boundary. It has a gray scale theme,
 and #content and #links are positioned using absolute position. Here&#39;s
@@ -1606,9 +1606,9 @@ the theme:&lt;/p&gt;
     
     <item>
       <title>TypePad-Look-Alike Stylesheet</title>
-      <link>/2003/09/typepadlookalike-stylesheet.php/</link>
+      <link>https://dvesti.github.io/academic/2003/09/typepadlookalike-stylesheet.php/</link>
       <pubDate>Thu, 04 Sep 2003 02:56:00 +0000</pubDate>
-      <guid>/2003/09/typepadlookalike-stylesheet.php/</guid>
+      <guid>https://dvesti.github.io/academic/2003/09/typepadlookalike-stylesheet.php/</guid>
       <description>&lt;p&gt;This is the first stylesheet that I&#39;ve done for MovableStyle site!
 Well. The look &#39;n&#39; feel is nothing original, but imitate many existing
 sites on &lt;a href=&#34;http://www.typepad.com/&#34;&gt;TypePad.com&lt;/a&gt;, including Claudine&#39;s beta testing site.&lt;/p&gt;
@@ -1634,9 +1634,9 @@ Mozilla users will loose out. At the end, I just set up a fixed margin
     
     <item>
       <title>Default Styles from Movable Type</title>
-      <link>/2003/09/default-styles-from-movable-ty.php/</link>
+      <link>https://dvesti.github.io/academic/2003/09/default-styles-from-movable-ty.php/</link>
       <pubDate>Wed, 03 Sep 2003 05:52:37 +0000</pubDate>
-      <guid>/2003/09/default-styles-from-movable-ty.php/</guid>
+      <guid>https://dvesti.github.io/academic/2003/09/default-styles-from-movable-ty.php/</guid>
       <description>&lt;p&gt;These are the default stylesheets &lt;a href=&#34;http://www.movabletype.org/default-styles.shtml&#34;&gt;listed&lt;/a&gt; on the Movable Type website. These are probably the most common styles you&amp;rsquo;ll see around the web.&lt;/p&gt;
 &lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&#34;http://www.movablestyle.com/archives/2003-09.php?style=MovableType-Clean&#34;&gt;Clean&lt;/a&gt;&lt;/p&gt;
@@ -1651,9 +1651,9 @@ Mozilla users will loose out. At the end, I just set up a fixed margin
     
     <item>
       <title>First Entry</title>
-      <link>/2003/09/first-entry.php/</link>
+      <link>https://dvesti.github.io/academic/2003/09/first-entry.php/</link>
       <pubDate>Wed, 03 Sep 2003 02:47:48 +0000</pubDate>
-      <guid>/2003/09/first-entry.php/</guid>
+      <guid>https://dvesti.github.io/academic/2003/09/first-entry.php/</guid>
       <description>&lt;p&gt;I am starting this new blog to collect good CSS style sheets that
 work with the stock Movable Type template. Movable Type is powerful,
 and with its template engine, one can customise an unique blogsite by
@@ -1673,9 +1673,9 @@ paste right into their &#34;&lt;tt&gt;styles-site.css&lt;/tt&gt;&#34; template t
     
     <item>
       <title>about me</title>
-      <link>/about/</link>
+      <link>https://dvesti.github.io/academic/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/about/</guid>
+      <guid>https://dvesti.github.io/academic/about/</guid>
       <description></description>
     </item>
     
