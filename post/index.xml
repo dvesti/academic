@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Все статьи | Dmitrijev.ru</title>
-    <link>http://www.dmitrijev.ru/post/</link>
-      <atom:link href="http://www.dmitrijev.ru/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>/academic/post/</link>
+      <atom:link href="/academic/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Все статьи</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru</language><copyright>© Vladimir Dmitrijev 2003-2020</copyright><lastBuildDate>Sun, 05 Jul 2020 21:30:13 +0300</lastBuildDate>
     <image>
-      <url>http://www.dmitrijev.ru/images/icon_hu4f7f1b8434ceb601df928cdf3e46831d_46965_512x512_fill_lanczos_center_2.png</url>
+      <url>/academic/images/icon_hu4f7f1b8434ceb601df928cdf3e46831d_46965_512x512_fill_lanczos_center_2.png</url>
       <title>Все статьи</title>
-      <link>http://www.dmitrijev.ru/post/</link>
+      <link>/academic/post/</link>
     </image>
     
     <item>
       <title>Оруэлл «1984»</title>
-      <link>http://www.dmitrijev.ru/blog/orwell-1984/</link>
+      <link>/academic/blog/orwell-1984/</link>
       <pubDate>Sun, 05 Jul 2020 21:30:13 +0300</pubDate>
-      <guid>http://www.dmitrijev.ru/blog/orwell-1984/</guid>
+      <guid>/academic/blog/orwell-1984/</guid>
       <description>&lt;p&gt;За день упоминание о романе Джорджа Оруэлла &lt;strong&gt;«1984»&lt;/strong&gt; встретил 3 раза. Редкое совпадение. Правда, иногда подразумевали и &lt;strong&gt;«Скотный Двор»&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Разговор шёл про то, что все равны и про страну, где правит одна партия.&lt;br&gt;
 Видимо, &lt;strong&gt;«1984»&lt;/strong&gt; надо прочитать.&lt;br&gt;
@@ -25,9 +25,9 @@
     
     <item>
       <title>Статьи можно комментировать</title>
-      <link>http://www.dmitrijev.ru/blog/add-comments/</link>
+      <link>/academic/blog/add-comments/</link>
       <pubDate>Sun, 05 Jul 2020 17:30:13 +0300</pubDate>
-      <guid>http://www.dmitrijev.ru/blog/add-comments/</guid>
+      <guid>/academic/blog/add-comments/</guid>
       <description>&lt;p&gt;Добавил возможность под каждой статьёй оставлять свой комментарий&lt;/p&gt;
 &lt;p&gt;Для этого использовал 
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/customization/#comments&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;это&lt;/strong&gt;&lt;/a&gt; руководство.&lt;br&gt;
@@ -37,9 +37,9 @@
     
     <item>
       <title>Не все клубни, как клубни</title>
-      <link>http://www.dmitrijev.ru/blog/potatos/</link>
+      <link>/academic/blog/potatos/</link>
       <pubDate>Sun, 05 Jul 2020 13:42:13 +0300</pubDate>
-      <guid>http://www.dmitrijev.ru/blog/potatos/</guid>
+      <guid>/academic/blog/potatos/</guid>
       <description>&lt;p&gt;Купленная картошка и оставленная на полу в пакете сгнила через 3 дня. И не жарко было. Клубни превратились в кисель на радость мушкам.&lt;/p&gt;
 &lt;p&gt;Половину всё же удалось спасти: 5 штучек. Помыл и сразу сварил.&lt;br&gt;
 Варил 1 час — твёрдые, как кирпич. И верно: кирпич, как показывает практика, гниёт долго…&lt;/p&gt;</description>
@@ -47,9 +47,9 @@
     
     <item>
       <title>В США новый «рекорд» по заболевшим COVID-19</title>
-      <link>http://www.dmitrijev.ru/blog/2020-07-04-usa-covid-19/</link>
+      <link>/academic/blog/2020-07-04-usa-covid-19/</link>
       <pubDate>Sat, 04 Jul 2020 21:30:13 +0300</pubDate>
-      <guid>http://www.dmitrijev.ru/blog/2020-07-04-usa-covid-19/</guid>
+      <guid>/academic/blog/2020-07-04-usa-covid-19/</guid>
       <description>&lt;p&gt;За последние девять дней в США седьмой раз обновился анти-рекорд по суточному приросту заразившихся &lt;em&gt;COVID-19&lt;/em&gt; — он достиг &lt;strong&gt;57,5 тыс.&lt;/strong&gt; Главный инфекционист страны предупредил, что прирост может подскочить и до 100 тыс. человек.&lt;/p&gt;
 &lt;p&gt;В &lt;strong&gt;США&lt;/strong&gt; за день выявили &lt;strong&gt;57,5 тыс.&lt;/strong&gt; заразившихся коронавирусом — это самый высокий показатель за все время пандемии.&lt;br&gt;
 Для сравнения, в &lt;strong&gt;Бразилии&lt;/strong&gt; за сутки зарегистрировали &lt;strong&gt;42,2 тыс.&lt;/strong&gt; заболевших, в &lt;strong&gt;России&lt;/strong&gt; — &lt;strong&gt;6,7 тыс.&lt;/strong&gt;, сообщает 
@@ -58,9 +58,9 @@
     
     <item>
       <title>Чётная и ясная позиция министра МВД</title>
-      <link>http://www.dmitrijev.ru/blog/helme-ratasu-v-tallinne-vlast-uzhe-ne-v-rukah-jestoncev/</link>
+      <link>/academic/blog/helme-ratasu-v-tallinne-vlast-uzhe-ne-v-rukah-jestoncev/</link>
       <pubDate>Sat, 04 Jul 2020 15:30:13 +0300</pubDate>
-      <guid>http://www.dmitrijev.ru/blog/helme-ratasu-v-tallinne-vlast-uzhe-ne-v-rukah-jestoncev/</guid>
+      <guid>/academic/blog/helme-ratasu-v-tallinne-vlast-uzhe-ne-v-rukah-jestoncev/</guid>
       <description>&lt;p&gt;Министр МВД &lt;strong&gt;Март Хельме&lt;/strong&gt; сказал премьер-министру Эстонии &lt;strong&gt;Юри Ратасу&lt;/strong&gt;: «&lt;em&gt;Посмотри, что случилось в Таллинне. Там уже власть не в руках эстонцев&lt;/em&gt;» (Источник: 
 &lt;a href=&#34;https://rus.err.ee/1109361/helme-ratasu-v-tallinne-vlast-uzhe-ne-v-rukah-jestoncev&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rus.err.ee&lt;/a&gt;)&lt;/p&gt;
 &lt;p&gt;Хотел объяснить слова министра, да тут всё и так ясно сказано самим автором: власть по всей Эстонии должна быть у людей с эстонской национальностью. И её не должны иметь люди иной национальности. Пусть те работают, а мы будем иметь хорошие зарплаты от государства, сидеть на хороших должностях, как и наши дети.&lt;br&gt;
@@ -70,9 +70,9 @@
     
     <item>
       <title>К нам приехала пожарка</title>
-      <link>http://www.dmitrijev.ru/blog/priehala-pojarka/</link>
+      <link>/academic/blog/priehala-pojarka/</link>
       <pubDate>Fri, 03 Jul 2020 12:42:13 +0000</pubDate>
-      <guid>http://www.dmitrijev.ru/blog/priehala-pojarka/</guid>
+      <guid>/academic/blog/priehala-pojarka/</guid>
       <description>&lt;p&gt;Первого июля пол-восьмого утра почувствовал необычный запах. Подошёл к окну, чтобы его закрыть. Во дворе были странные люди: один в синих шортах, другой в костюме с галстуком. С ними была также молодая женщина в юбке «карандаш» под огромным белым зонтом. Шёл сильный дождь, но они и не собирались прятаться под крышу.&lt;/p&gt;
 &lt;p&gt;Удивившись увиденному, я почему-то подошёл к другому окну.&lt;br&gt;
 Перед глазами предстала следующая картина: стоит пожарная машина, мигает. Из-под капота, припаркованной под моими окнами машины, идёт дым. Пожарный с брандспойтом старается заглушить дым. Отключит шланг, начинает открывать капот ломиком — специальным, пожарным. Раньше такие на пожарных щитах висели. Красные. Этот &amp;ndash; не красный. Погнул капот, не открыл. Взял брандспойт поливает: соревнуется с ливнем. Положил, снова взял ломик.&lt;br&gt;
@@ -85,9 +85,9 @@
     
     <item>
       <title>My Article Name – Тест</title>
-      <link>http://www.dmitrijev.ru/blog/my-article-name-%D1%82%D0%B5%D1%81%D1%82/</link>
+      <link>/academic/blog/my-article-name-%D1%82%D0%B5%D1%81%D1%82/</link>
       <pubDate>Tue, 19 May 2020 16:31:46 +0300</pubDate>
-      <guid>http://www.dmitrijev.ru/blog/my-article-name-%D1%82%D0%B5%D1%81%D1%82/</guid>
+      <guid>/academic/blog/my-article-name-%D1%82%D0%B5%D1%81%D1%82/</guid>
       <description>&lt;p&gt;Проверка Шахматных Диаграмм&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://www.dmitriev.ee/punbb/extensions/chess_diagram/gendiag-jane.php?coord&amp;amp;size=29&amp;amp;style=merida&amp;amp;fen=r1bq1rk1/p1p2pb1/1p1p3p/2nPp1p1/2P1P3/2NB1NP1/PP2QPP1/R3R1K1+w+-+-+0+15&#34; alt=&#34;Диаграмма&#34;&gt;
 &lt;strong&gt;FEN&lt;/strong&gt;: &lt;code&gt;r1bq1rk1/p1p2pb1/1p1p3p/2nPp1p1/2P1P3/2NB1NP1/PP2QPP1/R3R1K1&lt;/code&gt;&lt;/p&gt;
@@ -160,9 +160,9 @@ Bob--&amp;gt;&amp;gt;John: Jolly good!
     
     <item>
       <title>Программа «A»</title>
-      <link>http://www.dmitrijev.ru/blog/pogramma-a/</link>
+      <link>/academic/blog/pogramma-a/</link>
       <pubDate>Mon, 18 May 2020 02:57:17 +0300</pubDate>
-      <guid>http://www.dmitrijev.ru/blog/pogramma-a/</guid>
+      <guid>/academic/blog/pogramma-a/</guid>
       <description>&lt;p&gt;Всем привет!&lt;/p&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -373,9 +373,9 @@ datahere&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
     
     <item>
       <title>Writing technical content in Academic</title>
-      <link>http://www.dmitrijev.ru/blog/writing-technical-content-in-academic/</link>
+      <link>/academic/blog/writing-technical-content-in-academic/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>http://www.dmitrijev.ru/blog/writing-technical-content-in-academic/</guid>
+      <guid>/academic/blog/writing-technical-content-in-academic/</guid>
       <description>&lt;p&gt;Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Academic.&lt;/p&gt;
@@ -611,9 +611,9 @@ A Markdown aside is useful for displaying notices, hints, or definitions to your
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>http://www.dmitrijev.ru/blog/display-jupyter-notebooks-with-academic/</link>
+      <link>/academic/blog/display-jupyter-notebooks-with-academic/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://www.dmitrijev.ru/blog/display-jupyter-notebooks-with-academic/</guid>
+      <guid>/academic/blog/display-jupyter-notebooks-with-academic/</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
 Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
 &lt;/code&gt;&lt;/pre&gt;
@@ -660,9 +660,9 @@ date: 2019-09-01
     
     <item>
       <title>Academic: the website builder for Hugo</title>
-      <link>http://www.dmitrijev.ru/blog/academic-the-website-builder-for-hugo/</link>
+      <link>/academic/blog/academic-the-website-builder-for-hugo/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://www.dmitrijev.ru/blog/academic-the-website-builder-for-hugo/</guid>
+      <guid>/academic/blog/academic-the-website-builder-for-hugo/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or 

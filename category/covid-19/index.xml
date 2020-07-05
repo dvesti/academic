@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>COVID-19 | Dmitrijev.ru</title>
-    <link>http://www.dmitrijev.ru/category/covid-19/</link>
-      <atom:link href="http://www.dmitrijev.ru/category/covid-19/index.xml" rel="self" type="application/rss+xml" />
+    <link>/academic/category/covid-19/</link>
+      <atom:link href="/academic/category/covid-19/index.xml" rel="self" type="application/rss+xml" />
     <description>COVID-19</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru</language><copyright>© Vladimir Dmitrijev 2003-2020</copyright><lastBuildDate>Sat, 04 Jul 2020 21:30:13 +0300</lastBuildDate>
     <image>
-      <url>http://www.dmitrijev.ru/images/icon_hu4f7f1b8434ceb601df928cdf3e46831d_46965_512x512_fill_lanczos_center_2.png</url>
+      <url>/academic/images/icon_hu4f7f1b8434ceb601df928cdf3e46831d_46965_512x512_fill_lanczos_center_2.png</url>
       <title>COVID-19</title>
-      <link>http://www.dmitrijev.ru/category/covid-19/</link>
+      <link>/academic/category/covid-19/</link>
     </image>
     
     <item>
       <title>В США новый «рекорд» по заболевшим COVID-19</title>
-      <link>http://www.dmitrijev.ru/blog/2020-07-04-usa-covid-19/</link>
+      <link>/academic/blog/2020-07-04-usa-covid-19/</link>
       <pubDate>Sat, 04 Jul 2020 21:30:13 +0300</pubDate>
-      <guid>http://www.dmitrijev.ru/blog/2020-07-04-usa-covid-19/</guid>
+      <guid>/academic/blog/2020-07-04-usa-covid-19/</guid>
       <description>&lt;p&gt;За последние девять дней в США седьмой раз обновился анти-рекорд по суточному приросту заразившихся &lt;em&gt;COVID-19&lt;/em&gt; — он достиг &lt;strong&gt;57,5 тыс.&lt;/strong&gt; Главный инфекционист страны предупредил, что прирост может подскочить и до 100 тыс. человек.&lt;/p&gt;
 &lt;p&gt;В &lt;strong&gt;США&lt;/strong&gt; за день выявили &lt;strong&gt;57,5 тыс.&lt;/strong&gt; заразившихся коронавирусом — это самый высокий показатель за все время пандемии.&lt;br&gt;
 Для сравнения, в &lt;strong&gt;Бразилии&lt;/strong&gt; за сутки зарегистрировали &lt;strong&gt;42,2 тыс.&lt;/strong&gt; заболевших, в &lt;strong&gt;России&lt;/strong&gt; — &lt;strong&gt;6,7 тыс.&lt;/strong&gt;, сообщает 
