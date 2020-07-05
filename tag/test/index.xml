@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>test | Dmitrijev.ru</title>
-    <link>/academic/tag/test/</link>
-      <atom:link href="/academic/tag/test/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://www.dmitrijev.ru/tag/test/</link>
+      <atom:link href="http://www.dmitrijev.ru/tag/test/index.xml" rel="self" type="application/rss+xml" />
     <description>test</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru</language><copyright>© Vladimir Dmitrijev 2003-2020</copyright><lastBuildDate>Mon, 18 May 2020 02:57:17 +0300</lastBuildDate>
     <image>
-      <url>/academic/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>http://www.dmitrijev.ru/images/icon_hu4f7f1b8434ceb601df928cdf3e46831d_46965_512x512_fill_lanczos_center_2.png</url>
       <title>test</title>
-      <link>/academic/tag/test/</link>
+      <link>http://www.dmitrijev.ru/tag/test/</link>
     </image>
     
     <item>
       <title>Программа «A»</title>
-      <link>/academic/blog/a/</link>
+      <link>http://www.dmitrijev.ru/blog/pogramma-a/</link>
       <pubDate>Mon, 18 May 2020 02:57:17 +0300</pubDate>
-      <guid>/academic/blog/a/</guid>
+      <guid>http://www.dmitrijev.ru/blog/pogramma-a/</guid>
       <description>&lt;p&gt;Всем привет!&lt;/p&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
