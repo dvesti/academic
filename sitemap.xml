@@ -183,6 +183,16 @@
   </url>
   
   <url>
+    <loc>https://dmitrijev.ru/tag/test/</loc>
+    <lastmod>2020-05-18T02:56:17+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dmitrijev.ru/blog/pogramma-a/</loc>
+    <lastmod>2020-05-18T02:56:17+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dmitrijev.ru/blog/writing-technical-content-in-academic/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
   </url>
@@ -204,7 +214,7 @@
   
   <url>
     <loc>https://dmitrijev.ru/authors/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -224,7 +234,12 @@
   
   <url>
     <loc>https://dmitrijev.ru/author/vladimir-dmitrijev/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dmitrijev.ru/blog/display-jupyter-notebooks-with-academic/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -235,6 +250,21 @@
   <url>
     <loc>https://dmitrijev.ru/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dmitrijev.ru/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dmitrijev.ru/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dmitrijev.ru/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -294,11 +324,6 @@
   
   <url>
     <loc>https://dmitrijev.ru/tag/bags/</loc>
-    <lastmod>2008-07-23T04:23:42+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dmitrijev.ru/</loc>
     <lastmod>2008-07-23T04:23:42+00:00</lastmod>
   </url>
   
