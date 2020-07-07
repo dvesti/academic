@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Date | Dmitrijev.ru</title>
+    <link>https://dmitrijev.ru/tag/date/</link>
+      <atom:link href="https://dmitrijev.ru/tag/date/index.xml" rel="self" type="application/rss+xml" />
+    <description>Date</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru</language><copyright>© Vladimir Dmitrijev 2003-2020</copyright><lastBuildDate>Tue, 07 Jul 2020 13:00:13 +0300</lastBuildDate>
+    <image>
+      <url>https://dmitrijev.ru/images/icon_hu4f7f1b8434ceb601df928cdf3e46831d_46965_512x512_fill_lanczos_center_2.png</url>
+      <title>Date</title>
+      <link>https://dmitrijev.ru/tag/date/</link>
+    </image>
+    
+    <item>
+      <title>Ринго – 80!</title>
+      <link>https://dmitrijev.ru/blog/ringo-80/</link>
+      <pubDate>Tue, 07 Jul 2020 13:00:13 +0300</pubDate>
+      <guid>https://dmitrijev.ru/blog/ringo-80/</guid>
+      <description>&lt;p&gt;Барабанщику группы «Битлз» Ринго Старру – 80!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
