@@ -305,33 +305,10 @@
 
 
 
-<style>
-@import url(//fonts.googleapis.com/css?family=Oswald:400,700|Palatino+Linotype:400,700|Merriweather|Roboto&subset=latin,cyrillic);
- 
-.fonts-loaded {
-body {
-font-family: Oswald, sans-serif;
-}
-}
- 
-</style>
- 
-<script>
-var script = document.createElement('script');
- 
-script.async = true;
-script.src = 'js/fontfaceobserver.js';
-script.onload = function () {
 
-var font = new FontFaceObserver('Oswald');
- 
-font.load().then(function () {
-document.documentElement.className += " fonts-loaded";
-});
-};
-document.head.appendChild(script);
-</script>;
- 
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+
+<link  href='https://fonts.googleapis.com/css?family=Oswald:400,700|Palatino+Linotype:400,700|Merriweather|Roboto&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
 
 
 <script id="dsq-count-scr" src="//dmitrijevru.disqus.com/count.js" async></script>
@@ -1121,7 +1098,7 @@ document.head.appendChild(script);
   
   <div class="post-nav-item">
     <div class="meta-nav">Следующее »»</div>
-    <a href="/blog/display-jupyter-notebooks-with-academic/" rel="next">Display Jupyter Notebooks with Academic</a>
+    <a href="/blog/writing-technical-content-in-academic/" rel="next">Writing technical content in Academic</a>
   </div>
   
   
@@ -1274,16 +1251,6 @@ document.head.appendChild(script);
   
   <div class="container">
     <footer class="site-footer">
-  
-  <p class="powered-by">
-    
-      <a href="/privacy/">Privacy Policy</a>
-    
-    
-       &middot; 
-      <a href="/terms/">Terms</a>
-    
-  </p>
   
 
   <p class="powered-by">

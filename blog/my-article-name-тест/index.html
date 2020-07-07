@@ -308,33 +308,10 @@
 
 
 
-<style>
-@import url(//fonts.googleapis.com/css?family=Oswald:400,700|Palatino+Linotype:400,700|Merriweather|Roboto&subset=latin,cyrillic);
- 
-.fonts-loaded {
-body {
-font-family: Oswald, sans-serif;
-}
-}
- 
-</style>
- 
-<script>
-var script = document.createElement('script');
- 
-script.async = true;
-script.src = 'js/fontfaceobserver.js';
-script.onload = function () {
 
-var font = new FontFaceObserver('Oswald');
- 
-font.load().then(function () {
-document.documentElement.className += " fonts-loaded";
-});
-};
-document.head.appendChild(script);
-</script>;
- 
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+
+<link  href='https://fonts.googleapis.com/css?family=Oswald:400,700|Palatino+Linotype:400,700|Merriweather|Roboto&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
 
 
 <script id="dsq-count-scr" src="//dmitrijevru.disqus.com/count.js" async></script>
@@ -1035,7 +1012,7 @@ Bob--&gt;&gt;John: Jolly good!
   
   <div class="post-nav-item">
     <div class="meta-nav">«« Предыдущее</div>
-    <a href="/blog/pogramma-a/" rel="prev">Программа «A»</a>
+    <a href="/blog/writing-technical-content-in-academic/" rel="prev">Writing technical content in Academic</a>
   </div>
   
 </div>
@@ -1049,8 +1026,6 @@ Bob--&gt;&gt;John: Jolly good!
   <div class="article-widget content-widget-hr">
     <h3>Похожие статьи</h3>
     <ul>
-      
-      <li><a href="/blog/pogramma-a/">Программа «A»</a></li>
       
       <li><a href="/2008/07/ustanovka-movable-type-4-shag.php/">Установка Movable Type 4 шаг за шагом со скриншотами</a></li>
       
@@ -1206,16 +1181,6 @@ Bob--&gt;&gt;John: Jolly good!
   
   <div class="container">
     <footer class="site-footer">
-  
-  <p class="powered-by">
-    
-      <a href="/privacy/">Privacy Policy</a>
-    
-    
-       &middot; 
-      <a href="/terms/">Terms</a>
-    
-  </p>
   
 
   <p class="powered-by">
