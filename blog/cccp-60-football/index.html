@@ -203,6 +203,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-172450545-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-172450545-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -286,7 +324,7 @@
       "url": "https://dmitrijev.ru/images/icon_hu4f7f1b8434ceb601df928cdf3e46831d_46965_192x192_fill_lanczos_center_2.png"
     }
   },
-  "description": "\u003cp\u003eРовно 60 лет назад, 10 июля 1960 года, сборная СССР выиграла первый в истории чемпионат Европы по футболу. В финальном матче подопечные Гавриила Качалина одолели в Париже Югославию - 2:1.\u003c/p\u003e"
+  "description": "\u003cp\u003e\u003cstrong\u003eРовно 60 лет назад, 10 июля 1960 года\u003c/strong\u003e, сборная СССР выиграла первый в истории чемпионат Европы по футболу. В финальном матче подопечные Гавриила Качалина одолели в Париже Югославию - 2:1.\u003c/p\u003e"
 }
 </script>
 
@@ -562,6 +600,8 @@
 
   
   
+    
+  
 
 
 <div class="article-container pt-3">
@@ -628,9 +668,9 @@
 </div>
 
 
-<div class="article-header container featured-image-wrapper mt-4 mb-4" style="max-width: 1000px; max-height: 654px;">
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 471px;">
   <div style="position: relative">
-    <img src="/blog/cccp-60-football/featured.jpg" alt="" class="featured-image">
+    <img src="/blog/cccp-60-football/featured_hu648f0ffc2bde65f033ce8bba1bf6190e_83358_720x0_resize_q90_lanczos.jpg" alt="" class="featured-image">
     <span class="article-header-caption">Image credit: <a href="https://rus.delfi.ee/"><strong>Rus.Delfi.ee</strong></a></span>
   </div>
 </div>
@@ -638,7 +678,7 @@
 
             <div class="article-container">
               <div class="article-style">
-                <p>Ровно 60 лет назад, 10 июля 1960 года, сборная СССР выиграла первый в истории чемпионат Европы по футболу. В финальном матче подопечные Гавриила Качалина одолели в Париже Югославию - 2:1.</p>
+                <p><strong>Ровно 60 лет назад, 10 июля 1960 года</strong>, сборная СССР выиграла первый в истории чемпионат Европы по футболу. В финальном матче подопечные Гавриила Качалина одолели в Париже Югославию - 2:1.</p>
 <p>Основное время поединка завершилось вничью - 1:1. Судьбу встречи в дополнительные полчаса решил точный удар Виктора Понедельника на 113-й минуте.</p>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
@@ -648,8 +688,10 @@
 <p>Сборная СССР финальный поединок провела в следующем составе: Яшин, Чохели, Масленкин, Крутиков, Войнов, Нетто, Метревели, Вал. Иванов, Понедельник, Бубукин, Месхи.</p>
 <p>Замены в то время не разрешалось проводить. Из участников победного финала в живых остается только Понедельник, которому в мае исполнилось 83 года.
 <img src="https://g1.nh.ee/images/pix/1000x718/dIdAUAmjScA/viktor-ponedelnik-90415553.jpg" alt="Viktor Ponedelnik REUTERS"></p>
-<p>Золото чемпионата Европы 1960 года - главная победа в истории советского футбола. Сборная СССР еще дважды выигрывала Олимпийские игры (1956, 1988), но на этих турнирах действовали ряд ограничений.</p>
+<p>Золото чемпионата Европы 1960 года – главная победа в истории советского футбола. Сборная СССР еще дважды выигрывала Олимпийские игры (1956, 1988), но на этих турнирах действовали ряд ограничений.</p>
 <p>В первом финальном турнире чемпионата Европы принимали участие четыре команды. В полуфинале СССР победил Чехословакию - 3:0</p>
+<p>
+<a href="https://rus.delfi.ee/sport/jalgpall/video-60-let-nazad-sbornaya-sssr-vyigrala-pervyj-chempionat-evropy-po-futbolu?id=90415071" target="_blank" rel="noopener">Источник</a></p>
               </div>
               
 
@@ -908,6 +950,13 @@
 <div class="article-widget">
   
 <div class="post-nav">
+  
+  
+  
+  <div class="post-nav-item">
+    <div class="meta-nav">Следующее »»</div>
+    <a href="/blog/tramp-pod-maskoi/" rel="next">Трамп под маской</a>
+  </div>
   
   
   

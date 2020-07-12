@@ -203,6 +203,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-172450545-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-172450545-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -787,12 +825,107 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
+      <a href="/blog/tramp-pod-maskoi/" >Трамп под маской</a>
+    </h3>
+
+    
+    <div class="article-style">
+      <p>Президент США <strong>Дональд Трамп</strong> при посещении Национального военно-медицинского центра в пригороде Вашингтона впервые после начала пандемии коронавируса надел защитную медицинскую маску, обратили внимание мировые СМИ.</p>
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+    12-07-2020 г.– 17:30
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    1 мин. на чтение
+  </span>
+  
+
+  
+  
+  
+  <span class="middot-divider"></span>
+  <a href="/blog/tramp-pod-maskoi/#disqus_thread"></a>
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/category/world/">World</a></span>
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/blog/tramp-pod-maskoi/" >
+      <img src="/blog/tramp-pod-maskoi/featured_hudeaee7716f9539743a65e76cb29935bd_82457_150x0_resize_q90_lanczos.jpg" alt="">
+    </a>
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
       <a href="/blog/cccp-60-football/" >Сборная CCCР – чемпион Европы-1960</a>
     </h3>
 
     
     <div class="article-style">
-      <p>Ровно 60 лет назад, 10 июля 1960 года, сборная СССР выиграла первый в истории чемпионат Европы по футболу. В финальном матче подопечные Гавриила Качалина одолели в Париже Югославию - 2:1.</p>
+      <p><strong>Ровно 60 лет назад, 10 июля 1960 года</strong>, сборная СССР выиграла первый в истории чемпионат Европы по футболу. В финальном матче подопечные Гавриила Качалина одолели в Париже Югославию - 2:1.</p>
     </div>
     
 
@@ -1622,97 +1755,6 @@
 
       
     
-      
-        
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/blog/pogramma-a/" >Программа «A»</a>
-    </h3>
-
-    
-    <div class="article-style">
-      <p>Всем привет!</p>
-<div class="alert alert-note">
-  <div>
-    A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-  </div>
-</div>
-    </div>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-        
-
-
-<div class="article-metadata">
-
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-    18-05-2020 г.– 02:56
-  </span>
-  
-
-  
-
-  
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    2 мин. на чтение
-  </span>
-  
-
-  
-  
-  
-  <span class="middot-divider"></span>
-  <a href="/blog/pogramma-a/#disqus_thread"></a>
-  
-
-  
-  
-
-</div>
-
-      
-    </div>
-
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-      
-    
 
     
     <div class="see-all">
@@ -1896,7 +1938,7 @@
           
           
           
-          <a href="/tag/usa/" style="font-size:0.7rem">USA</a>
+          <a href="/tag/usa/" style="font-size:1.0180457047536937rem">USA</a>
         
       </div>
     

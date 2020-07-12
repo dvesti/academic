@@ -203,6 +203,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-172450545-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-172450545-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -515,6 +553,8 @@
     
       <li><a href="/talk/example/">Example Talk</a></li>
     
+      <li><a href="/blog/tramp-pod-maskoi/">Трамп под маской</a></li>
+    
       <li><a href="/blog/cccp-60-football/">Сборная CCCР – чемпион Европы-1960</a></li>
     
       <li><a href="/blog/ringo-80/">Ринго – 80!</a></li>
@@ -524,8 +564,6 @@
       <li><a href="/blog/add-comments/">Статьи можно комментировать</a></li>
     
       <li><a href="/blog/potatos/">Не все клубни, как клубни</a></li>
-    
-      <li><a href="/blog/2020-07-04-usa-covid-19/">В США новый «рекорд» по заболевшим COVID-19</a></li>
     
   </ul>
   
