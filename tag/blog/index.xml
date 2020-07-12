@@ -1,300 +1,415 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Blog | Dmitrijev.ru</title>
-    <link>https://dmitrijev.ru/tag/blog/</link>
-      <atom:link href="https://dmitrijev.ru/tag/blog/index.xml" rel="self" type="application/rss+xml" />
-    <description>Blog</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru</language><copyright>© Vladimir Dmitrijev 2003-2020</copyright><lastBuildDate>Sun, 05 Jul 2020 17:30:13 +0300</lastBuildDate>
-    <image>
-      <url>https://dmitrijev.ru/images/icon_hu4f7f1b8434ceb601df928cdf3e46831d_46965_512x512_fill_lanczos_center_2.png</url>
-      <title>Blog</title>
-      <link>https://dmitrijev.ru/tag/blog/</link>
-    </image>
-    
-    <item>
-      <title>Статьи можно комментировать</title>
-      <link>https://dmitrijev.ru/blog/add-comments/</link>
-      <pubDate>Sun, 05 Jul 2020 17:30:13 +0300</pubDate>
-      <guid>https://dmitrijev.ru/blog/add-comments/</guid>
-      <description>&lt;p&gt;Добавил возможность под каждой статьёй оставлять свой комментарий&lt;/p&gt;
-&lt;p&gt;Для этого использовал 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/customization/#comments&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;это&lt;/strong&gt;&lt;/a&gt; руководство.&lt;br&gt;
-В частности, в файле &lt;code&gt;config/_default/params.toml&lt;/code&gt; установил &lt;code&gt;engine = 1&lt;/code&gt; и в графе &lt;code&gt;shortname = &amp;quot;&amp;quot;&lt;/code&gt; поставил &lt;em&gt;короткое имя&lt;/em&gt;, созданное на &lt;strong&gt;Discus&lt;/strong&gt;-e для этого сайта.&lt;br&gt;
-В этой теме – &lt;strong&gt;&lt;code&gt;Academic&lt;/code&gt;&lt;/strong&gt; – ничего больше добавлять не надо: всё уже сделано до нас. Единственное то, что локально (&lt;em&gt;localhost:1313&lt;/em&gt;) установка комментариев не видна. Она появляется только после деплоя на сервер: это надо иметь ввиду&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>My Article Name – Тест</title>
-      <link>https://dmitrijev.ru/blog/my-article-name/</link>
-      <pubDate>Tue, 19 May 2020 16:31:46 +0300</pubDate>
-      <guid>https://dmitrijev.ru/blog/my-article-name/</guid>
-      <description>&lt;p&gt;Проверка Шахматных Диаграмм&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.dmitriev.ee/punbb/extensions/chess_diagram/gendiag-jane.php?coord&amp;amp;size=29&amp;amp;style=merida&amp;amp;fen=r1bq1rk1/p1p2pb1/1p1p3p/2nPp1p1/2P1P3/2NB1NP1/PP2QPP1/R3R1K1+w+-+-+0+15&#34; alt=&#34;Диаграмма&#34;&gt;
-&lt;strong&gt;FEN&lt;/strong&gt;: &lt;code&gt;r1bq1rk1/p1p2pb1/1p1p3p/2nPp1p1/2P1P3/2NB1NP1/PP2QPP1/R3R1K1&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;Картинка
-&lt;img src=&#34;https://www.dmitriev.ee/punbb/extensions/chess_diagram/gendiag-fritz.php?size=29&amp;amp;coord&amp;amp;style=alfa&amp;amp;fen=r6b/p1pq1p1k/1p2p1rp/4PpBQ/3P1P2/2PR2R1/P5PP/6K1&#34; alt=&#34;Диаграмма2&#34;&gt;
-&lt;strong&gt;FEN:&lt;/strong&gt; &lt;code&gt;r6b/p1pq1p1k/1p2p1rp/4PpBQ/3P1P2/2PR2R1/P5PP/6K1&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://www.euruchess.org/diagol/29/diagol.php?position=r1bq1rk1/p1p2pb1/1p1p3p/2nPp1p1/2P1P3/2NB1NP1/PP2QPP1/R3R1K1%20w%20-%20-%200%2015&#34; alt=&#34;Диаграмма3&#34;&gt;
-&lt;strong&gt;FEN&lt;/strong&gt;: &lt;code&gt;r1bq1rk1/p1p2pb1/1p1p3p/2nPp1p1/2P1P3/2NB1NP1/PP2QPP1/R3R1K1&lt;/code&gt;
-&lt;img src=&#34;https://www.dmitriev.ee/punbb/extensions/cd52/gendiag.php?size=29&amp;amp;coord&amp;amp;style=alfa&amp;amp;fen=r6b/p1pq1p1k/1p2p1rp/4PpBQ/3P1P2/2PR2R1/P5PP/6K1&#34; alt=&#34;Диаграмма3&#34;&gt;&lt;/p&gt;
-&lt;center&gt;Centered text&lt;/center&gt;
-&lt;p&gt;An example &lt;strong&gt;flowchart&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog | Dmitrijev.ru</title><link>https://dmitrijev.ru/tag/blog/</link><atom:link href="https://dmitrijev.ru/tag/blog/index.xml" rel="self" type="application/rss+xml"/><description>Blog</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru</language><copyright>© Vladimir Dmitrijev 2003-2020</copyright><lastBuildDate>Sun, 05 Jul 2020 17:30:13 +0300</lastBuildDate><image><url>https://dmitrijev.ru/images/icon_hu4f7f1b8434ceb601df928cdf3e46831d_46965_512x512_fill_lanczos_center_2.png</url><title>Blog</title><link>https://dmitrijev.ru/tag/blog/</link></image><item><title>Статьи можно комментировать</title><link>https://dmitrijev.ru/blog/add-comments/</link><pubDate>Sun, 05 Jul 2020 17:30:13 +0300</pubDate><guid>https://dmitrijev.ru/blog/add-comments/</guid><description>&lt;p>Добавил возможность под каждой статьёй оставлять свой комментарий&lt;/p>
+&lt;p>Для этого использовал
+&lt;a href="https://sourcethemes.com/academic/docs/customization/#comments" target="_blank" rel="noopener">&lt;strong>это&lt;/strong>&lt;/a> руководство.&lt;br>
+В частности, в файле &lt;code>config/_default/params.toml&lt;/code> установил &lt;code>engine = 1&lt;/code> и в графе &lt;code>shortname = &amp;quot;&amp;quot;&lt;/code> поставил &lt;em>короткое имя&lt;/em>, созданное на &lt;strong>Discus&lt;/strong>-e для этого сайта.&lt;br>
+В этой теме – &lt;strong>&lt;code>Academic&lt;/code>&lt;/strong> – ничего больше добавлять не надо: всё уже сделано до нас. Единственное то, что локально (&lt;em>localhost:1313&lt;/em>) установка комментариев не видна. Она появляется только после деплоя на сервер: это надо иметь ввиду&lt;/p></description></item><item><title>My Article Name – Тест</title><link>https://dmitrijev.ru/blog/my-article-name/</link><pubDate>Tue, 19 May 2020 16:31:46 +0300</pubDate><guid>https://dmitrijev.ru/blog/my-article-name/</guid><description>&lt;p>Проверка Шахматных Диаграмм&lt;/p>
+&lt;p>&lt;img src="https://www.dmitriev.ee/punbb/extensions/chess_diagram/gendiag-jane.php?coord&amp;amp;size=29&amp;amp;style=merida&amp;amp;fen=r1bq1rk1/p1p2pb1/1p1p3p/2nPp1p1/2P1P3/2NB1NP1/PP2QPP1/R3R1K1+w+-+-+0+15" alt="Диаграмма">
+&lt;strong>FEN&lt;/strong>: &lt;code>r1bq1rk1/p1p2pb1/1p1p3p/2nPp1p1/2P1P3/2NB1NP1/PP2QPP1/R3R1K1&lt;/code>&lt;/p>
+&lt;p>Картинка
+&lt;img src="https://www.dmitriev.ee/punbb/extensions/chess_diagram/gendiag-fritz.php?size=29&amp;amp;coord&amp;amp;style=alfa&amp;amp;fen=r6b/p1pq1p1k/1p2p1rp/4PpBQ/3P1P2/2PR2R1/P5PP/6K1" alt="Диаграмма2">
+&lt;strong>FEN:&lt;/strong> &lt;code>r6b/p1pq1p1k/1p2p1rp/4PpBQ/3P1P2/2PR2R1/P5PP/6K1&lt;/code>&lt;/p>
+&lt;p>&lt;img src="http://www.euruchess.org/diagol/29/diagol.php?position=r1bq1rk1/p1p2pb1/1p1p3p/2nPp1p1/2P1P3/2NB1NP1/PP2QPP1/R3R1K1%20w%20-%20-%200%2015" alt="Диаграмма3">
+&lt;strong>FEN&lt;/strong>: &lt;code>r1bq1rk1/p1p2pb1/1p1p3p/2nPp1p1/2P1P3/2NB1NP1/PP2QPP1/R3R1K1&lt;/code>
+&lt;img src="https://www.dmitriev.ee/punbb/extensions/cd52/gendiag.php?size=29&amp;amp;coord&amp;amp;style=alfa&amp;amp;fen=r6b/p1pq1p1k/1p2p1rp/4PpBQ/3P1P2/2PR2R1/P5PP/6K1" alt="Диаграмма3">&lt;/p>
+&lt;center>Centered text&lt;/center>
+&lt;p>An example &lt;strong>flowchart&lt;/strong>:&lt;/p>
+&lt;pre>&lt;code>```mermaid
 graph TD
 A[Толик] --&amp;gt;|Плюс| B(Вовик)
 B --&amp;gt; C{Родные Братья}
 C --&amp;gt;|Один| D[Стрёмберг]
 C --&amp;gt;|Другой| E[Дмитриев]
 ```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;graph TD
+&lt;/code>&lt;/pre>
+&lt;p>renders as&lt;/p>
+&lt;pre>&lt;code class="language-mermaid">graph TD
 A[Толик] --&amp;gt;|Плюс| B(Вовик)
 B --&amp;gt; C{Родные Братья}
 C --&amp;gt;|Один| D[Стрёмберг]
 C --&amp;gt;|Другой| E[Дмитриев]
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h3 id=&#34;diagrams&#34;&gt;Diagrams&lt;/h3&gt;
-&lt;p&gt;Academic supports a Markdown extension for diagrams. You can enable this feature by toggling the &lt;code&gt;diagram&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file or by adding &lt;code&gt;diagram: true&lt;/code&gt; to your page front matter.&lt;/p&gt;
-&lt;p&gt;An example &lt;strong&gt;flowchart&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
+&lt;/code>&lt;/pre>
+&lt;h3 id="diagrams">Diagrams&lt;/h3>
+&lt;p>Academic supports a Markdown extension for diagrams. You can enable this feature by toggling the &lt;code>diagram&lt;/code> option in your &lt;code>config/_default/params.toml&lt;/code> file or by adding &lt;code>diagram: true&lt;/code> to your page front matter.&lt;/p>
+&lt;p>An example &lt;strong>flowchart&lt;/strong>:&lt;/p>
+&lt;pre>&lt;code>```mermaid
 graph TD
 A[Hard] --&amp;gt;|Text| B(Round)
 B --&amp;gt; C{Decision}
 C --&amp;gt;|One| D[Result 1]
 C --&amp;gt;|Two| E[Result 2]
 ```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;graph TD
+&lt;/code>&lt;/pre>
+&lt;p>renders as&lt;/p>
+&lt;pre>&lt;code class="language-mermaid">graph TD
 A[Hard] --&amp;gt;|Text| B(Round)
 B --&amp;gt; C{Decision}
 C --&amp;gt;|One| D[Result 1]
 C --&amp;gt;|Two| E[Result 2]
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;An example &lt;strong&gt;sequence diagram&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
+&lt;/code>&lt;/pre>
+&lt;p>An example &lt;strong>sequence diagram&lt;/strong>:&lt;/p>
+&lt;pre>&lt;code>```mermaid
 sequenceDiagram
 Alice-&amp;gt;&amp;gt;John: Hello John, how are you?
 loop Healthcheck
-    John-&amp;gt;&amp;gt;John: Fight against hypochondria
+John-&amp;gt;&amp;gt;John: Fight against hypochondria
 end
 Note right of John: Rational thoughts!
 John--&amp;gt;&amp;gt;Alice: Great!
 John-&amp;gt;&amp;gt;Bob: How about you?
 Bob--&amp;gt;&amp;gt;John: Jolly good!
 ```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;sequenceDiagram
+&lt;/code>&lt;/pre>
+&lt;p>renders as&lt;/p>
+&lt;pre>&lt;code class="language-mermaid">sequenceDiagram
 Alice-&amp;gt;&amp;gt;John: Hello John, how are you?
 loop Healthcheck
-    John-&amp;gt;&amp;gt;John: Fight against hypochondria
+John-&amp;gt;&amp;gt;John: Fight against hypochondria
 end
 Note right of John: Rational thoughts!
 John--&amp;gt;&amp;gt;Alice: Great!
 John-&amp;gt;&amp;gt;Bob: How about you?
 Bob--&amp;gt;&amp;gt;John: Jolly good!
-&lt;/code&gt;&lt;/pre&gt;</description>
-    </item>
-    
-    <item>
-      <title>Установка Movable Type 4 шаг за шагом со скриншотами</title>
-      <link>https://dmitrijev.ru/2008/07/ustanovka-movable-type-4-shag.php/</link>
-      <pubDate>Sun, 20 Jul 2008 08:42:03 +0000</pubDate>
-      <guid>https://dmitrijev.ru/2008/07/ustanovka-movable-type-4-shag.php/</guid>
-      <description>&lt;p&gt;&lt;span class=&#34;byline&#34;&gt;От &lt;a href=&#34;http://www.superxm.com/&#34;&gt;Nakamura&lt;/a&gt;. В моем переводе. С небольшими дополнениями и изменениями. По этой
+&lt;/code>&lt;/pre></description></item><item><title>Программа «A»</title><link>https://dmitrijev.ru/blog/pogramma-a/</link><pubDate>Mon, 18 May 2020 02:56:17 +0300</pubDate><guid>https://dmitrijev.ru/blog/pogramma-a/</guid><description>&lt;p>Всем привет!&lt;/p>
+&lt;div class="alert alert-note">
+&lt;div>
+A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
+&lt;/div>
+&lt;/div>
+&lt;h2 id="normal-use">normal use&lt;/h2>
+&lt;p>&lt;code>Note&lt;/code> example:&lt;/p>
+&lt;pre>&lt;code class="language-shortcode">{{&amp;lt; alert note &amp;gt;}}
+&amp;lt;p&amp;gt;A notice disclaimer&amp;lt;/p&amp;gt;
+{{&amp;lt; /alert &amp;gt;}}
+&lt;/code>&lt;/pre>
+&lt;p>&lt;strong>Result:&lt;/strong>&lt;/p>
+&lt;div class="alert alert-note">
+&lt;div>
+A notice disclaimer
+&lt;/div>
+&lt;/div>
+&lt;!--more-->
+&lt;p>You could &lt;strong>custom title&lt;/strong> :&lt;/p>
+&lt;pre>&lt;code class="language-shortcode">{{&amp;lt; alert note Примечание &amp;gt;}}
+&amp;lt;p&amp;gt;A notice disclaimer&amp;lt;/p&amp;gt;
+{{&amp;lt; /alert &amp;gt;}}
+&lt;/code>&lt;/pre>
+&lt;div class="alert alert-note">
+&lt;div>
+A notice disclaimer
+&lt;/div>
+&lt;/div>
+&lt;h2 id="tip">tip&lt;/h2>
+&lt;pre>&lt;code class="language-js">{{&amp;lt; alert tip &amp;gt;}}
+&amp;lt;p&amp;gt;A tip disclaimer&amp;lt;/p&amp;gt;
+{{&amp;lt; /alert &amp;gt;}}
+&lt;/code>&lt;/pre>
+&lt;div class="alert alert-tip">
+&lt;div>
+A tip disclaimer
+&lt;/div>
+&lt;/div>
+&lt;h2 id="info">info&lt;/h2>
+&lt;pre>&lt;code class="language-html">{{&amp;lt; alert info &amp;gt;}}
+&amp;lt;p&amp;gt;A info disclaimer&amp;lt;/p&amp;gt;
+{{&amp;lt; /alert &amp;gt;}}
+&lt;/code>&lt;/pre>
+&lt;div class="alert alert-info">
+&lt;div>
+An information disclaimer
+&lt;/div>
+&lt;/div>
+&lt;h2 id="warning">warning&lt;/h2>
+&lt;pre>&lt;code class="language-shjs">{{&amp;lt; alert warning &amp;gt;}}
+&amp;lt;p&amp;gt;A warning disclaimer&amp;lt;/p&amp;gt;
+{{&amp;lt; /alert &amp;gt;}}
+&lt;/code>&lt;/pre>
+&lt;div class="alert alert-warning">
+&lt;div>
+An warning disclaimer
+&lt;/div>
+&lt;/div>
+&lt;h1 id="output-successfully-escaped---шорткод---highlight">Output: Successfully escaped - шорткод - highlight&lt;/h1>
+&lt;h2 id="python">Python&lt;/h2>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-python" data-lang="python"> &lt;span style="color:#a6e22e">@requires_authorization&lt;/span>
+&lt;span style="color:#66d9ef">def&lt;/span> &lt;span style="color:#a6e22e">somefunc&lt;/span>(param1&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;&amp;#39;&lt;/span>, param2&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#ae81ff">0&lt;/span>):
+&lt;span style="color:#e6db74">r&lt;/span>&lt;span style="color:#e6db74">&amp;#39;&amp;#39;&amp;#39;A docstring&amp;#39;&amp;#39;&amp;#39;&lt;/span>
+&lt;span style="color:#66d9ef">if&lt;/span> param1 &lt;span style="color:#f92672">&amp;gt;&lt;/span> param2: &lt;span style="color:#75715e"># interesting&lt;/span>
+&lt;span style="color:#66d9ef">print&lt;/span> &lt;span style="color:#e6db74">&amp;#39;Gre&lt;/span>&lt;span style="color:#ae81ff">\&amp;#39;&lt;/span>&lt;span style="color:#e6db74">ater&amp;#39;&lt;/span>
+&lt;span style="color:#66d9ef">return&lt;/span> (param2 &lt;span style="color:#f92672">-&lt;/span> param1 &lt;span style="color:#f92672">+&lt;/span> &lt;span style="color:#ae81ff">1&lt;/span> &lt;span style="color:#f92672">+&lt;/span> &lt;span style="color:#ae81ff">0b10&lt;/span>l) &lt;span style="color:#f92672">or&lt;/span> None
+&lt;span style="color:#66d9ef">class&lt;/span> &lt;span style="color:#a6e22e">SomeClass&lt;/span>:
+&lt;span style="color:#66d9ef">pass&lt;/span>
+&lt;span style="color:#f92672">&amp;gt;&amp;gt;&amp;gt;&lt;/span> message &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#e6db74">&amp;#39;&amp;#39;&amp;#39;interpreter
+&lt;/span>&lt;span style="color:#e6db74">... prompt&amp;#39;&amp;#39;&amp;#39;&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
+&lt;h2 id="php">PHP&lt;/h2>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-php" data-lang="php"> require_once &amp;#39;Zend/Uri/Http.php&amp;#39;;
+namespace Location\Web;
+interface Factory
+{
+static function _factory();
+}
+abstract class URI extends BaseURI implements Factory
+{
+abstract function test();
+public static $st1 = 1;
+const ME = &amp;#34;Yo&amp;#34;;
+var $list = NULL;
+private $var;
+/**
+* Returns a URI
+*
+* @return URI
+*/
+static public function _factory($stats = array(), $uri = &amp;#39;http&amp;#39;)
+{
+echo __METHOD__;
+$uri = explode(&amp;#39;:&amp;#39;, $uri, 0b10);
+$schemeSpecific = isset($uri[1]) ? $uri[1] : &amp;#39;&amp;#39;;
+$desc = &amp;#39;Multi
+line description&amp;#39;;
+// Security check
+if (!ctype_alnum($scheme)) {
+throw new Zend_Uri_Exception(&amp;#39;Illegal scheme&amp;#39;);
+}
+$this-&amp;gt;var = 0 - self::$st;
+$this-&amp;gt;list = list(Array(&amp;#34;1&amp;#34;=&amp;gt; 2, 2=&amp;gt;self::ME, 3 =&amp;gt; \Location\Web\URI::class));
+return [
+&amp;#39;uri&amp;#39; =&amp;gt; $uri,
+&amp;#39;value&amp;#39; =&amp;gt; null,
+];
+}
+}
+echo URI::ME . URI::$st1;
+__halt_compiler () ; datahere
+datahere
+datahere */
+datahere&lt;/code>&lt;/pre>&lt;/div>
+&lt;h2 id="javascript">JavaScript&lt;/h2>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-js" data-lang="js"> &lt;span style="color:#66d9ef">function&lt;/span> &lt;span style="color:#a6e22e">$initHighlight&lt;/span>(&lt;span style="color:#a6e22e">block&lt;/span>, &lt;span style="color:#a6e22e">cls&lt;/span>) {
+&lt;span style="color:#66d9ef">try&lt;/span> {
+&lt;span style="color:#66d9ef">if&lt;/span> (&lt;span style="color:#a6e22e">cls&lt;/span>.&lt;span style="color:#a6e22e">search&lt;/span>(&lt;span style="color:#e6db74">/\bno\-highlight\b/&lt;/span>) &lt;span style="color:#f92672">!=&lt;/span> &lt;span style="color:#f92672">-&lt;/span>&lt;span style="color:#ae81ff">1&lt;/span>)
+&lt;span style="color:#66d9ef">return&lt;/span> &lt;span style="color:#a6e22e">process&lt;/span>(&lt;span style="color:#a6e22e">block&lt;/span>, &lt;span style="color:#66d9ef">true&lt;/span>, &lt;span style="color:#ae81ff">0x0F&lt;/span>) &lt;span style="color:#f92672">+&lt;/span>
+&lt;span style="color:#e6db74">` class=&amp;#34;&lt;/span>&lt;span style="color:#e6db74">${&lt;/span>&lt;span style="color:#a6e22e">cls&lt;/span>&lt;span style="color:#e6db74">}&lt;/span>&lt;span style="color:#e6db74">&amp;#34;`&lt;/span>;
+} &lt;span style="color:#66d9ef">catch&lt;/span> (&lt;span style="color:#a6e22e">e&lt;/span>) {
+&lt;span style="color:#75715e">/* handle exception */&lt;/span>
+}
+&lt;span style="color:#66d9ef">for&lt;/span> (&lt;span style="color:#66d9ef">var&lt;/span> &lt;span style="color:#a6e22e">i&lt;/span> &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#ae81ff">0&lt;/span> &lt;span style="color:#f92672">/&lt;/span> &lt;span style="color:#ae81ff">2&lt;/span>; &lt;span style="color:#a6e22e">i&lt;/span> &lt;span style="color:#f92672">&amp;lt;&lt;/span> &lt;span style="color:#a6e22e">classes&lt;/span>.&lt;span style="color:#a6e22e">length&lt;/span>; &lt;span style="color:#a6e22e">i&lt;/span>&lt;span style="color:#f92672">++&lt;/span>) {
+&lt;span style="color:#66d9ef">if&lt;/span> (&lt;span style="color:#a6e22e">checkCondition&lt;/span>(&lt;span style="color:#a6e22e">classes&lt;/span>[&lt;span style="color:#a6e22e">i&lt;/span>]) &lt;span style="color:#f92672">===&lt;/span> &lt;span style="color:#66d9ef">undefined&lt;/span>)
+&lt;span style="color:#a6e22e">console&lt;/span>.&lt;span style="color:#a6e22e">log&lt;/span>(&lt;span style="color:#e6db74">&amp;#39;undefined&amp;#39;&lt;/span>);
+}
+&lt;/code>&lt;/pre>&lt;/div>
+&lt;h2 id="html">HTML&lt;/h2>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-html" data-lang="html"> &lt;span style="color:#75715e">&amp;lt;!DOCTYPE html&amp;gt;&lt;/span>
+&amp;lt;&lt;span style="color:#f92672">title&lt;/span>&amp;gt;Title&amp;lt;/&lt;span style="color:#f92672">title&lt;/span>&amp;gt;
+&amp;lt;&lt;span style="color:#f92672">style&lt;/span>&amp;gt;&lt;span style="color:#f92672">body&lt;/span> {&lt;span style="color:#66d9ef">width&lt;/span>: &lt;span style="color:#ae81ff">500&lt;/span>&lt;span style="color:#66d9ef">px&lt;/span>;}&amp;lt;/&lt;span style="color:#f92672">style&lt;/span>&amp;gt;
+&amp;lt;&lt;span style="color:#f92672">script&lt;/span> &lt;span style="color:#a6e22e">type&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;application/javascript&amp;#34;&lt;/span>&amp;gt;
+&lt;span style="color:#66d9ef">function&lt;/span> &lt;span style="color:#a6e22e">$init&lt;/span>() {&lt;span style="color:#66d9ef">return&lt;/span> &lt;span style="color:#66d9ef">true&lt;/span>;}
+&amp;lt;/&lt;span style="color:#f92672">script&lt;/span>&amp;gt;
+&amp;lt;&lt;span style="color:#f92672">body&lt;/span>&amp;gt;
+&amp;lt;&lt;span style="color:#f92672">p&lt;/span> &lt;span style="color:#a6e22e">checked&lt;/span> &lt;span style="color:#a6e22e">class&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;title&amp;#34;&lt;/span> &lt;span style="color:#a6e22e">id&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;title&amp;#39;&lt;/span>&amp;gt;Title&amp;lt;/&lt;span style="color:#f92672">p&lt;/span>&amp;gt;
+&lt;span style="color:#75715e">&amp;lt;!-- here goes the rest of the page --&amp;gt;&lt;/span>
+&amp;lt;/&lt;span style="color:#f92672">body&lt;/span>&amp;gt;&lt;/code>&lt;/pre>&lt;/div>
+&lt;div class="alert alert-primary">
+&lt;div>
+This is a primary alert—check it out!
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-secondary">
+&lt;div>
+This is a secondary alert—check it out!
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-success">
+&lt;div>
+This is a success alert—check it out!
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-info">
+&lt;div>
+This is a info alert—check it out!
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-warning">
+&lt;div>
+This is a warning alert—check it out!
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-danger">
+&lt;div>
+This is a danger alert—check it out!
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-dark">
+&lt;div>
+This is a dark alert—check it out!
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-light">
+&lt;div>
+This is a light alert—check it out!
+&lt;/div>
+&lt;/div></description></item><item><title>Установка Movable Type 4 шаг за шагом со скриншотами</title><link>https://dmitrijev.ru/2008/07/ustanovka-movable-type-4-shag.php/</link><pubDate>Sun, 20 Jul 2008 08:42:03 +0000</pubDate><guid>https://dmitrijev.ru/2008/07/ustanovka-movable-type-4-shag.php/</guid><description>&lt;p>&lt;span class="byline">От &lt;a href="http://www.superxm.com/">Nakamura&lt;/a>. В моем переводе. С небольшими дополнениями и изменениями. По этой
 инструкции, с дополнением под моего хостера, удалось запустить MT.
-Оригинал расположен здесь -&lt;/span&gt; &lt;a href=&#34;http://www.superxm.com/2007/08/movable-type-4-installation-step-by-step-with-screenshots.html&#34;&gt;Movable Type 4 installation step by step with screenshots&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Вышла новая, хорошая платформа для ведения блогов - &lt;i&gt;Movable Type 4&lt;/i&gt; и
+Оригинал расположен здесь -&lt;/span> &lt;a href="http://www.superxm.com/2007/08/movable-type-4-installation-step-by-step-with-screenshots.html">Movable Type 4 installation step by step with screenshots&lt;/a>.&lt;/p>
+&lt;p>Вышла новая, хорошая платформа для ведения блогов - &lt;i>Movable Type 4&lt;/i> и
 эта короткая и простая инструкция поможет вам установить этот движок.
-Это просто, поверьте!&lt;/p&gt;
-&lt;p&gt;Вот все, что вам необходимо для этого сделать:&lt;/p&gt;
-&lt;ol&gt;&lt;li&gt;Подготовить базу данных&lt;/li&gt;&lt;li&gt;Скачать&lt;/li&gt;&lt;li&gt;Разархивировать&lt;/li&gt;&lt;li&gt;Загрузить&lt;/li&gt;&lt;li&gt;Изменить атрибуты файлов&lt;/li&gt;&lt;li&gt;Установить&lt;/li&gt;&lt;li&gt;Сконфигурировать&lt;/li&gt;&lt;li&gt;Войти&amp;nbsp; &lt;/li&gt;&lt;/ol&gt;
-&lt;p&gt;&lt;span id=&#34;more-314&#34;&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;1. Прежде чем начать&lt;/b&gt;, зайдите в административную панель вашего
+Это просто, поверьте!&lt;/p>
+&lt;p>Вот все, что вам необходимо для этого сделать:&lt;/p>
+&lt;ol>&lt;li>Подготовить базу данных&lt;/li>&lt;li>Скачать&lt;/li>&lt;li>Разархивировать&lt;/li>&lt;li>Загрузить&lt;/li>&lt;li>Изменить атрибуты файлов&lt;/li>&lt;li>Установить&lt;/li>&lt;li>Сконфигурировать&lt;/li>&lt;li>Войти&amp;nbsp; &lt;/li>&lt;/ol>
+&lt;p>&lt;span id="more-314">&lt;/span>&lt;/p>
+&lt;p>&lt;b>1. Прежде чем начать&lt;/b>, зайдите в административную панель вашего
 хостера, и создайте новую SQL базу данных. Скопируйте куда-нибудь себе
-инофрмацию о созданной базе данных - &lt;i&gt;database name, database username,
-database username password&lt;/i&gt; и в некоторых случаях &#39;&lt;i&gt;database server&lt;/i&gt;&#39; - не
-у всех хостеров это &#39;&lt;i&gt;localhost&#39;&lt;/i&gt;. Все эти данные вам понадобятся немного
+инофрмацию о созданной базе данных - &lt;i>database name, database username,
+database username password&lt;/i> и в некоторых случаях '&lt;i>database server&lt;/i>' - не
+у всех хостеров это '&lt;i>localhost'&lt;/i>. Все эти данные вам понадобятся немного
 позже. Вы не знаете о чем речь? Тогда попросите помощи у вашего
 компьютерного Гуру, у друзей или у вашего хостера. Они скорее
-всего вам смогут помочь.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;2. Скачайте Movable Type 4&lt;/b&gt;, и чтобы быть уверенным что у вас последняя, стабильная версия MT4, скачивайте с официального сайта &lt;a href=&#34;http://www.movabletype.com/&#34; title=&#34;Movable Type 4&#34;&gt;http://www.movabletype.com/&lt;/a&gt;
-идите там в раздел &#34;&lt;i&gt;Download/Buy&lt;/i&gt;&#34; и жмите там &#34;&lt;i&gt;Free Personal License&lt;/i&gt;&#34; и
+всего вам смогут помочь.&lt;/p>
+&lt;p>&lt;b>2. Скачайте Movable Type 4&lt;/b>, и чтобы быть уверенным что у вас последняя, стабильная версия MT4, скачивайте с официального сайта &lt;a href="http://www.movabletype.com/" title="Movable Type 4">http://www.movabletype.com/&lt;/a>
+идите там в раздел "&lt;i>Download/Buy&lt;/i>" и жмите там "&lt;i>Free Personal License&lt;/i>" и
 выбирайте файл соотвтетственно вашей операционной системе (как правило
 Windows). Затем выберите язык, тут пожалуй кроме Английского выбирать
-то и нечего для нас. Не забудьте поставить галочку возле &#34;I accept ...&#34; и
-загрузите файл на ваш компьютер.&lt;br /&gt;&lt;img alt=&#34;Movable Type 4&#34; src=&#34;http://www.superxm.com/images/mt4-installation-01.jpg&#34; class=&#34;border&#34; /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;3&lt;b&gt;. Разархивируйте этот файл&lt;/b&gt;. В развернутом виде он будет занимать 11
+то и нечего для нас. Не забудьте поставить галочку возле "I accept ..." и
+загрузите файл на ваш компьютер.&lt;br />&lt;img alt="Movable Type 4" src="http://www.superxm.com/images/mt4-installation-01.jpg" class="border" />&lt;br />&lt;/p>&lt;p>3&lt;b>. Разархивируйте этот файл&lt;/b>. В развернутом виде он будет занимать 11
 мегабайт. Чтобы разархивировать скачанный архив, вы можете
-воспользоваться программой &lt;a href=&#34;http://www.rarlab.com/&#34;&gt;WinRar&lt;/a&gt;. После того, как вы разархивируете, у вас вместо одного файла получится много других файлов и папок.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://www.superxm.com/images/mt4-installation-02.jpg&#34; height=&#34;99&#34; width=&#34;307&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://www.superxm.com/images/mt4-installation-03.jpg&#34; height=&#34;99&#34; width=&#34;307&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://www.superxm.com/images/mt4-installation-04.jpg&#34; height=&#34;510&#34; width=&#34;356&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;И.. Если ваш блог расположен на серверах GoDaddy, прежде чем
+воспользоваться программой &lt;a href="http://www.rarlab.com/">WinRar&lt;/a>. После того, как вы разархивируете, у вас вместо одного файла получится много других файлов и папок.&lt;/p>
+&lt;p>&lt;img src="http://www.superxm.com/images/mt4-installation-02.jpg" height="99" width="307" />&lt;/p>
+&lt;p>&lt;img src="http://www.superxm.com/images/mt4-installation-03.jpg" height="99" width="307" />&lt;/p>
+&lt;p>&lt;img src="http://www.superxm.com/images/mt4-installation-04.jpg" height="510" width="356" />&lt;/p>
+&lt;p>И.. Если ваш блог расположен на серверах GoDaddy, прежде чем
 приступать к следующему пункту, необходимо произвести некоторые
 изменения. Во всех файлах с расширением cgi необходимо поменять первую
 строчк, которая должна будет выглядеть после изменения следующим
-образом -&lt;/p&gt;
-&lt;pre&gt;&lt;i&gt;&lt;code&gt;#!/usr/bin/perl -w -I/path/to/mt_dir/lib&lt;/code&gt;&lt;/i&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;i&gt;где &lt;code&gt;/path/to/mt_dir/lib - полный путь к директории lib&lt;/code&gt;&lt;/i&gt;&lt;/pre&gt;
-&lt;p&gt;Чтобы не мучатся и не делать это все ручками, воспользуйтесь программой &lt;a href=&#34;http://www.rjlsoftware.com/software/utility/search/&#34;&gt;Simple Search-Replace&lt;/a&gt;:&lt;/p&gt;&lt;br /&gt;&lt;p&gt;Где&lt;i&gt; Path to search&lt;/i&gt; укажите путь к вашему разархивированному архиву.
-Поставьте галочку в &lt;i&gt;Search Subdirectories&lt;/i&gt; чтобы изменения были сделаны
+образом -&lt;/p>
+&lt;pre>&lt;i>&lt;code>#!/usr/bin/perl -w -I/path/to/mt_dir/lib&lt;/code>&lt;/i>&lt;/pre>
+&lt;pre>&lt;i>где &lt;code>/path/to/mt_dir/lib - полный путь к директории lib&lt;/code>&lt;/i>&lt;/pre>
+&lt;p>Чтобы не мучатся и не делать это все ручками, воспользуйтесь программой &lt;a href="http://www.rjlsoftware.com/software/utility/search/">Simple Search-Replace&lt;/a>:&lt;/p>&lt;br />&lt;p>Где&lt;i> Path to search&lt;/i> укажите путь к вашему разархивированному архиву.
+Поставьте галочку в &lt;i>Search Subdirectories&lt;/i> чтобы изменения были сделаны
 действительно во всех файлах. Притом необходимо чтобы изменения были
-сделаны именно в файлах &lt;b&gt;cgi&lt;/b&gt;, на что указывает строка &lt;i&gt;File types&lt;/i&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;i&gt;Find what text&lt;/i&gt; - тут у меня не было под рукой оригинала, поэтому
+сделаны именно в файлах &lt;b>cgi&lt;/b>, на что указывает строка &lt;i>File types&lt;/i>.&lt;/p>
+&lt;p>&lt;i>Find what text&lt;/i> - тут у меня не было под рукой оригинала, поэтому
 лучше откройте текстовым редактором любой файл cgi и скопируйте первую
-строчку с этим текстом целиком. Ставим галочку в &lt;i&gt;Replace with&lt;/i&gt; и
+строчку с этим текстом целиком. Ставим галочку в &lt;i>Replace with&lt;/i> и
 изменяем строку на требуемую нам с указанием пути который у вас будет
-на севрере к директории &lt;b&gt;lib&lt;/b&gt; (для &lt;i&gt;Movable Type&lt;/i&gt; естественно) какой он у
+на севрере к директории &lt;b>lib&lt;/b> (для &lt;i>Movable Type&lt;/i> естественно) какой он у
 вас будет. Только учтите, что в этой строчке у меня по ошибке пропущено
 # и поэтому в этом плане скриншот некорректный. Затем проверяем что все
-сделали правильно, нажимаем в окне программы на &lt;i&gt;Start&lt;/i&gt;. И после того,
+сделали правильно, нажимаем в окне программы на &lt;i>Start&lt;/i>. И после того,
 как замена будет произведена (только если ваш хостер GoDaddy),
-переходим к нашему следующему пункту.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;4.  Теперь осталось загрузить файлы на сервер&lt;/b&gt;. Для удобства можно воспользоваться &lt;a href=&#34;http://filezilla-project.org/&#34;&gt;FileZilla&lt;/a&gt;
+переходим к нашему следующему пункту.&lt;/p>
+&lt;p>&lt;b>4. Теперь осталось загрузить файлы на сервер&lt;/b>. Для удобства можно воспользоваться &lt;a href="http://filezilla-project.org/">FileZilla&lt;/a>
 или любой другой аналогичной программой. Создайте на сервере папку, из
 которой вы хотите чтобы работал MT, и перенесите разархивированный
 архив, сохранив его структуру. Файлы можно скопировать в корень вашего
 сервиса, и тогда MT будет доступна по адресу вашдомен.com или же в
 папку, и тогда MT будет доступна по адресу вашдомен.com/вашапапка/.
 Если у вас не очень быстрый интернет, то можете выпить сколько то
-кружек чая с пирожными, пока копируются файлы&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://www.superxm.com/images/mt4-installation-05.jpg&#34; height=&#34;410&#34; width=&#34;294&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;5. Устанавливаем правильный chmod на файлы&lt;/b&gt;. Не пугайтесь, ничего
+кружек чая с пирожными, пока копируются файлы&lt;/p>
+&lt;p>&lt;img src="http://www.superxm.com/images/mt4-installation-05.jpg" height="410" width="294" />&lt;/p>
+&lt;p>&lt;b>5. Устанавливаем правильный chmod на файлы&lt;/b>. Не пугайтесь, ничего
 сложного - нужно лишь выбрать файлы и изменить их свойства. Сложности
 тут возникнут только лишь если сервер на котором вы пытаетесь это
 сделать, принадлежит Пентагону, или же находится в каком-либо другом
 месте и админ страдает параноей по отношению к безопасности. Если вы
 используете FileZilla то этот процесс выглядит очень просто. Писать
-даже ничего не буду - все видно на картинках:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://www.superxm.com/images/mt4-installation-06.jpg&#34; height=&#34;240&#34; width=&#34;208&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://www.superxm.com/images/mt4-installation-07.jpg&#34; height=&#34;329&#34; width=&#34;457&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;6. А сейчас настало время установки&lt;/b&gt;. Наберите в вашем броузере
-адрес, куда вы закачали &lt;i&gt;Movable Type&lt;/i&gt;. Это &lt;b&gt;вашдомен.com&lt;/b&gt; или
-&lt;b&gt;вашдомен.com/вашадиректория /&lt;/b&gt; или что-либо еще в зависимости от того,
-куда вы разместили файлы. И вы должны будете увидеть это.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://www.superxm.com/images/mt4-installation-08.jpg&#34; height=&#34;300&#34; width=&#34;278&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;Подождите 5-10 секунд, и вас автоматически перекинет на страничку для инсталяции:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://www.superxm.com/images/mt4-installation-09.jpg&#34; height=&#34;150&#34; width=&#34;268&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;И переходите к следующему этапу, на котором система проверит различные вещи&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://www.superxm.com/images/mt4-installation-10.jpg&#34; height=&#34;219&#34; width=&#34;270&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;И если все в порядке (вы ведь все правильно сделали?) вводим в
+даже ничего не буду - все видно на картинках:&lt;/p>
+&lt;p>&lt;img src="http://www.superxm.com/images/mt4-installation-06.jpg" height="240" width="208" />&lt;/p>
+&lt;p>&lt;img src="http://www.superxm.com/images/mt4-installation-07.jpg" height="329" width="457" />&lt;/p>
+&lt;p>&lt;b>6. А сейчас настало время установки&lt;/b>. Наберите в вашем броузере
+адрес, куда вы закачали &lt;i>Movable Type&lt;/i>. Это &lt;b>вашдомен.com&lt;/b> или
+&lt;b>вашдомен.com/вашадиректория /&lt;/b> или что-либо еще в зависимости от того,
+куда вы разместили файлы. И вы должны будете увидеть это.&lt;/p>
+&lt;p>&lt;img src="http://www.superxm.com/images/mt4-installation-08.jpg" height="300" width="278" />&lt;/p>
+&lt;p>Подождите 5-10 секунд, и вас автоматически перекинет на страничку для инсталяции:&lt;/p>
+&lt;p>&lt;img src="http://www.superxm.com/images/mt4-installation-09.jpg" height="150" width="268" />&lt;/p>
+&lt;p>И переходите к следующему этапу, на котором система проверит различные вещи&lt;/p>
+&lt;p>&lt;img src="http://www.superxm.com/images/mt4-installation-10.jpg" height="219" width="270" />&lt;/p>
+&lt;p>И если все в порядке (вы ведь все правильно сделали?) вводим в
 соответствующие поля сохраненную нами в первом пункте информацию (вы
-ведь ее сохранили, да?). Заполнив все жмем &#39;&lt;i&gt;test connection&lt;/i&gt;&#39;:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://www.superxm.com/images/mt4-installation-11.jpg&#34; height=&#34;419&#34; width=&#34;270&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;Отлично, мы настроили подключение с базой данных, и приступим к следующему шагу&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://www.superxm.com/images/mt4-installation-12.jpg&#34; height=&#34;208&#34; width=&#34;270&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;Где нас попросят настроить почту. Нет проблем - выбираем &#34;&lt;i&gt;sendmail&#34;&lt;/i&gt;,
-вводим наш &lt;i&gt;email &lt;/i&gt;и проверяем что оно работает. Для этого жмите &#39;&lt;i&gt;send
-test email&lt;/i&gt;&#39; и проверяйте вашу электронную почту. Продолжаем наши пляски
-с бубном дальше.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://www.superxm.com/images/mt4-installation-13.jpg&#34; height=&#34;226&#34; width=&#34;270&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://www.superxm.com/images/mt4-installation-14.jpg&#34; height=&#34;302&#34; width=&#34;270&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;Вот мы уже почти подобрались к концу. Конфигурационный файл создан, жмем &#39;&lt;i&gt;continue&lt;/i&gt;&#39;:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://www.superxm.com/images/mt4-installation-15.jpg&#34; height=&#34;254&#34; width=&#34;270&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;7. Теперь нам надо создать свою учетную запись в системе&lt;/b&gt;. Вы в ней
+ведь ее сохранили, да?). Заполнив все жмем '&lt;i>test connection&lt;/i>':&lt;/p>
+&lt;p>&lt;img src="http://www.superxm.com/images/mt4-installation-11.jpg" height="419" width="270" />&lt;/p>
+&lt;p>Отлично, мы настроили подключение с базой данных, и приступим к следующему шагу&lt;/p>
+&lt;p>&lt;img src="http://www.superxm.com/images/mt4-installation-12.jpg" height="208" width="270" />&lt;/p>
+&lt;p>Где нас попросят настроить почту. Нет проблем - выбираем "&lt;i>sendmail"&lt;/i>,
+вводим наш &lt;i>email &lt;/i>и проверяем что оно работает. Для этого жмите '&lt;i>send
+test email&lt;/i>' и проверяйте вашу электронную почту. Продолжаем наши пляски
+с бубном дальше.&lt;/p>
+&lt;p>&lt;img src="http://www.superxm.com/images/mt4-installation-13.jpg" height="226" width="270" />&lt;/p>
+&lt;p>&lt;img src="http://www.superxm.com/images/mt4-installation-14.jpg" height="302" width="270" />&lt;/p>
+&lt;p>Вот мы уже почти подобрались к концу. Конфигурационный файл создан, жмем '&lt;i>continue&lt;/i>':&lt;/p>
+&lt;p>&lt;img src="http://www.superxm.com/images/mt4-installation-15.jpg" height="254" width="270" />&lt;/p>
+&lt;p>&lt;b>7. Теперь нам надо создать свою учетную запись в системе&lt;/b>. Вы в ней
 админ, и вольны ввести то, что желаете. Не забудьте указать вш
-работающий email адрес, ну и не забудьте придуманный пароль.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://www.superxm.com/images/mt4-installation-16.jpg&#34; height=&#34;449&#34; width=&#34;270&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;Дальше необходимо ввести базовую информацию о вашем блоге. Его название, адрес, (url).Настроив, жмите  &#34;&lt;i&gt;Finish install&lt;/i&gt;&#34;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://www.superxm.com/images/mt4-installation-17.jpg&#34; height=&#34;367&#34; width=&#34;270&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;Какое-то время смотрите на&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://www.superxm.com/images/mt4-installation-18.jpg&#34; height=&#34;304&#34; width=&#34;270&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;И затем появится информация о том, что инсталяция закончена.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://www.superxm.com/images/mt4-installation-19.jpg&#34; height=&#34;290&#34; width=&#34;270&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;8. Вы можете зайти нажав на &#39;sign in...&#34; и попадете в зону
-администрирования платформой.&lt;/b&gt; Откуда вы сможете изучать и управлять
+работающий email адрес, ну и не забудьте придуманный пароль.&lt;/p>
+&lt;p>&lt;img src="http://www.superxm.com/images/mt4-installation-16.jpg" height="449" width="270" />&lt;/p>
+&lt;p>Дальше необходимо ввести базовую информацию о вашем блоге. Его название, адрес, (url).Настроив, жмите "&lt;i>Finish install&lt;/i>"&lt;/p>
+&lt;p>&lt;img src="http://www.superxm.com/images/mt4-installation-17.jpg" height="367" width="270" />&lt;/p>
+&lt;p>Какое-то время смотрите на&lt;/p>
+&lt;p>&lt;img src="http://www.superxm.com/images/mt4-installation-18.jpg" height="304" width="270" />&lt;/p>
+&lt;p>И затем появится информация о том, что инсталяция закончена.&lt;/p>
+&lt;p>&lt;img src="http://www.superxm.com/images/mt4-installation-19.jpg" height="290" width="270" />&lt;/p>
+&lt;p>&lt;b>8. Вы можете зайти нажав на 'sign in..." и попадете в зону
+администрирования платформой.&lt;/b> Откуда вы сможете изучать и управлять
 Movable Type 4. Для того, чтобы иметь возможность всегда попасть в
-админку MT используйте адрес &#34;&lt;b&gt;www.yoursite.com/mt.cgi&lt;/b&gt;&#34; или другой, в
-зависимости от того, куда вы установили MT.&lt;/p&gt;&lt;a href=&#34;http://www.daarh.net/2007/10/ustanovka-movable-type-4-shag-za-shagom.html&#34; target=&#34;_blank&#34;&gt;Источник&lt;/a&gt;</description>
-    </item>
-    
-    <item>
-      <title>Приветствие!</title>
-      <link>https://dmitrijev.ru/2008/07/privetstvie.php/</link>
-      <pubDate>Sun, 20 Jul 2008 05:42:13 +0000</pubDate>
-      <guid>https://dmitrijev.ru/2008/07/privetstvie.php/</guid>
-      <description>&lt;p&gt;&lt;b&gt;&lt;font style=&#34;font-size: 1.25em;&#34;&gt;Приветствую&lt;/font&gt;&lt;/b&gt; &lt;i&gt;всех&lt;/i&gt;, &lt;u&gt;кто&lt;/u&gt; &lt;strike&gt;пометил&lt;/strike&gt; посетил &lt;a href=&#34;http://www.dmitrijev.ru/&#34;&gt;мою домашнюю страничку&lt;/a&gt;!&lt;/p&gt;
-&lt;p&gt;Расширенный текст&lt;br /&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Я установил Movable 4!</title>
-      <link>https://dmitrijev.ru/2008/07/ja-ustanovil-movable-4.php/</link>
-      <pubDate>Sun, 20 Jul 2008 05:33:04 +0000</pubDate>
-      <guid>https://dmitrijev.ru/2008/07/ja-ustanovil-movable-4.php/</guid>
-      <description>&lt;p&gt;Добро пожаловать в мой новый блог, созданный на платформе Movable Type. Это первая запись, она была создана для меня автоматически, когда закончился процесс установки. Уже скоро я создам собственные записи!&lt;/p&gt;
-&lt;h1 class=&#34;asset-name&#34;&gt;Movable Type 4 installation step by step with screenshots&lt;/h1&gt;&lt;b&gt;Quick instructions how to install Movable Type 4 publishing platform - step by step with screenshots!&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;The
-new and cool blog system is out - Movable Type 4, and i&#39;m giving you
-short and clear instructions how to install that thingee. It&#39;s easy,
-trust me!&lt;br /&gt;&lt;br /&gt;OK, here&#39;s what you do in order to get your MT4 blog up and running:&lt;br /&gt;&lt;br /&gt;&lt;ol&gt;&lt;li&gt;Server data&lt;/li&gt;&lt;li&gt;Download&lt;/li&gt;&lt;li&gt;Unzip&lt;/li&gt;&lt;li&gt;Upload&lt;/li&gt;&lt;li&gt;Chmod&lt;/li&gt;&lt;li&gt;Install&lt;/li&gt;&lt;li&gt;Configure&lt;/li&gt;&lt;li&gt;Log in ;)&lt;/li&gt;&lt;/ol&gt;&lt;br /&gt;&lt;h1 class=&#34;asset-name&#34;&gt;1. Before you start,&lt;/h1&gt;Log
+админку MT используйте адрес "&lt;b>www.yoursite.com/mt.cgi&lt;/b>" или другой, в
+зависимости от того, куда вы установили MT.&lt;/p>&lt;a href="http://www.daarh.net/2007/10/ustanovka-movable-type-4-shag-za-shagom.html" target="_blank">Источник&lt;/a></description></item><item><title>Приветствие!</title><link>https://dmitrijev.ru/2008/07/privetstvie.php/</link><pubDate>Sun, 20 Jul 2008 05:42:13 +0000</pubDate><guid>https://dmitrijev.ru/2008/07/privetstvie.php/</guid><description>&lt;p>&lt;b>&lt;font style="font-size: 1.25em;">Приветствую&lt;/font>&lt;/b> &lt;i>всех&lt;/i>, &lt;u>кто&lt;/u> &lt;strike>пометил&lt;/strike> посетил &lt;a href="http://www.dmitrijev.ru/">мою домашнюю страничку&lt;/a>!&lt;/p>
+&lt;p>Расширенный текст&lt;br />&lt;/p></description></item><item><title>Я установил Movable 4!</title><link>https://dmitrijev.ru/2008/07/ja-ustanovil-movable-4.php/</link><pubDate>Sun, 20 Jul 2008 05:33:04 +0000</pubDate><guid>https://dmitrijev.ru/2008/07/ja-ustanovil-movable-4.php/</guid><description>&lt;p>Добро пожаловать в мой новый блог, созданный на платформе Movable Type. Это первая запись, она была создана для меня автоматически, когда закончился процесс установки. Уже скоро я создам собственные записи!&lt;/p>
+&lt;h1 class="asset-name">Movable Type 4 installation step by step with screenshots&lt;/h1>&lt;b>Quick instructions how to install Movable Type 4 publishing platform - step by step with screenshots!&lt;/b>&lt;br />&lt;br />The
+new and cool blog system is out - Movable Type 4, and i'm giving you
+short and clear instructions how to install that thingee. It's easy,
+trust me!&lt;br />&lt;br />OK, here's what you do in order to get your MT4 blog up and running:&lt;br />&lt;br />&lt;ol>&lt;li>Server data&lt;/li>&lt;li>Download&lt;/li>&lt;li>Unzip&lt;/li>&lt;li>Upload&lt;/li>&lt;li>Chmod&lt;/li>&lt;li>Install&lt;/li>&lt;li>Configure&lt;/li>&lt;li>Log in ;)&lt;/li>&lt;/ol>&lt;br />&lt;h1 class="asset-name">1. Before you start,&lt;/h1>Log
 into your hosting accound (your server admin panel) and create a new
 SQL database, copy database name, database username, database username
-password (and in some cases, if the &#39;database server&#39; is not
-&#39;localhost&#39; write it down too, as far as i know GoDaddy service has
+password (and in some cases, if the 'database server' is not
+'localhost' write it down too, as far as i know GoDaddy service has
 this issue). You will need that data to enter later installing you
-blog. Don&#39;t know how to get this data? Huh, ask a guru to help you, for
+blog. Don't know how to get this data? Huh, ask a guru to help you, for
 example some geek-friend or e-mail your hosting provider, they will
-help.&lt;br /&gt;&lt;br /&gt;&lt;h1 class=&#34;asset-name&#34;&gt;2. Download Movable Type 4,&lt;/h1&gt;And make sure you&#39;ve got the latest stable version of MT4, go to official website &lt;a href=&#34;http://www.movabletype.com/&#34; title=&#34;Movable Type&#34; target=&#34;_blank&#34;&gt;www.movabletype.com&lt;/a&gt;,
-go to &#34;Download/Buy&#34;, click &#34;Free Personal License&#34; and choose the
+help.&lt;br />&lt;br />&lt;h1 class="asset-name">2. Download Movable Type 4,&lt;/h1>And make sure you've got the latest stable version of MT4, go to official website &lt;a href="http://www.movabletype.com/" title="Movable Type" target="_blank">www.movabletype.com&lt;/a>,
+go to "Download/Buy", click "Free Personal License" and choose the
 operating system you have (tar.gz for non-Windows folks, zip for Bill
 Gates fans) and select language you want your new shiny blog to be (i
-guess it&#39;s English). Don&#39;t forget to check the &#34;I accept ...&#34; bla bla
-(oh, you can read it to..). Now save that file to your computer.&lt;br /&gt;&lt;br /&gt;&lt;h1 class=&#34;asset-name&#34;&gt;3. Unzip that file,&lt;/h1&gt;It&#39;s
-about 11 mb in size when unzipped. That&#39;s OK, most of &#39;normal&#39; hosting
-providers give you way more space than you&#39;ll ever need.&lt;br /&gt;I suggest to use WinRar
-as a software for unzipping - it&#39;s quick and intuitive. Then you&#39;ll
+guess it's English). Don't forget to check the "I accept ..." bla bla
+(oh, you can read it to..). Now save that file to your computer.&lt;br />&lt;br />&lt;h1 class="asset-name">3. Unzip that file,&lt;/h1>It's
+about 11 mb in size when unzipped. That's OK, most of 'normal' hosting
+providers give you way more space than you'll ever need.&lt;br />I suggest to use WinRar
+as a software for unzipping - it's quick and intuitive. Then you'll
 have a folder full of CGI files and other folders - this is the stuff
-you will upload to your hosting.&lt;br /&gt;&lt;br /&gt;&lt;h1 class=&#34;asset-name&#34;&gt;4. Now upload files&lt;/h1&gt;that are in this folder (something like &#34;MT-4.0-en&#34;). I use FileZilla
-for fast and easy FTP uploads, it&#39;s really cool soft! It supports
+you will upload to your hosting.&lt;br />&lt;br />&lt;h1 class="asset-name">4. Now upload files&lt;/h1>that are in this folder (something like "MT-4.0-en"). I use FileZilla
+for fast and easy FTP uploads, it's really cool soft! It supports
 drag-and-drop function, just log into your hosting server (the root
-directory &#34;yoursite.com&#34; or any other new directory, let&#39;s say
-&#34;yoursite.com.com/blog/&#34; ), select all files on you computer and
-drag&#39;em over to server. If you don&#39;t have a broadband internet at home,
+directory "yoursite.com" or any other new directory, let's say
+"yoursite.com.com/blog/" ), select all files on you computer and
+drag'em over to server. If you don't have a broadband internet at home,
 it will take time to upload them eleven megabytes, so go and make some
-tea with cookies, would you.&lt;br /&gt;&lt;br /&gt;&lt;h1 class=&#34;asset-name&#34;&gt;5. Now chmod them files,&lt;/h1&gt;As
-you can read in the MT4 installation &#39;readme&#39; file. Don&#39;t panic,
-&#39;chmod&#39; is nothing else than just selecting files and changing
-properties.&lt;br /&gt;You might have some problems with changing the
+tea with cookies, would you.&lt;br />&lt;br />&lt;h1 class="asset-name">5. Now chmod them files,&lt;/h1>As
+you can read in the MT4 installation 'readme' file. Don't panic,
+'chmod' is nothing else than just selecting files and changing
+properties.&lt;br />You might have some problems with changing the
 properties of files if you server is in Pentagon or some place else
-where admin has put more than paranoia into security settings. &lt;b&gt;If so - get in touch with your hosting provider and ask for instructions or permissions.&lt;/b&gt;&lt;br /&gt;&lt;h1 class=&#34;asset-name&#34;&gt;6. It&#39;s time to install,&lt;/h1&gt;Now
+where admin has put more than paranoia into security settings. &lt;b>If so - get in touch with your hosting provider and ask for instructions or permissions.&lt;/b>&lt;br />&lt;h1 class="asset-name">6. It's time to install,&lt;/h1>Now
 enter you address where you uploaded files into your browser
-(&#34;yoursite.com&#34; or &#34;yoursite.com/blog/&#34; or whatever you did), it will
-bring up screen like this:&lt;br /&gt;&lt;br /&gt;Wait some 5 or 10 seconds and it will automatically reload it to start your installation:&lt;br /&gt;&lt;br /&gt;Now it will check is everything OK with your sever settings:&lt;br /&gt;&lt;br /&gt;Now enter server data you have already (you have it, do you?..), and click &#39;test connection&#39;:&lt;br /&gt;&lt;br /&gt;Wow, you did it, everything&#39;s OK with database, now proceed:&lt;br /&gt;&lt;br /&gt;Now
-it asks for mail configuration, no problemo! Choose &#34;sendmail&#34; and
-enter YOURS e-mail so you can test if it works. Click &#39;send test email&#39;
-and check you inbox. Now continue installation:&lt;br /&gt;You&#39;re almost done. Configuration file is created and click &#39;continue&#39;:&lt;br /&gt;&lt;br /&gt;&lt;h1 class=&#34;asset-name&#34;&gt;7. Here you must create&lt;/h1&gt;your login data. You&#39;re the admin, so enter whatever you want to. Just make sure you dont misspell e-mail and remember password:&lt;br /&gt;Next step you enter basic info about your blog. Name, URL - choose
-directory where you uploaded MT4 files, like &#34;yoursite.com.com/blog/&#34;
-(or leave only &#34;yoursite.com&#34; if you have no separate blog directory
-(delete the last part &#34;/my-first-blog/&#34; if it automatically shows up in
+("yoursite.com" or "yoursite.com/blog/" or whatever you did), it will
+bring up screen like this:&lt;br />&lt;br />Wait some 5 or 10 seconds and it will automatically reload it to start your installation:&lt;br />&lt;br />Now it will check is everything OK with your sever settings:&lt;br />&lt;br />Now enter server data you have already (you have it, do you?..), and click 'test connection':&lt;br />&lt;br />Wow, you did it, everything's OK with database, now proceed:&lt;br />&lt;br />Now
+it asks for mail configuration, no problemo! Choose "sendmail" and
+enter YOURS e-mail so you can test if it works. Click 'send test email'
+and check you inbox. Now continue installation:&lt;br />You're almost done. Configuration file is created and click 'continue':&lt;br />&lt;br />&lt;h1 class="asset-name">7. Here you must create&lt;/h1>your login data. You're the admin, so enter whatever you want to. Just make sure you dont misspell e-mail and remember password:&lt;br />Next step you enter basic info about your blog. Name, URL - choose
+directory where you uploaded MT4 files, like "yoursite.com.com/blog/"
+(or leave only "yoursite.com" if you have no separate blog directory
+(delete the last part "/my-first-blog/" if it automatically shows up in
 URL and Publishing Path forms). You may also choose time zone. Now
-click &#34;Finish install&#34;, click it!!&lt;br /&gt;&lt;br /&gt;Something smart like this will show up:&lt;br /&gt;&lt;br /&gt;And then it will tell you that installation is complete and you&#39;re done!&lt;br /&gt;&lt;h1 class=&#34;asset-name&#34;&gt;8. Now you can log in&lt;/h1&gt;By
-clicking &#39;sign in...&#34;, it will take you to admin area and here&#39;s where
+click "Finish install", click it!!&lt;br />&lt;br />Something smart like this will show up:&lt;br />&lt;br />And then it will tell you that installation is complete and you're done!&lt;br />&lt;h1 class="asset-name">8. Now you can log in&lt;/h1>By
+clicking 'sign in...", it will take you to admin area and here's where
 you start to explore Movable Type 4 blogging platform Movable Type
 admin dashboard is accessible anywhere by entering this URL -
-&#34;www.yoursite.com/mt.cgi&#34;) . &lt;br /&gt;Browse around, change some settings, check out cool templates it has by default, it&#39;s yours, play!&lt;br /&gt;&lt;br /&gt;I&#39;ve been using WordPress for a while, so i got curious about MT4 - is
-it worth to try it? Yes, it is. Is it better than WordPress? No, i&#39;d
-say they&#39;re equal.&lt;br /&gt;&lt;br /&gt;WordPress seems to have more plugins and
+"www.yoursite.com/mt.cgi") . &lt;br />Browse around, change some settings, check out cool templates it has by default, it's yours, play!&lt;br />&lt;br />I've been using WordPress for a while, so i got curious about MT4 - is
+it worth to try it? Yes, it is. Is it better than WordPress? No, i'd
+say they're equal.&lt;br />&lt;br />WordPress seems to have more plugins and
 templates, as a result of that big open source community that is
 involved in making of this blog platform. On the other hand, Movable
 Type 4 comes with some handy features already out-of-the-box, whereas
-on WordPress you have to install them as separate plug-ins.&lt;br /&gt;&lt;br /&gt;
+on WordPress you have to install them as separate plug-ins.&lt;br />&lt;br />
 You can get some bits of information about Movable Type 4 Beta .
-&lt;br /&gt;&lt;br /&gt;Cheers,&lt;br /&gt;Nakamura.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;P.S. if the lazy
+&lt;br />&lt;br />Cheers,&lt;br />Nakamura.&lt;br />&lt;br />&lt;i>P.S. if the lazy
 monkey inside my head will not take over, i might post some more
-Movable Type 4 tips and tricks, feel free to bookmark me!&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;</description>
-    </item>
-    
-    <item>
-      <title>Шутка</title>
-      <link>https://dmitrijev.ru/2008/04/shutka.php/</link>
-      <pubDate>Tue, 01 Apr 2008 12:32:54 +0000</pubDate>
-      <guid>https://dmitrijev.ru/2008/04/shutka.php/</guid>
-      <description>&lt;p&gt;Мая пашутилло&lt;/p&gt;
-&lt;p&gt;о, е&amp;hellip;&lt;br /&gt;&lt;/p&gt;</description>
-    </item>
-    
-  </channel>
-</rss>
+Movable Type 4 tips and tricks, feel free to bookmark me!&lt;/i>&lt;br />&lt;br /></description></item><item><title>Шутка</title><link>https://dmitrijev.ru/2008/04/shutka.php/</link><pubDate>Tue, 01 Apr 2008 12:32:54 +0000</pubDate><guid>https://dmitrijev.ru/2008/04/shutka.php/</guid><description>&lt;p>Мая пашутилло&lt;/p>
+&lt;p>о, е&amp;hellip;&lt;br />&lt;/p></description></item></channel></rss>

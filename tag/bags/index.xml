@@ -1,25 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Bags | Dmitrijev.ru</title>
-    <link>https://dmitrijev.ru/tag/bags/</link>
-      <atom:link href="https://dmitrijev.ru/tag/bags/index.xml" rel="self" type="application/rss+xml" />
-    <description>Bags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru</language><copyright>© Vladimir Dmitrijev 2003-2020</copyright><lastBuildDate>Wed, 23 Jul 2008 04:23:42 +0000</lastBuildDate>
-    <image>
-      <url>https://dmitrijev.ru/images/icon_hu4f7f1b8434ceb601df928cdf3e46831d_46965_512x512_fill_lanczos_center_2.png</url>
-      <title>Bags</title>
-      <link>https://dmitrijev.ru/tag/bags/</link>
-    </image>
-    
-    <item>
-      <title>Облако русских тэгов для MT</title>
-      <link>https://dmitrijev.ru/2008/07/oblako-russkix-tegov-dlja-mt.php/</link>
-      <pubDate>Wed, 23 Jul 2008 04:23:42 +0000</pubDate>
-      <guid>https://dmitrijev.ru/2008/07/oblako-russkix-tegov-dlja-mt.php/</guid>
-      <description>&lt;p&gt;Заметил, что при обозначении Тэгов на кириллице (например, Тэг:&lt;i&gt; Блог&lt;/i&gt;) - Облако их считает Отдельными «облачками», а не одним Большим Облаком&amp;hellip;&lt;br /&gt;После перевода (редактирования) на английский - Облако отображается верно&amp;hellip;&lt;/p&gt;
-&lt;p&gt;Уверен, что для русской версии есть решение. Найду напишу здесь. Возможная причина это то, что данный скрипт (движок этого сайта) - это смесь &lt;i&gt;&lt;b&gt;MTOS-4.1-ru-RC1&lt;/b&gt;&lt;/i&gt; и &lt;i&gt;&lt;b&gt;MTP-4.12-en&lt;/b&gt;&lt;/i&gt; и поэтому не всё отображается корректно&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Bags | Dmitrijev.ru</title><link>https://dmitrijev.ru/tag/bags/</link><atom:link href="https://dmitrijev.ru/tag/bags/index.xml" rel="self" type="application/rss+xml"/><description>Bags</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru</language><copyright>© Vladimir Dmitrijev 2003-2020</copyright><lastBuildDate>Wed, 23 Jul 2008 04:23:42 +0000</lastBuildDate><image><url>https://dmitrijev.ru/images/icon_hu4f7f1b8434ceb601df928cdf3e46831d_46965_512x512_fill_lanczos_center_2.png</url><title>Bags</title><link>https://dmitrijev.ru/tag/bags/</link></image><item><title>Облако русских тэгов для MT</title><link>https://dmitrijev.ru/2008/07/oblako-russkix-tegov-dlja-mt.php/</link><pubDate>Wed, 23 Jul 2008 04:23:42 +0000</pubDate><guid>https://dmitrijev.ru/2008/07/oblako-russkix-tegov-dlja-mt.php/</guid><description>&lt;p>Заметил, что при обозначении Тэгов на кириллице (например, Тэг:&lt;i> Блог&lt;/i>) - Облако их считает Отдельными «облачками», а не одним Большим Облаком&amp;hellip;&lt;br />После перевода (редактирования) на английский - Облако отображается верно&amp;hellip;&lt;/p>
+&lt;p>Уверен, что для русской версии есть решение. Найду напишу здесь. Возможная причина это то, что данный скрипт (движок этого сайта) - это смесь &lt;i>&lt;b>MTOS-4.1-ru-RC1&lt;/b>&lt;/i> и &lt;i>&lt;b>MTP-4.12-en&lt;/b>&lt;/i> и поэтому не всё отображается корректно&amp;hellip;&lt;/p></description></item></channel></rss>
