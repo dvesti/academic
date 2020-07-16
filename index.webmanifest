@@ -2,8 +2,8 @@
   "name": "Dmitrijev.ru",
   "short_name": "Dmitrijev.ru",
   "lang": "ru",
-  "theme_color": "#2962ff",
-  "background_color": "#2962ff",
+  "theme_color": "#1a535c",
+  "background_color": "#1a535c",
   "icons": [{
     "src": "/images/icon_hu4f7f1b8434ceb601df928cdf3e46831d_46965_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
