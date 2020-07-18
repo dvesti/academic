@@ -1,263 +1,382 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>hugo | Dmitrijev.ru</title><link>https://dmitrijev.ru/category/hugo/</link><atom:link href="https://dmitrijev.ru/category/hugo/index.xml" rel="self" type="application/rss+xml"/><description>hugo</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru</language><copyright>© Vladimir Dmitrijev 2003-2020</copyright><lastBuildDate>Tue, 05 May 2020 00:00:00 +0000</lastBuildDate><image><url>https://dmitrijev.ru/images/icon_hu4f7f1b8434ceb601df928cdf3e46831d_46965_512x512_fill_lanczos_center_2.png</url><title>hugo</title><link>https://dmitrijev.ru/category/hugo/</link></image><item><title>7 Ways You Can Further Customize the Hugo Academic Theme</title><link>https://dmitrijev.ru/blog/hugo-academic-customization/</link><pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate><guid>https://dmitrijev.ru/blog/hugo-academic-customization/</guid><description>&lt;p>Out of the box, the
-&lt;a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme/framework&lt;/a> is already &lt;em>highly&lt;/em> customizable and just by adjusting the basic settings in &lt;code>params.toml&lt;/code>, organizing and filling out your homepage widgets/about, and the assigning your fonts and theme colors of choice, you can already get it to look much more like your own, all without editing any code. Academic&amp;rsquo;s
-&lt;a href="https://sourcethemes.com/academic/docs/get-started/" target="_blank" rel="noopener">documentation&lt;/a> is very thorough and helpful, especially when starting out and if you&amp;rsquo;re new to Hugo like I was. I could make a whole other blog post about why I love the Hugo Academic framework and why I&amp;rsquo;d recommend it to anyone wanting to create a website (because why not? It&amp;rsquo;s free!).&lt;/p>
-&lt;p>But if you&amp;rsquo;re like me and particular about how you want it to look, there may be more things you&amp;rsquo;d like to adjust that aren&amp;rsquo;t in the out-of-the-box settings. As I started to customize these things, I found that some were not that easy to find or figure out, so I thought I&amp;rsquo;d compile and share these settings in case anyone else would like to customize them as well.&lt;/p>
-&lt;div class="alert alert-note">
-&lt;div>
-&lt;p>An important thing to know before we begin is how Hugo uses &lt;a href="https://gohugo.io/templates/lookup-order/">template lookup&lt;/a>. Basically, the theme files in &lt;code>/themes/hugo-academic&lt;/code> tell Hugo how to build the site, but you can override this by placing folders and files of the same structure in your &lt;code>root&lt;/code> folder. Here is an example from the &lt;a href="https://sourcethemes.com/academic/docs/customization/#override-a-template">Academic documentation&lt;/a>:&lt;/p>
-&lt;blockquote>
-&lt;p>For example, say we wish to add some HTML code to the navigation bar. Let’s copy the relevant file &lt;code>themes/academic/layouts/partials/navbar.html&lt;/code> to &lt;code>layouts/partials/navbar.html&lt;/code> (at the root of your site, not in &lt;code>themes/academic/&lt;/code>), creating the &lt;code>layouts/partials/&lt;/code> folders if they do not already exist. Now you can add the HTML code you want to your copy of the file, which will override Academic’s version.&lt;/p>
-&lt;/blockquote>
-&lt;p>&lt;strong>At the time of this post, Academic&amp;rsquo;s latest release is v4.8.0.&lt;/strong>&lt;/p>
-&lt;/div>
-&lt;/div>
-&lt;br />
-&lt;p>&lt;strong>What I&amp;rsquo;ll be covering:&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>
-&lt;a href="#full-list-of-theme-colors-you-can-customize">Full list of theme colors you can customize&lt;/a>&lt;/li>
-&lt;li>
-&lt;a href="#about-widget-without-a-summary">About widget without a summary&lt;/a>
-&lt;ul>
-&lt;li>
-&lt;a href="#using-my-abouthtml">Using my &lt;code>about.html&lt;/code>&lt;/a>&lt;/li>
-&lt;li>
-&lt;a href="#adjusting-the-html-yourself">Adjusting the &lt;code>html&lt;/code> yourself&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>
-&lt;a href="#removing-box-shadows">Removing box-shadows&lt;/a>&lt;/li>
-&lt;li>
-&lt;a href="#from-posts-to-blog">From &amp;lsquo;posts&amp;rsquo; to &amp;lsquo;blog&amp;rsquo;&lt;/a>&lt;/li>
-&lt;li>
-&lt;a href="#changing-displayed-post-dates">Changing displayed post dates&lt;/a>&lt;/li>
-&lt;li>
-&lt;a href="#adjusting-post-font-size--page-width">Adjusting post font size &amp;amp; page width&lt;/a>&lt;/li>
-&lt;li>
-&lt;a href="#customizing-the-alert-notes--warnings-div-tips">Customizing the alert notes &amp;amp; warnings (div tips)&lt;/a>&lt;/li>
-&lt;li>
-&lt;a href="#thats-all-for-now">That&amp;rsquo;s all for now!&lt;/a>&lt;br />&lt;/li>
-&lt;/ul>
-&lt;h2 id="full-list-of-theme-colors-you-can-customize">Full list of theme colors you can customize&lt;/h2>
-&lt;p>If you won&amp;rsquo;t be using one of the
-&lt;a href="https://sourcethemes.com/academic/themes/" target="_blank" rel="noopener">themes&lt;/a> provided by Academic, the documentation shows you how you can
-&lt;a href="https://sourcethemes.com/academic/docs/customization/#custom-theme" target="_blank" rel="noopener">create your own theme&lt;/a> and set the colors yourself. If you&amp;rsquo;re creating your own &lt;code>data/themes/my_theme.toml&lt;/code> here is a list of parameters you can specify, just put in your preferred colors.
-&lt;a href="https://coolors.co/palettes/trending" target="_blank" rel="noopener">Coolors&lt;/a> is a great color palettes resource.&lt;/p>
-&lt;pre>&lt;code class="language-markdown"># Theme metadata
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo | Dmitrijev.ru</title>
+    <link>https://dmitrijev.ru/category/hugo/</link>
+      <atom:link href="https://dmitrijev.ru/category/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <description>hugo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru</language><copyright>© Vladimir Dmitrijev 2003-2020</copyright><lastBuildDate>Tue, 05 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dmitrijev.ru/images/icon_hu4f7f1b8434ceb601df928cdf3e46831d_46965_512x512_fill_lanczos_center_2.png</url>
+      <title>hugo</title>
+      <link>https://dmitrijev.ru/category/hugo/</link>
+    </image>
+    
+    <item>
+      <title>7 Ways You Can Further Customize the Hugo Academic Theme</title>
+      <link>https://dmitrijev.ru/blog/hugo-academic-customization/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://dmitrijev.ru/blog/hugo-academic-customization/</guid>
+      <description>&lt;p&gt;Out of the box, the 
+&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic theme/framework&lt;/a&gt; is already &lt;em&gt;highly&lt;/em&gt; customizable and just by adjusting the basic settings in &lt;code&gt;params.toml&lt;/code&gt;, organizing and filling out your homepage widgets/about, and the assigning your fonts and theme colors of choice, you can already get it to look much more like your own, all without editing any code. Academic&amp;rsquo;s 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/get-started/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;documentation&lt;/a&gt; is very thorough and helpful, especially when starting out and if you&amp;rsquo;re new to Hugo like I was. I could make a whole other blog post about why I love the Hugo Academic framework and why I&amp;rsquo;d recommend it to anyone wanting to create a website (because why not? It&amp;rsquo;s free!).&lt;/p&gt;
+&lt;p&gt;But if you&amp;rsquo;re like me and particular about how you want it to look, there may be more things you&amp;rsquo;d like to adjust that aren&amp;rsquo;t in the out-of-the-box settings. As I started to customize these things, I found that some were not that easy to find or figure out, so I thought I&amp;rsquo;d compile and share these settings in case anyone else would like to customize them as well.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;An important thing to know before we begin is how Hugo uses &lt;a href=&#34;https://gohugo.io/templates/lookup-order/&#34;&gt;template lookup&lt;/a&gt;. Basically, the theme files in &lt;code&gt;/themes/hugo-academic&lt;/code&gt; tell Hugo how to build the site, but you can override this by placing folders and files of the same structure in your &lt;code&gt;root&lt;/code&gt; folder. Here is an example from the &lt;a href=&#34;https://sourcethemes.com/academic/docs/customization/#override-a-template&#34;&gt;Academic documentation&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;For example, say we wish to add some HTML code to the navigation bar. Let’s copy the relevant file &lt;code&gt;themes/academic/layouts/partials/navbar.html&lt;/code&gt; to &lt;code&gt;layouts/partials/navbar.html&lt;/code&gt; (at the root of your site, not in &lt;code&gt;themes/academic/&lt;/code&gt;), creating the &lt;code&gt;layouts/partials/&lt;/code&gt; folders if they do not already exist. Now you can add the HTML code you want to your copy of the file, which will override Academic’s version.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;At the time of this post, Academic&amp;rsquo;s latest release is v4.8.0.&lt;/strong&gt;&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;p&gt;&lt;strong&gt;What I&amp;rsquo;ll be covering:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;#full-list-of-theme-colors-you-can-customize&#34;&gt;Full list of theme colors you can customize&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;#about-widget-without-a-summary&#34;&gt;About widget without a summary&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;#using-my-abouthtml&#34;&gt;Using my &lt;code&gt;about.html&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;#adjusting-the-html-yourself&#34;&gt;Adjusting the &lt;code&gt;html&lt;/code&gt; yourself&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;#removing-box-shadows&#34;&gt;Removing box-shadows&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;#from-posts-to-blog&#34;&gt;From &amp;lsquo;posts&amp;rsquo; to &amp;lsquo;blog&amp;rsquo;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;#changing-displayed-post-dates&#34;&gt;Changing displayed post dates&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;#adjusting-post-font-size--page-width&#34;&gt;Adjusting post font size &amp;amp; page width&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;#customizing-the-alert-notes--warnings-div-tips&#34;&gt;Customizing the alert notes &amp;amp; warnings (div tips)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;#thats-all-for-now&#34;&gt;That&amp;rsquo;s all for now!&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;full-list-of-theme-colors-you-can-customize&#34;&gt;Full list of theme colors you can customize&lt;/h2&gt;
+&lt;p&gt;If you won&amp;rsquo;t be using one of the 
+&lt;a href=&#34;https://sourcethemes.com/academic/themes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;themes&lt;/a&gt; provided by Academic, the documentation shows you how you can 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/customization/#custom-theme&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;create your own theme&lt;/a&gt; and set the colors yourself. If you&amp;rsquo;re creating your own &lt;code&gt;data/themes/my_theme.toml&lt;/code&gt; here is a list of parameters you can specify, just put in your preferred colors. 
+&lt;a href=&#34;https://coolors.co/palettes/trending&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Coolors&lt;/a&gt; is a great color palettes resource.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;# Theme metadata
 name = &amp;quot;my_theme&amp;quot;
+
 # Is theme light or dark?
 light = true
+
 # Primary
 primary = &amp;quot;#EF476F&amp;quot;
+
 # Menu
 menu_primary = &amp;quot;#F7F7F7&amp;quot;
 menu_text = &amp;quot;#FCA311&amp;quot;
 menu_text_active = &amp;quot;#0EAD69&amp;quot;
 menu_title = &amp;quot;#118AB2&amp;quot;
+
 # Backgrounds
 background = &amp;quot;#F7F7F7&amp;quot;
 home_section_odd = &amp;quot;#F7F7F7&amp;quot;
 home_section_even = &amp;quot;#F7F7F7&amp;quot;
+
 dark_background = &amp;quot;&amp;quot;
 dark_home_section_odd = &amp;quot;&amp;quot;
 dark_home_section_even = &amp;quot;&amp;quot;
+
 link = &amp;quot;#D90429&amp;quot;
 link_hover = &amp;quot;#118AB2&amp;quot;
-&lt;/code>&lt;/pre>
-&lt;h2 id="about-widget-without-a-summary">About widget without a summary&lt;/h2>
-&lt;p>
-&lt;figure id="figure-about-widget-without-a-summary">
-&lt;a data-fancybox="" href="https://dmitrijev.ru/blog/hugo-academic-customization/about-widget-example_hu56d3198f1fd7cf28b1b682df0649577a_337061_2000x2000_fit_lanczos_2.png" data-caption="About widget without a summary">
-&lt;img data-src="https://dmitrijev.ru/blog/hugo-academic-customization/about-widget-example_hu56d3198f1fd7cf28b1b682df0649577a_337061_2000x2000_fit_lanczos_2.png" class="lazyload" alt="" width="1247" height="645">
-&lt;/a>
-&lt;figcaption>
-About widget without a summary
-&lt;/figcaption>
-&lt;/figure>
-If you only want to show your photo and social links in your &lt;code>about&lt;/code> widget like I did, you&amp;rsquo;ll need to override Academic&amp;rsquo;s &lt;code>about.html&lt;/code> located in &lt;code>hugo-academic/layouts/partials/widgets&lt;/code> by putting in an html layout in your root &lt;code>layouts/partials/widgets/&lt;/code>.&lt;br>
-There are two ways you can approach this, by&lt;br>
-(1 - &lt;strong>recommended&lt;/strong>) using my &lt;code>about.html&lt;/code> if you want it to be formatted exactly like
-&lt;a href="https://isabella-b.com" target="_blank" rel="noopener">mine&lt;/a> is (centered, avatar &amp;amp; links only),&lt;br>
-(2) adjusting the &lt;code>html&lt;/code> yourself.&lt;/p>
-&lt;p>Here are the steps for each:&lt;/p>
-&lt;h4 id="using-my-abouthtml">Using my &lt;code>about.html&lt;/code>&lt;/h4>
-&lt;p>You can find my &lt;code>about.html&lt;/code>
-&lt;a href="https://gist.github.com/isabellabenabaye/cd018cb26027657ae9f9c6900f4fc3cd" target="_blank" rel="noopener">here&lt;/a>.&lt;/p>
-&lt;ul>
-&lt;li>Create your &lt;code>about.html&lt;/code> (keep that file name so that you don&amp;rsquo;t have to adjust &lt;code>about.md&lt;/code>) in your root &lt;code>layouts/partials/widgets/&lt;/code>&lt;/li>
-&lt;li>Copy-paste the contents of mine into your blank &lt;code>about.html&lt;/code>&lt;br>
-That&amp;rsquo;s it, your widget should update the next time that you &lt;code>serve&lt;/code> it!&lt;/li>
-&lt;/ul>
-&lt;h4 id="adjusting-the-html-yourself">Adjusting the &lt;code>html&lt;/code> yourself&lt;/h4>
-&lt;ul>
-&lt;li>Copy-paste the &lt;code>about.html&lt;/code> located in &lt;code>hugo-academic/layouts/partials/widgets&lt;/code> into your root &lt;code>layouts/partials/widgets/&lt;/code>&lt;/li>
-&lt;li>Remove the entire summary section, from &lt;code>&amp;lt;div class=&amp;quot;col-12 col-lg-8&amp;quot;&amp;gt;&lt;/code>, everything in between, til its matching &lt;code>&amp;lt;/div&amp;gt;&lt;/code>&lt;/li>
-&lt;li>Change &lt;code>&amp;lt;div class=&amp;quot;col-12 col-lg-4&amp;quot;&amp;gt;&lt;/code> to &lt;code>&amp;lt;div class=&amp;quot;container centered&amp;quot;&amp;gt;&lt;/code> as seen below:&lt;/li>
-&lt;/ul>
-&lt;figure id="figure-before--after">
-&lt;a data-fancybox="" href="https://dmitrijev.ru/blog/hugo-academic-customization/about-widget_hu85e7ef2c9b18d01437a194e849ae3e93_46038_2000x2000_fit_lanczos_2.png" data-caption="Before &amp;amp; after">
-&lt;img data-src="https://dmitrijev.ru/blog/hugo-academic-customization/about-widget_hu85e7ef2c9b18d01437a194e849ae3e93_46038_2000x2000_fit_lanczos_2.png" class="lazyload" alt="" width="1137" height="130">
-&lt;/a>
-&lt;figcaption>
-Before &amp;amp; after
-&lt;/figcaption>
-&lt;/figure>
-&lt;h2 id="removing-box-shadows">Removing box-shadows&lt;/h2>
-&lt;p>
-&lt;figure id="figure-with--without-a-box-shadow">
-&lt;a data-fancybox="" href="https://dmitrijev.ru/blog/hugo-academic-customization/box-shadow_huefa02455c4ddba0029268a9f1b9c4e9c_31150_2000x2000_fit_lanczos_2.png" data-caption="With &amp;amp; without a box shadow">
-&lt;img data-src="https://dmitrijev.ru/blog/hugo-academic-customization/box-shadow_huefa02455c4ddba0029268a9f1b9c4e9c_31150_2000x2000_fit_lanczos_2.png" class="lazyload" alt="" width="923" height="162">
-&lt;/a>
-&lt;figcaption>
-With &amp;amp; without a box shadow
-&lt;/figcaption>
-&lt;/figure>
-&lt;strong>Removing the navigation bar&amp;rsquo;s box-shadows&lt;/strong>&lt;br>
-Create &lt;code>assets/scss/custom.scss&lt;/code> in your root if it doesn&amp;rsquo;t already exist. Paste the following into the file.&lt;/p>
-&lt;pre>&lt;code class="language-css"> .navbar {
-height: 70px;
-background: $sta-menu-primary;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;about-widget-without-a-summary&#34;&gt;About widget without a summary&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-about-widget-without-a-summary&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://dmitrijev.ru/blog/hugo-academic-customization/about-widget-example_hu56d3198f1fd7cf28b1b682df0649577a_337061_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;About widget without a summary&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://dmitrijev.ru/blog/hugo-academic-customization/about-widget-example_hu56d3198f1fd7cf28b1b682df0649577a_337061_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1247&#34; height=&#34;645&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    About widget without a summary
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+If you only want to show your photo and social links in your &lt;code&gt;about&lt;/code&gt; widget like I did, you&amp;rsquo;ll need to override Academic&amp;rsquo;s &lt;code&gt;about.html&lt;/code&gt; located in &lt;code&gt;hugo-academic/layouts/partials/widgets&lt;/code&gt; by putting in an html layout in your root &lt;code&gt;layouts/partials/widgets/&lt;/code&gt;.&lt;br&gt;
+There are two ways you can approach this, by&lt;br&gt;
+(1 - &lt;strong&gt;recommended&lt;/strong&gt;) using my &lt;code&gt;about.html&lt;/code&gt; if you want it to be formatted exactly like 
+&lt;a href=&#34;https://isabella-b.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;mine&lt;/a&gt; is (centered, avatar &amp;amp; links only),&lt;br&gt;
+(2) adjusting the &lt;code&gt;html&lt;/code&gt; yourself.&lt;/p&gt;
+&lt;p&gt;Here are the steps for each:&lt;/p&gt;
+&lt;h4 id=&#34;using-my-abouthtml&#34;&gt;Using my &lt;code&gt;about.html&lt;/code&gt;&lt;/h4&gt;
+&lt;p&gt;You can find my &lt;code&gt;about.html&lt;/code&gt; 
+&lt;a href=&#34;https://gist.github.com/isabellabenabaye/cd018cb26027657ae9f9c6900f4fc3cd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Create your &lt;code&gt;about.html&lt;/code&gt; (keep that file name so that you don&amp;rsquo;t have to adjust &lt;code&gt;about.md&lt;/code&gt;) in your root &lt;code&gt;layouts/partials/widgets/&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Copy-paste the contents of mine into your blank &lt;code&gt;about.html&lt;/code&gt;&lt;br&gt;
+That&amp;rsquo;s it, your widget should update the next time that you &lt;code&gt;serve&lt;/code&gt; it!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;adjusting-the-html-yourself&#34;&gt;Adjusting the &lt;code&gt;html&lt;/code&gt; yourself&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Copy-paste the &lt;code&gt;about.html&lt;/code&gt; located in &lt;code&gt;hugo-academic/layouts/partials/widgets&lt;/code&gt; into your root &lt;code&gt;layouts/partials/widgets/&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Remove the entire summary section, from &lt;code&gt;&amp;lt;div class=&amp;quot;col-12 col-lg-8&amp;quot;&amp;gt;&lt;/code&gt;, everything in between, til its matching &lt;code&gt;&amp;lt;/div&amp;gt;&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Change &lt;code&gt;&amp;lt;div class=&amp;quot;col-12 col-lg-4&amp;quot;&amp;gt;&lt;/code&gt; to &lt;code&gt;&amp;lt;div class=&amp;quot;container centered&amp;quot;&amp;gt;&lt;/code&gt; as seen below:&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-before--after&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://dmitrijev.ru/blog/hugo-academic-customization/about-widget_hu85e7ef2c9b18d01437a194e849ae3e93_46038_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Before &amp;amp; after&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://dmitrijev.ru/blog/hugo-academic-customization/about-widget_hu85e7ef2c9b18d01437a194e849ae3e93_46038_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1137&#34; height=&#34;130&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Before &amp;amp; after
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;removing-box-shadows&#34;&gt;Removing box-shadows&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-with--without-a-box-shadow&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://dmitrijev.ru/blog/hugo-academic-customization/box-shadow_huefa02455c4ddba0029268a9f1b9c4e9c_31150_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;With &amp;amp; without a box shadow&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://dmitrijev.ru/blog/hugo-academic-customization/box-shadow_huefa02455c4ddba0029268a9f1b9c4e9c_31150_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;923&#34; height=&#34;162&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    With &amp;amp; without a box shadow
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;strong&gt;Removing the navigation bar&amp;rsquo;s box-shadows&lt;/strong&gt;&lt;br&gt;
+Create &lt;code&gt;assets/scss/custom.scss&lt;/code&gt; in your root if it doesn&amp;rsquo;t already exist. Paste the following into the file.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt; .navbar {
+  height: 70px;
+  background: $sta-menu-primary;
 /* this is the part that takes out the shadow &amp;amp; the only edit */
-box-shadow: none;
-font-size: 18px;
-font-weight: 900 !important;
-position: fixed;
-top: 0;
-right: 0;
-left: 0;
-z-index: 1030;
-padding: 0 1rem;
-&lt;/code>&lt;/pre>
-&lt;p>&lt;strong>Removing the card component&amp;rsquo;s box-shadows&lt;/strong>&lt;/p>
-&lt;p>Create &lt;code>assets/scss/custom.scss&lt;/code> in your root if it doesn&amp;rsquo;t already exist. Paste the following into the file.&lt;/p>
-&lt;pre>&lt;code class="language-css"> .card-simple {
-background: #fff;
+  box-shadow: none;  
+  font-size: 18px;
+  font-weight: 900 !important;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+  padding: 0 1rem;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;Removing the card component&amp;rsquo;s box-shadows&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/scss/custom.scss&lt;/code&gt; in your root if it doesn&amp;rsquo;t already exist. Paste the following into the file.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt; .card-simple {
+  background: #fff;
 /* this is the part that takes out the shadow */
-box-shadow: none;
-border: 1px solid rgba(0,0,0,.09);
-border-radius: 3px;
-margin-top: 20px;
-padding: 15px 20px 15px 20px;
+  box-shadow: none;
+  border: 1px solid rgba(0,0,0,.09);
+  border-radius: 3px;
+  margin-top: 20px;
+  padding: 15px 20px 15px 20px;
 }
+
 .card {
-margin-bottom: 1.5rem;
-overflow: hidden;
-text-overflow: ellipsis;
-background: #fff;
+  margin-bottom: 1.5rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  background: #fff;
 /* this is the part that takes out the shadow */
-box-shadow: none;
-transition: all 0.2s ease-out;
+  box-shadow: none;
+  transition: all 0.2s ease-out;
 }
-&lt;/code>&lt;/pre>
-&lt;h2 id="from-posts-to-blog">From &amp;lsquo;posts&amp;rsquo; to &amp;lsquo;blog&amp;rsquo;&lt;/h2>
-&lt;div class="alert alert-note">
-&lt;div>
-Since the writing of this post, I discovered a section in the Academic theme docs that shows another (easier) way to do this using permalinks. You can find it &lt;a href="https://sourcethemes.com/academic/docs/customization/#permalinks">here&lt;/a> under &lt;strong>Example 2&lt;/strong>.
-&lt;/div>
-&lt;/div>
-&lt;p>Instead of your posts having the default slug &lt;code>your-site.com/posts/your-post&lt;/code>, you can change it to &lt;code>your-site.com/blog/your-post&lt;/code> by doing the following:&lt;/p>
-&lt;ul>
-&lt;li>Rename the &lt;code>posts&lt;/code> folder in your root &lt;code>content/&lt;/code> to &lt;code>blog&lt;/code>, or create a folder in &lt;code>content/&lt;/code> called &lt;code>blog&lt;/code>&lt;/li>
-&lt;li>Copy &lt;code>themes/hugo-academic/layouts/section/post.html&lt;/code> to your root &lt;code>layouts/section/&lt;/code>&lt;/li>
-&lt;li>Rename the new file located at &lt;code>layouts/section/post.html&lt;/code> to &lt;code>blog.html&lt;/code>&lt;br>
-&lt;br />&lt;/li>
-&lt;/ul>
-&lt;h2 id="changing-displayed-post-dates">Changing displayed post dates&lt;/h2>
-&lt;p>You&amp;rsquo;ll need to override Academic&amp;rsquo;s &lt;code>page_metadata.html&lt;/code> located in &lt;code>hugo-academic/layouts/partials/&lt;/code> by putting in an html layout in your root &lt;code>layouts/partials/&lt;/code>. Copy the one in Academic&amp;rsquo;s and paste it to yours so that this is its path: &lt;code>layouts/partials/page_metadata.html&lt;/code>.&lt;/p>
-&lt;p>We&amp;rsquo;ll be editing your copy. This is a snippet from the original (in your text editor, find &amp;ldquo;&lt;code>article-date&lt;/code>&amp;rdquo;):&lt;/p>
-&lt;pre>&lt;code> {{ if not (in (slice &amp;quot;talk&amp;quot; &amp;quot;page&amp;quot;) $page.Type) }}
-&amp;lt;span class=&amp;quot;article-date&amp;quot;&amp;gt;
-{{ $date := $page.Lastmod.Format site.Params.date_format }}
-{{ if eq $page.Type &amp;quot;publication&amp;quot; }}
-{{ $date = $page.Date.Format (site.Params.publications.date_format | default &amp;quot;January, 2006&amp;quot;) }}
-{{ else }}
-{{ if ne $page.Params.Lastmod $page.Params.Date }}
-{{ i18n &amp;quot;last_updated&amp;quot; }}
-{{ end }}
-{{ end }}
-{{ $date }}
-&amp;lt;/span&amp;gt;
-{{ end }}
-&lt;/code>&lt;/pre>
-&lt;p>We&amp;rsquo;ll replace that with:&lt;/p>
-&lt;pre>&lt;code> {{ if not (in (slice &amp;quot;talk&amp;quot; &amp;quot;page&amp;quot;) $page.Type) }}
-&amp;lt;span class=&amp;quot;article-date&amp;quot;&amp;gt;
-{{ $date := $page.Date.Format site.Params.date_format }}
-{{ if eq $page.Type &amp;quot;publication&amp;quot; }}
-{{ $date = $page.Date.Format (site.Params.publications.date_format | default &amp;quot;January, 2006&amp;quot;) }}
-{{ end }}
-{{ $date }}
-&amp;lt;/span&amp;gt;
-{{ end }}
-&lt;/code>&lt;/pre>
-&lt;p>&lt;strong>Explanation:&lt;/strong> The new code uses the &lt;code>Date&lt;/code> instead of &lt;code>Lastmod&lt;/code> &amp;amp; removes the else argument in the if statement that uses &lt;code>last_updated&lt;/code>.&lt;br>
-&lt;br />&lt;/p>
-&lt;h2 id="adjusting-post-font-size--page-width">Adjusting post font size &amp;amp; page width&lt;/h2>
-&lt;p>Create &lt;code>assets/scss/custom.scss&lt;/code> in your root if it doesn&amp;rsquo;t already exist. Paste the following into the file &amp;amp; adjust the &lt;code>max-width&lt;/code> and &lt;code>font-size&lt;/code> to your liking.&lt;/p>
-&lt;pre>&lt;code>.article-container {
-max-width: 850px;
-padding: 0 20px 0 20px;
-margin: 0 auto 0 auto;
-font-size: 20px;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;from-posts-to-blog&#34;&gt;From &amp;lsquo;posts&amp;rsquo; to &amp;lsquo;blog&amp;rsquo;&lt;/h2&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Since the writing of this post, I discovered a section in the Academic theme docs that shows another (easier) way to do this using permalinks. You can find it &lt;a href=&#34;https://sourcethemes.com/academic/docs/customization/#permalinks&#34;&gt;here&lt;/a&gt; under &lt;strong&gt;Example 2&lt;/strong&gt;.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Instead of your posts having the default slug &lt;code&gt;your-site.com/posts/your-post&lt;/code&gt;, you can change it to &lt;code&gt;your-site.com/blog/your-post&lt;/code&gt; by doing the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Rename the &lt;code&gt;posts&lt;/code&gt; folder in your root &lt;code&gt;content/&lt;/code&gt; to &lt;code&gt;blog&lt;/code&gt;, or create a folder in &lt;code&gt;content/&lt;/code&gt; called &lt;code&gt;blog&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Copy &lt;code&gt;themes/hugo-academic/layouts/section/post.html&lt;/code&gt; to your root &lt;code&gt;layouts/section/&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Rename the new file located at &lt;code&gt;layouts/section/post.html&lt;/code&gt; to &lt;code&gt;blog.html&lt;/code&gt;&lt;br&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;changing-displayed-post-dates&#34;&gt;Changing displayed post dates&lt;/h2&gt;
+&lt;p&gt;You&amp;rsquo;ll need to override Academic&amp;rsquo;s &lt;code&gt;page_metadata.html&lt;/code&gt; located in &lt;code&gt;hugo-academic/layouts/partials/&lt;/code&gt; by putting in an html layout in your root &lt;code&gt;layouts/partials/&lt;/code&gt;. Copy the one in Academic&amp;rsquo;s and paste it to yours so that this is its path: &lt;code&gt;layouts/partials/page_metadata.html&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;ll be editing your copy. This is a snippet from the original (in your text editor, find &amp;ldquo;&lt;code&gt;article-date&lt;/code&gt;&amp;rdquo;):&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;  {{ if not (in (slice &amp;quot;talk&amp;quot; &amp;quot;page&amp;quot;) $page.Type) }}
+  &amp;lt;span class=&amp;quot;article-date&amp;quot;&amp;gt;
+    {{ $date := $page.Lastmod.Format site.Params.date_format }}
+    {{ if eq $page.Type &amp;quot;publication&amp;quot; }}
+      {{ $date = $page.Date.Format (site.Params.publications.date_format | default &amp;quot;January, 2006&amp;quot;) }}
+    {{ else }}
+      {{ if ne $page.Params.Lastmod $page.Params.Date }}
+          {{ i18n &amp;quot;last_updated&amp;quot; }}
+      {{ end }}
+    {{ end }}
+    {{ $date }}
+  &amp;lt;/span&amp;gt;
+  {{ end }}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;We&amp;rsquo;ll replace that with:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;  {{ if not (in (slice &amp;quot;talk&amp;quot; &amp;quot;page&amp;quot;) $page.Type) }}
+  &amp;lt;span class=&amp;quot;article-date&amp;quot;&amp;gt;
+    {{ $date := $page.Date.Format site.Params.date_format }}
+    {{ if eq $page.Type &amp;quot;publication&amp;quot; }}
+      {{ $date = $page.Date.Format (site.Params.publications.date_format | default &amp;quot;January, 2006&amp;quot;) }}
+    {{ end }}
+    {{ $date }}
+  &amp;lt;/span&amp;gt;
+  {{ end }}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;Explanation:&lt;/strong&gt; The new code uses the &lt;code&gt;Date&lt;/code&gt; instead of &lt;code&gt;Lastmod&lt;/code&gt; &amp;amp; removes the else argument in the if statement that uses &lt;code&gt;last_updated&lt;/code&gt;.&lt;br&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;adjusting-post-font-size--page-width&#34;&gt;Adjusting post font size &amp;amp; page width&lt;/h2&gt;
+&lt;p&gt;Create &lt;code&gt;assets/scss/custom.scss&lt;/code&gt; in your root if it doesn&amp;rsquo;t already exist. Paste the following into the file &amp;amp; adjust the &lt;code&gt;max-width&lt;/code&gt; and &lt;code&gt;font-size&lt;/code&gt; to your liking.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;.article-container {
+  max-width: 850px;
+  padding: 0 20px 0 20px;
+  margin: 0 auto 0 auto;
+  font-size: 20px;
 }
-&lt;/code>&lt;/pre>
-&lt;p>&lt;br />&lt;/p>
-&lt;h2 id="customizing-the-alert-notes--warnings-div-tips">Customizing the alert notes &amp;amp; warnings (div tips)&lt;/h2>
-&lt;div class="alert alert-note">
-&lt;div>
-If you&amp;rsquo;re using an R markdown document, site, bookdown book, Distill site, or blogdown &lt;code>.Rmd&lt;/code> post, check out &lt;a href="http://desiree.rbind.io/post/2019/making-tip-boxes-with-bookdown-and-rmarkdown/">this awesome post&lt;/a> by &lt;a href="https://twitter.com/dcossyle">Desirée De Leon&lt;/a> who presents an easy way to do this with Pandoc style custom divs. My instructions are for those using &lt;code>.md&lt;/code> for their posts.
-&lt;/div>
-&lt;/div>
-&lt;p>All of the options to edit the formatting of the alert notes and warnings can be found in &lt;code>themes\hugo-academic\assets\scss\academic\_root.scss&lt;/code> under this heading, which you can use your text editor to find:&lt;/p>
-&lt;pre>&lt;code>/*************************************************
-* Article Alerts (Shortcode) and Asides (Mmark)
-**************************************************/
-&lt;/code>&lt;/pre>
-&lt;p>Create &lt;code>assets/scss/custom.scss&lt;/code> in your root if it doesn&amp;rsquo;t already exist and copy from that code snipped above until the end of the file; these are all of the style settings for the alert boxes.&lt;/p>
-&lt;p>Choose which parts to edit to your liking. For example, these are the parts I edited to make the alert box above:&lt;/p>
-&lt;pre>&lt;code>.article-style aside p,
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;customizing-the-alert-notes--warnings-div-tips&#34;&gt;Customizing the alert notes &amp;amp; warnings (div tips)&lt;/h2&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    If you&amp;rsquo;re using an R markdown document, site, bookdown book, Distill site, or blogdown &lt;code&gt;.Rmd&lt;/code&gt; post, check out &lt;a href=&#34;http://desiree.rbind.io/post/2019/making-tip-boxes-with-bookdown-and-rmarkdown/&#34;&gt;this awesome post&lt;/a&gt; by &lt;a href=&#34;https://twitter.com/dcossyle&#34;&gt;Desirée De Leon&lt;/a&gt; who presents an easy way to do this with Pandoc style custom divs. My instructions are for those using &lt;code&gt;.md&lt;/code&gt; for their posts.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;All of the options to edit the formatting of the alert notes and warnings can be found in &lt;code&gt;themes\hugo-academic\assets\scss\academic\_root.scss&lt;/code&gt; under this heading, which you can use your text editor to find:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;/*************************************************
+ *  Article Alerts (Shortcode) and Asides (Mmark)
+ **************************************************/
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Create &lt;code&gt;assets/scss/custom.scss&lt;/code&gt; in your root if it doesn&amp;rsquo;t already exist and copy from that code snipped above until the end of the file; these are all of the style settings for the alert boxes.&lt;/p&gt;
+&lt;p&gt;Choose which parts to edit to your liking. For example, these are the parts I edited to make the alert box above:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;.article-style aside p,
 div.alert &amp;gt; div {
-position: relative;
-display: block;
-/* I made the font size smaller &amp;amp; adjusted the margin-left */
-font-size: 0.8rem;
-margin-left: 1.7rem;
-margin-top: 0;
-margin-bottom: 0;
+  position: relative;
+  display: block;
+  /* I made the font size smaller &amp;amp; adjusted the margin-left */
+  font-size: 0.8rem;
+  margin-left: 1.7rem;
+  margin-top: 0;
+  margin-bottom: 0;
 }
-/* I also changed the color of the icon &amp;amp; its top &amp;amp; left positions */
+
+/* I also changed the color of the icon &amp;amp; its top &amp;amp; left positions */ 
 .article-style aside p::before,
 div.alert &amp;gt; div:first-child::before {
-position: absolute;
-top: -0.3rem;
-left: -2rem;
-font-size: 1.4rem;
-color: #0EAD69;
-font-family: 'Font Awesome 5 Free';
-font-weight: 900;
-content: '\f05a';
-width: 1rem;
-text-align: left;
+  position: absolute;
+  top: -0.3rem;
+  left: -2rem;
+  font-size: 1.4rem;
+  color: #0EAD69;
+  font-family: &#39;Font Awesome 5 Free&#39;;
+  font-weight: 900;
+  content: &#39;\f05a&#39;;
+  width: 1rem;
+  text-align: left;
 }
+
 /* You can edit the borders and backgrounds here */
 .article-style aside,
 .alert-note {
-color: #26547C;
-background-color: #F7F7F7;
-border-color: #0EAD69;
+  color: #26547C;
+  background-color: #F7F7F7;
+  border-color: #0EAD69;
 }
+
 .alert-warning {
-color: #cd0930;
-background-color: #fff5f7;
-border-color: #ff3860;
+  color: #cd0930;
+  background-color: #fff5f7;
+  border-color: #ff3860;
 }
-&lt;/code>&lt;/pre>
-&lt;p>&lt;br />&lt;/p>
-&lt;h2 id="thats-all-for-now">That&amp;rsquo;s all for now!&lt;/h2>
-&lt;p>I know that this tutorial involves a lot of file and code creating and copying and can be confusing, especially if you&amp;rsquo;re not familiar with how Hugo works, so if you have any questions don&amp;rsquo;t hesitate to
-&lt;a href="https://twitter.com/_isabellamb" target="_blank" rel="noopener">DM/tweet me&lt;/a> or comment below 😊 if there are any other customizations you noticed I did on this site that you&amp;rsquo;re interested in trying but I didn&amp;rsquo;t cover it, I&amp;rsquo;ll be happy to tell you how I did that as well. You can find the source code for this site
-&lt;a href="https://github.com/isabellabenabaye/isabella-b.com" target="_blank" rel="noopener">here&lt;/a>.&lt;/p>
-&lt;p>If you want to see more of what Academic is capable of, check out
-&lt;a href="https://alison.rbind.io" target="_blank" rel="noopener">Alison Hill&lt;/a>&amp;rsquo;s personal site. Before seeing hers I didn&amp;rsquo;t know that it was possible to do so much with Academic &amp;amp; it&amp;rsquo;s what inspired me to try it out myself (thank you Alison!). As I was building this I also referred to her code to figure out how to adjust things. She has several blog posts about how to set up a Hugo site using RStudio (which is what I did) and how to use and customize it as well! They&amp;rsquo;re great resources that you should check out if you haven&amp;rsquo;t already, especially if you&amp;rsquo;re using RStudio.&lt;/p>
-&lt;p>
-&lt;a href="https://isabella-b.com/blog/hugo-academic-customization/" target="_blank" rel="noopener">Источник&lt;/a>&lt;/p></description></item></channel></rss>
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;thats-all-for-now&#34;&gt;That&amp;rsquo;s all for now!&lt;/h2&gt;
+&lt;p&gt;I know that this tutorial involves a lot of file and code creating and copying and can be confusing, especially if you&amp;rsquo;re not familiar with how Hugo works, so if you have any questions don&amp;rsquo;t hesitate to 
+&lt;a href=&#34;https://twitter.com/_isabellamb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DM/tweet me&lt;/a&gt; or comment below 😊 if there are any other customizations you noticed I did on this site that you&amp;rsquo;re interested in trying but I didn&amp;rsquo;t cover it, I&amp;rsquo;ll be happy to tell you how I did that as well. You can find the source code for this site 
+&lt;a href=&#34;https://github.com/isabellabenabaye/isabella-b.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you want to see more of what Academic is capable of, check out 
+&lt;a href=&#34;https://alison.rbind.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alison Hill&lt;/a&gt;&amp;rsquo;s personal site. Before seeing hers I didn&amp;rsquo;t know that it was possible to do so much with Academic &amp;amp; it&amp;rsquo;s what inspired me to try it out myself (thank you Alison!). As I was building this I also referred to her code to figure out how to adjust things. She has several blog posts about how to set up a Hugo site using RStudio (which is what I did) and how to use and customize it as well! They&amp;rsquo;re great resources that you should check out if you haven&amp;rsquo;t already, especially if you&amp;rsquo;re using RStudio.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://isabella-b.com/blog/hugo-academic-customization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Источник&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
