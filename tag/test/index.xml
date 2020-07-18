@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Test | Dmitrijev.ru</title><link>https://dmitrijev.ru/tag/test/</link><atom:link href="https://dmitrijev.ru/tag/test/index.xml" rel="self" type="application/rss+xml"/><description>Test</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru</language><copyright>© Vladimir Dmitrijev 2003-2020</copyright><lastBuildDate>Mon, 18 May 2020 02:56:17 +0300</lastBuildDate><image><url>https://dmitrijev.ru/images/icon_hu4f7f1b8434ceb601df928cdf3e46831d_46965_512x512_fill_lanczos_center_2.png</url><title>Test</title><link>https://dmitrijev.ru/tag/test/</link></image><item><title>Программа «A»</title><link>https://dmitrijev.ru/blog/pogramma-a/</link><pubDate>Mon, 18 May 2020 02:56:17 +0300</pubDate><guid>https://dmitrijev.ru/blog/pogramma-a/</guid><description>&lt;p>Всем привет!&lt;/p>
+&lt;div class="alert alert-note">
+&lt;div>
+A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
+&lt;/div>
+&lt;/div>
+&lt;h2 id="normal-use">normal use&lt;/h2>
+&lt;p>&lt;code>Note&lt;/code> example:&lt;/p>
+&lt;pre>&lt;code class="language-shortcode">{{&amp;lt; alert note &amp;gt;}}
+&amp;lt;p&amp;gt;A notice disclaimer&amp;lt;/p&amp;gt;
+{{&amp;lt; /alert &amp;gt;}}
+&lt;/code>&lt;/pre>
+&lt;p>&lt;strong>Result:&lt;/strong>&lt;/p>
+&lt;div class="alert alert-note">
+&lt;div>
+A notice disclaimer
+&lt;/div>
+&lt;/div>
+&lt;!--more-->
+&lt;p>You could &lt;strong>custom title&lt;/strong> :&lt;/p>
+&lt;pre>&lt;code class="language-shortcode">{{&amp;lt; alert note Примечание &amp;gt;}}
+&amp;lt;p&amp;gt;A notice disclaimer&amp;lt;/p&amp;gt;
+{{&amp;lt; /alert &amp;gt;}}
+&lt;/code>&lt;/pre>
+&lt;div class="alert alert-note">
+&lt;div>
+A notice disclaimer
+&lt;/div>
+&lt;/div>
+&lt;h2 id="tip">tip&lt;/h2>
+&lt;pre>&lt;code class="language-js">{{&amp;lt; alert tip &amp;gt;}}
+&amp;lt;p&amp;gt;A tip disclaimer&amp;lt;/p&amp;gt;
+{{&amp;lt; /alert &amp;gt;}}
+&lt;/code>&lt;/pre>
+&lt;div class="alert alert-tip">
+&lt;div>
+A tip disclaimer
+&lt;/div>
+&lt;/div>
+&lt;h2 id="info">info&lt;/h2>
+&lt;pre>&lt;code class="language-html">{{&amp;lt; alert info &amp;gt;}}
+&amp;lt;p&amp;gt;A info disclaimer&amp;lt;/p&amp;gt;
+{{&amp;lt; /alert &amp;gt;}}
+&lt;/code>&lt;/pre>
+&lt;div class="alert alert-info">
+&lt;div>
+An information disclaimer
+&lt;/div>
+&lt;/div>
+&lt;h2 id="warning">warning&lt;/h2>
+&lt;pre>&lt;code class="language-shjs">{{&amp;lt; alert warning &amp;gt;}}
+&amp;lt;p&amp;gt;A warning disclaimer&amp;lt;/p&amp;gt;
+{{&amp;lt; /alert &amp;gt;}}
+&lt;/code>&lt;/pre>
+&lt;div class="alert alert-warning">
+&lt;div>
+An warning disclaimer
+&lt;/div>
+&lt;/div>
+&lt;h1 id="output-successfully-escaped---шорткод---highlight">Output: Successfully escaped - шорткод - highlight&lt;/h1>
+&lt;h2 id="python">Python&lt;/h2>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-python" data-lang="python"> &lt;span style="color:#a6e22e">@requires_authorization&lt;/span>
+&lt;span style="color:#66d9ef">def&lt;/span> &lt;span style="color:#a6e22e">somefunc&lt;/span>(param1&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;&amp;#39;&lt;/span>, param2&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#ae81ff">0&lt;/span>):
+&lt;span style="color:#e6db74">r&lt;/span>&lt;span style="color:#e6db74">&amp;#39;&amp;#39;&amp;#39;A docstring&amp;#39;&amp;#39;&amp;#39;&lt;/span>
+&lt;span style="color:#66d9ef">if&lt;/span> param1 &lt;span style="color:#f92672">&amp;gt;&lt;/span> param2: &lt;span style="color:#75715e"># interesting&lt;/span>
+&lt;span style="color:#66d9ef">print&lt;/span> &lt;span style="color:#e6db74">&amp;#39;Gre&lt;/span>&lt;span style="color:#ae81ff">\&amp;#39;&lt;/span>&lt;span style="color:#e6db74">ater&amp;#39;&lt;/span>
+&lt;span style="color:#66d9ef">return&lt;/span> (param2 &lt;span style="color:#f92672">-&lt;/span> param1 &lt;span style="color:#f92672">+&lt;/span> &lt;span style="color:#ae81ff">1&lt;/span> &lt;span style="color:#f92672">+&lt;/span> &lt;span style="color:#ae81ff">0b10&lt;/span>l) &lt;span style="color:#f92672">or&lt;/span> None
+&lt;span style="color:#66d9ef">class&lt;/span> &lt;span style="color:#a6e22e">SomeClass&lt;/span>:
+&lt;span style="color:#66d9ef">pass&lt;/span>
+&lt;span style="color:#f92672">&amp;gt;&amp;gt;&amp;gt;&lt;/span> message &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#e6db74">&amp;#39;&amp;#39;&amp;#39;interpreter
+&lt;/span>&lt;span style="color:#e6db74">... prompt&amp;#39;&amp;#39;&amp;#39;&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
+&lt;h2 id="php">PHP&lt;/h2>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-php" data-lang="php"> require_once &amp;#39;Zend/Uri/Http.php&amp;#39;;
+namespace Location\Web;
+interface Factory
+{
+static function _factory();
+}
+abstract class URI extends BaseURI implements Factory
+{
+abstract function test();
+public static $st1 = 1;
+const ME = &amp;#34;Yo&amp;#34;;
+var $list = NULL;
+private $var;
+/**
+* Returns a URI
+*
+* @return URI
+*/
+static public function _factory($stats = array(), $uri = &amp;#39;http&amp;#39;)
+{
+echo __METHOD__;
+$uri = explode(&amp;#39;:&amp;#39;, $uri, 0b10);
+$schemeSpecific = isset($uri[1]) ? $uri[1] : &amp;#39;&amp;#39;;
+$desc = &amp;#39;Multi
+line description&amp;#39;;
+// Security check
+if (!ctype_alnum($scheme)) {
+throw new Zend_Uri_Exception(&amp;#39;Illegal scheme&amp;#39;);
+}
+$this-&amp;gt;var = 0 - self::$st;
+$this-&amp;gt;list = list(Array(&amp;#34;1&amp;#34;=&amp;gt; 2, 2=&amp;gt;self::ME, 3 =&amp;gt; \Location\Web\URI::class));
+return [
+&amp;#39;uri&amp;#39; =&amp;gt; $uri,
+&amp;#39;value&amp;#39; =&amp;gt; null,
+];
+}
+}
+echo URI::ME . URI::$st1;
+__halt_compiler () ; datahere
+datahere
+datahere */
+datahere&lt;/code>&lt;/pre>&lt;/div>
+&lt;h2 id="javascript">JavaScript&lt;/h2>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-js" data-lang="js"> &lt;span style="color:#66d9ef">function&lt;/span> &lt;span style="color:#a6e22e">$initHighlight&lt;/span>(&lt;span style="color:#a6e22e">block&lt;/span>, &lt;span style="color:#a6e22e">cls&lt;/span>) {
+&lt;span style="color:#66d9ef">try&lt;/span> {
+&lt;span style="color:#66d9ef">if&lt;/span> (&lt;span style="color:#a6e22e">cls&lt;/span>.&lt;span style="color:#a6e22e">search&lt;/span>(&lt;span style="color:#e6db74">/\bno\-highlight\b/&lt;/span>) &lt;span style="color:#f92672">!=&lt;/span> &lt;span style="color:#f92672">-&lt;/span>&lt;span style="color:#ae81ff">1&lt;/span>)
+&lt;span style="color:#66d9ef">return&lt;/span> &lt;span style="color:#a6e22e">process&lt;/span>(&lt;span style="color:#a6e22e">block&lt;/span>, &lt;span style="color:#66d9ef">true&lt;/span>, &lt;span style="color:#ae81ff">0x0F&lt;/span>) &lt;span style="color:#f92672">+&lt;/span>
+&lt;span style="color:#e6db74">` class=&amp;#34;&lt;/span>&lt;span style="color:#e6db74">${&lt;/span>&lt;span style="color:#a6e22e">cls&lt;/span>&lt;span style="color:#e6db74">}&lt;/span>&lt;span style="color:#e6db74">&amp;#34;`&lt;/span>;
+} &lt;span style="color:#66d9ef">catch&lt;/span> (&lt;span style="color:#a6e22e">e&lt;/span>) {
+&lt;span style="color:#75715e">/* handle exception */&lt;/span>
+}
+&lt;span style="color:#66d9ef">for&lt;/span> (&lt;span style="color:#66d9ef">var&lt;/span> &lt;span style="color:#a6e22e">i&lt;/span> &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#ae81ff">0&lt;/span> &lt;span style="color:#f92672">/&lt;/span> &lt;span style="color:#ae81ff">2&lt;/span>; &lt;span style="color:#a6e22e">i&lt;/span> &lt;span style="color:#f92672">&amp;lt;&lt;/span> &lt;span style="color:#a6e22e">classes&lt;/span>.&lt;span style="color:#a6e22e">length&lt;/span>; &lt;span style="color:#a6e22e">i&lt;/span>&lt;span style="color:#f92672">++&lt;/span>) {
+&lt;span style="color:#66d9ef">if&lt;/span> (&lt;span style="color:#a6e22e">checkCondition&lt;/span>(&lt;span style="color:#a6e22e">classes&lt;/span>[&lt;span style="color:#a6e22e">i&lt;/span>]) &lt;span style="color:#f92672">===&lt;/span> &lt;span style="color:#66d9ef">undefined&lt;/span>)
+&lt;span style="color:#a6e22e">console&lt;/span>.&lt;span style="color:#a6e22e">log&lt;/span>(&lt;span style="color:#e6db74">&amp;#39;undefined&amp;#39;&lt;/span>);
+}
+&lt;/code>&lt;/pre>&lt;/div>
+&lt;h2 id="html">HTML&lt;/h2>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-html" data-lang="html"> &lt;span style="color:#75715e">&amp;lt;!DOCTYPE html&amp;gt;&lt;/span>
+&amp;lt;&lt;span style="color:#f92672">title&lt;/span>&amp;gt;Title&amp;lt;/&lt;span style="color:#f92672">title&lt;/span>&amp;gt;
+&amp;lt;&lt;span style="color:#f92672">style&lt;/span>&amp;gt;&lt;span style="color:#f92672">body&lt;/span> {&lt;span style="color:#66d9ef">width&lt;/span>: &lt;span style="color:#ae81ff">500&lt;/span>&lt;span style="color:#66d9ef">px&lt;/span>;}&amp;lt;/&lt;span style="color:#f92672">style&lt;/span>&amp;gt;
+&amp;lt;&lt;span style="color:#f92672">script&lt;/span> &lt;span style="color:#a6e22e">type&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;application/javascript&amp;#34;&lt;/span>&amp;gt;
+&lt;span style="color:#66d9ef">function&lt;/span> &lt;span style="color:#a6e22e">$init&lt;/span>() {&lt;span style="color:#66d9ef">return&lt;/span> &lt;span style="color:#66d9ef">true&lt;/span>;}
+&amp;lt;/&lt;span style="color:#f92672">script&lt;/span>&amp;gt;
+&amp;lt;&lt;span style="color:#f92672">body&lt;/span>&amp;gt;
+&amp;lt;&lt;span style="color:#f92672">p&lt;/span> &lt;span style="color:#a6e22e">checked&lt;/span> &lt;span style="color:#a6e22e">class&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;title&amp;#34;&lt;/span> &lt;span style="color:#a6e22e">id&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;title&amp;#39;&lt;/span>&amp;gt;Title&amp;lt;/&lt;span style="color:#f92672">p&lt;/span>&amp;gt;
+&lt;span style="color:#75715e">&amp;lt;!-- here goes the rest of the page --&amp;gt;&lt;/span>
+&amp;lt;/&lt;span style="color:#f92672">body&lt;/span>&amp;gt;&lt;/code>&lt;/pre>&lt;/div>
+&lt;div class="alert alert-primary">
+&lt;div>
+This is a primary alert—check it out!
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-secondary">
+&lt;div>
+This is a secondary alert—check it out!
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-success">
+&lt;div>
+This is a success alert—check it out!
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-info">
+&lt;div>
+This is a info alert—check it out!
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-warning">
+&lt;div>
+This is a warning alert—check it out!
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-danger">
+&lt;div>
+This is a danger alert—check it out!
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-dark">
+&lt;div>
+This is a dark alert—check it out!
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-light">
+&lt;div>
+This is a light alert—check it out!
+&lt;/div>
+&lt;/div></description></item></channel></rss>

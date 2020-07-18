@@ -1,27 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Books | Dmitrijev.ru</title>
-    <link>https://dmitrijev.ru/tag/books/</link>
-      <atom:link href="https://dmitrijev.ru/tag/books/index.xml" rel="self" type="application/rss+xml" />
-    <description>Books</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru</language><copyright>© Vladimir Dmitrijev 2003-2020</copyright><lastBuildDate>Sun, 05 Jul 2020 21:30:13 +0300</lastBuildDate>
-    <image>
-      <url>https://dmitrijev.ru/images/icon_hu4f7f1b8434ceb601df928cdf3e46831d_46965_512x512_fill_lanczos_center_2.png</url>
-      <title>Books</title>
-      <link>https://dmitrijev.ru/tag/books/</link>
-    </image>
-    
-    <item>
-      <title>Оруэлл «1984»</title>
-      <link>https://dmitrijev.ru/blog/orwell-1984/</link>
-      <pubDate>Sun, 05 Jul 2020 21:30:13 +0300</pubDate>
-      <guid>https://dmitrijev.ru/blog/orwell-1984/</guid>
-      <description>&lt;p&gt;За день упоминание о романе Джорджа Оруэлла &lt;strong&gt;«1984»&lt;/strong&gt; встретил 3 раза. Редкое совпадение. Правда, иногда подразумевали и &lt;strong&gt;«Скотный Двор»&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Разговор шёл про то, что все равны и про страну, где правит одна партия.&lt;br&gt;
-Видимо, &lt;strong&gt;«1984»&lt;/strong&gt; надо прочитать.&lt;br&gt;
-&lt;strong&gt;«Скотный двор»&lt;/strong&gt; читал несколько раз и даже в разных переводах. Кстати, от перевода зависит многое, но это я заметил при чтении других книг, в частности, Каттнера про прохфессора, но это уже другая история&lt;/p&gt;</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Books | Dmitrijev.ru</title><link>https://dmitrijev.ru/tag/books/</link><atom:link href="https://dmitrijev.ru/tag/books/index.xml" rel="self" type="application/rss+xml"/><description>Books</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ru</language><copyright>© Vladimir Dmitrijev 2003-2020</copyright><lastBuildDate>Sun, 05 Jul 2020 21:30:13 +0300</lastBuildDate><image><url>https://dmitrijev.ru/images/icon_hu4f7f1b8434ceb601df928cdf3e46831d_46965_512x512_fill_lanczos_center_2.png</url><title>Books</title><link>https://dmitrijev.ru/tag/books/</link></image><item><title>Оруэлл «1984»</title><link>https://dmitrijev.ru/blog/orwell-1984/</link><pubDate>Sun, 05 Jul 2020 21:30:13 +0300</pubDate><guid>https://dmitrijev.ru/blog/orwell-1984/</guid><description>&lt;p>За день упоминание о романе Джорджа Оруэлла &lt;strong>«1984»&lt;/strong> встретил 3 раза. Редкое совпадение. Правда, иногда подразумевали и &lt;strong>«Скотный Двор»&lt;/strong>&lt;/p>
+&lt;p>Разговор шёл про то, что все равны и про страну, где правит одна партия.&lt;br>
+Видимо, &lt;strong>«1984»&lt;/strong> надо прочитать.&lt;br>
+&lt;strong>«Скотный двор»&lt;/strong> читал несколько раз и даже в разных переводах. Кстати, от перевода зависит многое, но это я заметил при чтении других книг, в частности, Каттнера про прохфессора, но это уже другая история&lt;/p></description></item></channel></rss>
