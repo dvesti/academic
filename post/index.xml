@@ -103,6 +103,16 @@ Note right of John: Rational thoughts!
 John--&amp;gt;&amp;gt;Alice: Great!
 John-&amp;gt;&amp;gt;Bob: How about you?
 Bob--&amp;gt;&amp;gt;John: Jolly good!
+&lt;/code>&lt;/pre>
+&lt;pre>&lt;code>```mermaid
+pie title NETFLIX
+&amp;quot;Time spent looking for movie&amp;quot; : 90
+&amp;quot;Time spent watching it&amp;quot; : 10
+```
+&lt;/code>&lt;/pre>
+&lt;pre>&lt;code class="language-mermaid">pie title NETFLIX
+&amp;quot;Time spent looking for movie&amp;quot; : 90
+&amp;quot;Time spent watching it&amp;quot; : 10
 &lt;/code>&lt;/pre></description></item><item><title>Программа «A»</title><link>https://dmitrijev.ru/blog/pogramma-a/</link><pubDate>Mon, 18 May 2020 02:56:17 +0300</pubDate><guid>https://dmitrijev.ru/blog/pogramma-a/</guid><description>&lt;p>Всем привет!&lt;/p>
 &lt;div class="alert alert-note">
 &lt;div>

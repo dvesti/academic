@@ -69,4 +69,14 @@ Note right of John: Rational thoughts!
 John--&amp;gt;&amp;gt;Alice: Great!
 John-&amp;gt;&amp;gt;Bob: How about you?
 Bob--&amp;gt;&amp;gt;John: Jolly good!
+&lt;/code>&lt;/pre>
+&lt;pre>&lt;code>```mermaid
+pie title NETFLIX
+&amp;quot;Time spent looking for movie&amp;quot; : 90
+&amp;quot;Time spent watching it&amp;quot; : 10
+```
+&lt;/code>&lt;/pre>
+&lt;pre>&lt;code class="language-mermaid">pie title NETFLIX
+&amp;quot;Time spent looking for movie&amp;quot; : 90
+&amp;quot;Time spent watching it&amp;quot; : 10
 &lt;/code>&lt;/pre></description></item></channel></rss>
